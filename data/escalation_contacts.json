@@ -1,0 +1,20 @@
+{
+  "verified_on": "2026-10-09",
+  "rule": "Every contact below was read from the cached official page named in `source` (data/raw/). Numbers found only in news/secondary sources are excluded.",
+  "contacts": [
+    {"id": "police_emergency", "label": "Police (emergency)", "value": "999", "when": "Immediate danger, illegal lock-out with no shelter, threats or violence",
+     "source": "uae-gov-emergencies", "url": "https://u.ae/en/information-and-services/justice-safety-and-the-law/Safety/handling-emergencies",
+     "quote": "998 for ambulance, 999 for police"},
+    {"id": "dubai_police_al_ameen", "label": "Dubai Police - Al Ameen service", "value": "800 4444 (from abroad +971 800 4444)", "when": "Reporting a concern confidentially / non-emergency",
+     "source": "uae-gov-emergencies", "url": "https://u.ae/en/information-and-services/justice-safety-and-the-law/Safety/handling-emergencies",
+     "quote": "Dubai Police through their Al Ameen service by calling on 8004444 from within the UAE"},
+    {"id": "rdc", "label": "Rental Disputes Center (RDC)", "value": "+971 800 4484", "when": "Filing or asking about a rental dispute, urgent/interim relief",
+     "source": "rdc-contact", "url": "https://rdc.gov.ae/en/contact-us", "quote": "You can reach us via phone on the below number +971 - 8004484"},
+    {"id": "dld", "label": "Dubai Land Department call centre", "value": "+971 800 4488", "when": "Ejari, Rental Index and general DLD services",
+     "source": "dld-contact", "url": "https://dubailand.gov.ae/en/contact-us/", "quote": "Just give us a call at this number +971 - 8004488"}
+  ],
+  "excluded": [
+    {"value": "901", "reason": "Widely reported as Dubai Police non-emergency line, but the cached u.ae page attributes 901 to Sharjah Police (Najeed); not attributable to Dubai Police from an official cached source."}
+  ],
+  "note": "The RDC and DLD official pages list different numbers (8004484 vs 8004488); both are shown with their own source."
+}

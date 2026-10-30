@@ -1,0 +1,248 @@
+{"text": "What are the landlord's obligations during the lease in Dubai?", "intent": "factual", "group": "s000", "origin": "seed", "max_sim_to_eval": 0.729, "split": "train"}
+{"text": "Hey, can you give me the rundown on landlord's obligations during lease in Dubai?", "intent": "factual", "group": "s000", "origin": "llm_paraphrase", "max_sim_to_eval": 0.716, "split": "train"}
+{"text": "Does the rent include use of the gym and pool in my building?", "intent": "factual", "group": "s001", "origin": "seed", "max_sim_to_eval": 0.63, "split": "train"}
+{"text": "Hey, do the bills include gym and pool use in ur building?", "intent": "factual", "group": "s001", "origin": "llm_paraphrase", "max_sim_to_eval": 0.587, "split": "train"}
+{"text": "Wanna know if gym and pool use is free with rent?", "intent": "factual", "group": "s001", "origin": "llm_paraphrase", "max_sim_to_eval": 0.602, "split": "train"}
+{"text": "Who pays the municipality fees, tenant or owner?", "intent": "factual", "group": "s002", "origin": "seed", "max_sim_to_eval": 0.614, "split": "train"}
+{"text": "Hey, do the municipality fees go to the tenant or the owner, mate?", "intent": "factual", "group": "s002", "origin": "llm_paraphrase", "max_sim_to_eval": 0.627, "split": "train"}
+{"text": "Hi, do we tenants or the owners end up paying the municipality fees?", "intent": "factual", "group": "s002", "origin": "llm_paraphrase", "max_sim_to_eval": 0.624, "split": "train"}
+{"text": "can landlord enter my flat without asking me", "intent": "factual", "group": "s003", "origin": "seed", "max_sim_to_eval": 0.727, "split": "train"}
+{"text": "Is a verbal tenancy agreement valid in Dubai?", "intent": "factual", "group": "s004", "origin": "seed", "max_sim_to_eval": 0.736, "split": "val"}
+{"text": "What happens to my lease if the landlord dies?", "intent": "factual", "group": "s005", "origin": "seed", "max_sim_to_eval": 0.844, "split": "train"}
+{"text": "If my landlord passes, what happens to my lease? 😕", "intent": "factual", "group": "s005", "origin": "llm_paraphrase", "max_sim_to_eval": 0.792, "split": "train"}
+{"text": "If my joker landlord dies, what's gonna happen with my lease agreement? 🤔", "intent": "factual", "group": "s005", "origin": "llm_paraphrase", "max_sim_to_eval": 0.764, "split": "train"}
+{"text": "Can I take the shelves and fittings I installed when I leave?", "intent": "factual", "group": "s006", "origin": "seed", "max_sim_to_eval": 0.659, "split": "val"}
+{"text": "I installed some shelves and fittings, can I take them with me when I go?", "intent": "factual", "group": "s006", "origin": "llm_paraphrase", "max_sim_to_eval": 0.604, "split": "val"}
+{"text": "my landlord wants to change the contract terms in the middle of the year, is it allowed", "intent": "factual", "group": "s007", "origin": "seed", "max_sim_to_eval": 0.742, "split": "val"}
+{"text": "Does the tenancy law apply to apartments in free zones?", "intent": "factual", "group": "s008", "origin": "seed", "max_sim_to_eval": 0.718, "split": "train"}
+{"text": "Hey, does the law for renting apartments in free zones apply?", "intent": "factual", "group": "s008", "origin": "llm_paraphrase", "max_sim_to_eval": 0.746, "split": "train"}
+{"text": "In the free zones, do we follow the same rules as in other areas?", "intent": "factual", "group": "s008", "origin": "llm_paraphrase", "max_sim_to_eval": 0.622, "split": "train"}
+{"text": "Does renting in free zones have different laws compared to other parts of Dubai?", "intent": "factual", "group": "s008", "origin": "llm_paraphrase", "max_sim_to_eval": 0.741, "split": "train"}
+{"text": "What counts as a valid reason for eviction before the contract ends?", "intent": "factual", "group": "s009", "origin": "seed", "max_sim_to_eval": 0.768, "split": "train"}
+{"text": "If the landlord sells the building, does my contract still hold?", "intent": "factual", "group": "s010", "origin": "seed", "max_sim_to_eval": 0.763, "split": "test"}
+{"text": "If the landlord sells the building, will my lease still be in effect?", "intent": "factual", "group": "s010", "origin": "llm_paraphrase", "max_sim_to_eval": 0.8, "split": "test"}
+{"text": "what is ejari and why it is needed", "intent": "factual", "group": "s012", "origin": "seed", "max_sim_to_eval": 0.642, "split": "train"}
+{"text": "Hey, what's up with ejari and why do we need it?", "intent": "factual", "group": "s012", "origin": "llm_paraphrase", "max_sim_to_eval": 0.628, "split": "train"}
+{"text": "Can the owner raise rent at any time or only at renewal?", "intent": "factual", "group": "s013", "origin": "seed", "max_sim_to_eval": 0.756, "split": "train"}
+{"text": "Can the owner bump up the rent anytime or just at lease renewal?", "intent": "factual", "group": "s013", "origin": "llm_paraphrase", "max_sim_to_eval": 0.773, "split": "train"}
+{"text": "At what point can the owner jack up the rent, at lease renewal time only?", "intent": "factual", "group": "s013", "origin": "llm_paraphrase", "max_sim_to_eval": 0.726, "split": "train"}
+{"text": "Who is responsible for repairs caused by normal wear and tear?", "intent": "factual", "group": "s014", "origin": "seed", "max_sim_to_eval": 0.644, "split": "train"}
+{"text": "Who's in charge of fixing stuff that wears out naturally?", "intent": "factual", "group": "s014", "origin": "llm_paraphrase", "max_sim_to_eval": 0.605, "split": "train"}
+{"text": "Whos' responsible for things that get old and break?", "intent": "factual", "group": "s014", "origin": "llm_paraphrase", "max_sim_to_eval": 0.545, "split": "train"}
+{"text": "Who fixes stuff that just wears out?", "intent": "factual", "group": "s014", "origin": "llm_paraphrase", "max_sim_to_eval": 0.602, "split": "train"}
+{"text": "Is it legal for the landlord to refuse to renew because he wants more money?", "intent": "factual", "group": "s015", "origin": "seed", "max_sim_to_eval": 0.73, "split": "train"}
+{"text": "Is ur landlord legit for not renewin cuz he wanna get more dough?", "intent": "factual", "group": "s015", "origin": "llm_paraphrase", "max_sim_to_eval": 0.734, "split": "train"}
+{"text": "Can my jinni landlady say no renewal 'cause she wants more cash?", "intent": "factual", "group": "s015", "origin": "llm_paraphrase", "max_sim_to_eval": 0.664, "split": "train"}
+{"text": "how long is a tenancy contract if no end date is written", "intent": "factual", "group": "s016", "origin": "seed", "max_sim_to_eval": 0.681, "split": "train"}
+{"text": "Does the law say anything about subletting a room to a friend?", "intent": "factual", "group": "s017", "origin": "seed", "max_sim_to_eval": 0.751, "split": "test"}
+{"text": "Does the law say anything about letting out a room to a friend?", "intent": "factual", "group": "s017", "origin": "llm_paraphrase", "max_sim_to_eval": 0.68, "split": "test"}
+{"text": "What did the 2008 amendment change about evictions?", "intent": "factual", "group": "s018", "origin": "seed", "max_sim_to_eval": 0.81, "split": "train"}
+{"text": "How did the 2008 thing affect evicting people from their places? Can you tell me about it?", "intent": "factual", "group": "s018", "origin": "llm_paraphrase", "max_sim_to_eval": 0.679, "split": "train"}
+{"text": "Is the smart rental index binding on my landlord?", "intent": "factual", "group": "s019", "origin": "seed", "max_sim_to_eval": 0.705, "split": "test"}
+{"text": "Is the smart rental index rule for my landlord?", "intent": "factual", "group": "s019", "origin": "llm_paraphrase", "max_sim_to_eval": 0.732, "split": "test"}
+{"text": "My rent is 90,000 and the index says similar units go for 120,000. What is the maximum increase?", "intent": "calculation", "group": "s020", "origin": "seed", "max_sim_to_eval": 0.784, "split": "train"}
+{"text": "My rent 90k and similar units 120k. What increase?", "intent": "calculation", "group": "s020", "origin": "llm_paraphrase", "max_sim_to_eval": 0.79, "split": "train"}
+{"text": "My rent is 90k and index says similar units go for 120k. How much increase?", "intent": "calculation", "group": "s020", "origin": "llm_paraphrase", "max_sim_to_eval": 0.789, "split": "train"}
+{"text": "Landlord notified me 60 days before expiry about a rent hike - is that enough notice?", "intent": "calculation", "group": "s023", "origin": "seed", "max_sim_to_eval": 0.787, "split": "train"}
+{"text": "Hey Landlord, they said they'll notify me 60 days before my rent goes up, is that enough time? Seems like a bit of a short notice to me. 😢", "intent": "calculation", "group": "s023", "origin": "llm_paraphrase", "max_sim_to_eval": 0.744, "split": "train"}
+{"text": "Landlord, they said they'd give me 60 days notice for rent hike, is that enough time? Feelin' like it's not much notice. 🙄", "intent": "calculation", "group": "s023", "origin": "llm_paraphrase", "max_sim_to_eval": 0.718, "split": "train"}
+{"text": "how much percent can he increase if my rent is 30% below market", "intent": "calculation", "group": "s024", "origin": "seed", "max_sim_to_eval": 0.717, "split": "train"}
+{"text": "If my rent is 30% less than the market, how much can he increase it by?", "intent": "calculation", "group": "s024", "origin": "llm_paraphrase", "max_sim_to_eval": 0.736, "split": "train"}
+{"text": "My contract expires on 15 March 2027. By what date must the landlord tell me about a rent change?", "intent": "calculation", "group": "s025", "origin": "seed", "max_sim_to_eval": 0.782, "split": "test"}
+{"text": "My contract is done on 15th March 2027. When should I get a notice if the rent is going up?", "intent": "calculation", "group": "s025", "origin": "llm_paraphrase", "max_sim_to_eval": 0.805, "split": "test"}
+{"text": "What would the filing fee be for a rent claim of AED 12,000?", "intent": "calculation", "group": "s026", "origin": "seed", "max_sim_to_eval": 0.754, "split": "train"}
+{"text": "Hey, what's the filing fee for a rent claim of 12K AED?", "intent": "calculation", "group": "s026", "origin": "llm_paraphrase", "max_sim_to_eval": 0.77, "split": "train"}
+{"text": "I pay 72k and comparable flats are 80k, can rent go up?", "intent": "calculation", "group": "s027", "origin": "seed", "max_sim_to_eval": 0.839, "split": "train"}
+{"text": "He gave me eviction notice on 1 Jan 2026 to leave by 1 July 2026 because he is selling. Is the timing ok?", "intent": "calculation", "group": "s028", "origin": "seed", "max_sim_to_eval": 0.754, "split": "train"}
+{"text": "what is the max new rent if current is 100000 and index average 160000", "intent": "calculation", "group": "s029", "origin": "seed", "max_sim_to_eval": 0.669, "split": "test"}
+{"text": "If my current rent is 100,000 and the average index is 160,000, what's the max new rent?", "intent": "calculation", "group": "s029", "origin": "llm_paraphrase", "max_sim_to_eval": 0.759, "split": "test"}
+{"text": "If current rent is 100k and the index average 160k, what's the max new rent?", "intent": "calculation", "group": "s029", "origin": "llm_paraphrase", "max_sim_to_eval": 0.712, "split": "test"}
+{"text": "How many days do I have left to respond if the notice was served on 3 May?", "intent": "calculation", "group": "s030", "origin": "seed", "max_sim_to_eval": 0.598, "split": "train"}
+{"text": "Hey, how many days left til my response is due if the notice came on 3 May?", "intent": "calculation", "group": "s030", "origin": "llm_paraphrase", "max_sim_to_eval": 0.605, "split": "train"}
+{"text": "Work out the cap: annual rent AED 58,000, average for the area AED 70,000", "intent": "calculation", "group": "s031", "origin": "seed", "max_sim_to_eval": 0.717, "split": "train"}
+{"text": "Hey, can you calculate the cap for annual rent AED 58k and the average for the area AED 70k?", "intent": "calculation", "group": "s031", "origin": "llm_paraphrase", "max_sim_to_eval": 0.705, "split": "train"}
+{"text": "Can you find out the cap for the annual rent AED 58k and the avg. AED 70k for the area, please?", "intent": "calculation", "group": "s031", "origin": "llm_paraphrase", "max_sim_to_eval": 0.693, "split": "train"}
+{"text": "For an annual rent of AED 58k and an average of AED 70k for the area, can you determine the cap, please?", "intent": "calculation", "group": "s031", "origin": "llm_paraphrase", "max_sim_to_eval": 0.698, "split": "train"}
+{"text": "rent 1.2 lakh, market 1.5 lakh, how much landlord can add", "intent": "calculation", "group": "s032", "origin": "seed", "max_sim_to_eval": 0.724, "split": "train"}
+{"text": "Hey, can the landlord add some more to the rent? It's asking for 1.2 lakh, but the market is at 1.5 lakh.", "intent": "calculation", "group": "s032", "origin": "llm_paraphrase", "max_sim_to_eval": 0.747, "split": "train"}
+{"text": "Is a 10% increase ok if my rent is 15% below the average?", "intent": "calculation", "group": "s033", "origin": "seed", "max_sim_to_eval": 0.78, "split": "val"}
+{"text": "Hey, can a 10% bump be okay when my rent is already 15% less than the average?", "intent": "calculation", "group": "s033", "origin": "llm_paraphrase", "max_sim_to_eval": 0.729, "split": "val"}
+{"text": "Can a 10% rise be alright if my rent is 15% cheaper than the usual?", "intent": "calculation", "group": "s033", "origin": "llm_paraphrase", "max_sim_to_eval": 0.737, "split": "val"}
+{"text": "Notice came 100 days before my contract ends, does it meet the requirement?", "intent": "calculation", "group": "s035", "origin": "seed", "max_sim_to_eval": 0.652, "split": "train"}
+{"text": "Hey, the notice came 100 days before my contract ends, is that good enough?", "intent": "calculation", "group": "s035", "origin": "llm_paraphrase", "max_sim_to_eval": 0.646, "split": "train"}
+{"text": "Landlord asks for 8% more, my rent is 40% under the index. Allowed?", "intent": "calculation", "group": "s036", "origin": "seed", "max_sim_to_eval": 0.799, "split": "val"}
+{"text": "Landlord, you wanna hike my rent by 8%? My rent's 40% under the index. Is that alright?", "intent": "calculation", "group": "s036", "origin": "llm_paraphrase", "max_sim_to_eval": 0.769, "split": "val"}
+{"text": "How do I file a rental dispute case online?", "intent": "procedural", "group": "s037", "origin": "seed", "max_sim_to_eval": 0.794, "split": "train"}
+{"text": "Hey, can you tell me how to file a rental issue online in Dubai?", "intent": "procedural", "group": "s037", "origin": "llm_paraphrase", "max_sim_to_eval": 0.716, "split": "train"}
+{"text": "Wanna know how to do rental dispute stuff online here in Dubai?", "intent": "procedural", "group": "s037", "origin": "llm_paraphrase", "max_sim_to_eval": 0.673, "split": "train"}
+{"text": "where can i register my tenancy contract", "intent": "procedural", "group": "s038", "origin": "seed", "max_sim_to_eval": 0.817, "split": "train"}
+{"text": "Hey, where can I sign up my tenancy deal? 😄", "intent": "procedural", "group": "s038", "origin": "llm_paraphrase", "max_sim_to_eval": 0.721, "split": "train"}
+{"text": "Yo, where can I register my tenancy agreement? 🏡", "intent": "procedural", "group": "s038", "origin": "llm_paraphrase", "max_sim_to_eval": 0.788, "split": "train"}
+{"text": "How do I check the rental index for my building?", "intent": "procedural", "group": "s040", "origin": "seed", "max_sim_to_eval": 0.732, "split": "train"}
+{"text": "Bro, how do I see the rental index for my place?", "intent": "procedural", "group": "s040", "origin": "llm_paraphrase", "max_sim_to_eval": 0.71, "split": "train"}
+{"text": "Hey there, could you guide me on checking the rental index for our building?", "intent": "procedural", "group": "s040", "origin": "llm_paraphrase", "max_sim_to_eval": 0.701, "split": "train"}
+{"text": "Steps to renew Ejari through the Dubai REST app?", "intent": "procedural", "group": "s041", "origin": "seed", "max_sim_to_eval": 0.806, "split": "train"}
+{"text": "Bhai, mujhe Dubai REST app se Ejari ka renewal process ka help paday ga?", "intent": "procedural", "group": "s041", "origin": "llm_paraphrase", "max_sim_to_eval": 0.771, "split": "train"}
+{"text": "how to cancel ejari when I move out", "intent": "procedural", "group": "s042", "origin": "seed", "max_sim_to_eval": 0.621, "split": "train"}
+{"text": "Hey, can you guide me on how to cancel my EJARI when I'm moving out?", "intent": "procedural", "group": "s042", "origin": "llm_paraphrase", "max_sim_to_eval": 0.599, "split": "train"}
+{"text": "Buddy, I need help with cancelling my EJARI when I'm leaving the place. Can you assist?", "intent": "procedural", "group": "s042", "origin": "llm_paraphrase", "max_sim_to_eval": 0.604, "split": "train"}
+{"text": "Hello there, I’m trying to figure out how to cancel my EJARI lease when it’s time for me to move. Any tips would be appreciated!", "intent": "procedural", "group": "s042", "origin": "llm_paraphrase", "max_sim_to_eval": 0.595, "split": "train"}
+{"text": "How can I deposit rent with the RDC if the landlord won't accept it?", "intent": "procedural", "group": "s043", "origin": "seed", "max_sim_to_eval": 0.79, "split": "val"}
+{"text": "Hey, can you help me with RDC for my rent? The landlord won't take it.", "intent": "procedural", "group": "s043", "origin": "llm_paraphrase", "max_sim_to_eval": 0.775, "split": "val"}
+{"text": "RDC for rent, but the landlord won't accept. Can you sort this out?", "intent": "procedural", "group": "s043", "origin": "llm_paraphrase", "max_sim_to_eval": 0.767, "split": "val"}
+{"text": "Hey, need help with RDC for rent - the landlord won't take it. Can you assist?", "intent": "procedural", "group": "s043", "origin": "llm_paraphrase", "max_sim_to_eval": 0.752, "split": "val"}
+{"text": "Hey, can you tell me the process to appeal an RDC decision? 😊", "intent": "procedural", "group": "s044", "origin": "llm_paraphrase", "max_sim_to_eval": 0.844, "split": "test"}
+{"text": "Dude, how do I go about appealing an RDC decision? 🤔", "intent": "procedural", "group": "s044", "origin": "llm_paraphrase", "max_sim_to_eval": 0.831, "split": "test"}
+{"text": "How do I get a copy of my Ejari certificate?", "intent": "procedural", "group": "s045", "origin": "seed", "max_sim_to_eval": 0.682, "split": "train"}
+{"text": "Hey, can you help me grab a copy of my Ejari certificate, please?", "intent": "procedural", "group": "s045", "origin": "llm_paraphrase", "max_sim_to_eval": 0.657, "split": "train"}
+{"text": "Bro, I need a copy of my Ejari certificate, can you show me how?", "intent": "procedural", "group": "s045", "origin": "llm_paraphrase", "max_sim_to_eval": 0.672, "split": "train"}
+{"text": "Excuse me, I'm looking for a copy of my Ejari certificate, can you guide me on this?", "intent": "procedural", "group": "s045", "origin": "llm_paraphrase", "max_sim_to_eval": 0.634, "split": "train"}
+{"text": "Can I attend the RDC hearing online, and how?", "intent": "procedural", "group": "s046", "origin": "seed", "max_sim_to_eval": 0.64, "split": "val"}
+{"text": "how long does RDC take to decide a case", "intent": "procedural", "group": "s047", "origin": "seed", "max_sim_to_eval": 0.786, "split": "train"}
+{"text": "Hey, how long does it take RDC to make up their minds on a case?", "intent": "procedural", "group": "s047", "origin": "llm_paraphrase", "max_sim_to_eval": 0.747, "split": "train"}
+{"text": "Where do I pay the RDC fees?", "intent": "procedural", "group": "s048", "origin": "seed", "max_sim_to_eval": 0.727, "split": "train"}
+{"text": "What do I need to bring to a real estate trustee centre for Ejari?", "intent": "procedural", "group": "s049", "origin": "seed", "max_sim_to_eval": 0.727, "split": "train"}
+{"text": "Hey, what docs do I need for the Ejari centre?", "intent": "procedural", "group": "s049", "origin": "llm_paraphrase", "max_sim_to_eval": 0.64, "split": "train"}
+{"text": "Need to bring what to the Ejari centre, anyone?", "intent": "procedural", "group": "s049", "origin": "llm_paraphrase", "max_sim_to_eval": 0.646, "split": "train"}
+{"text": "Hey, what papers do I need for Ejari trustee center?", "intent": "procedural", "group": "s049", "origin": "llm_paraphrase", "max_sim_to_eval": 0.695, "split": "train"}
+{"text": "How do I serve a notice through a notary public in Dubai?", "intent": "procedural", "group": "s050", "origin": "seed", "max_sim_to_eval": 0.626, "split": "train"}
+{"text": "Hey, can you tell me how to give a notice using a notary here in Dubai?", "intent": "procedural", "group": "s050", "origin": "llm_paraphrase", "max_sim_to_eval": 0.62, "split": "train"}
+{"text": "I need help serving a notice using a notary public in Dubai. Can you guide me?", "intent": "procedural", "group": "s050", "origin": "llm_paraphrase", "max_sim_to_eval": 0.588, "split": "train"}
+{"text": "how to apply payment writ to get my deposit back", "intent": "procedural", "group": "s051", "origin": "seed", "max_sim_to_eval": 0.745, "split": "test"}
+{"text": "Hey, can you guide me on how to use a payment writ to get my deposit back?", "intent": "procedural", "group": "s051", "origin": "llm_paraphrase", "max_sim_to_eval": 0.767, "split": "test"}
+{"text": "Can my wife register Ejari on my behalf with a power of attorney?", "intent": "procedural", "group": "s052", "origin": "seed", "max_sim_to_eval": 0.72, "split": "train"}
+{"text": "Can my wife register Ejari on my behalf with a POA?", "intent": "procedural", "group": "s052", "origin": "llm_paraphrase", "max_sim_to_eval": 0.708, "split": "train"}
+{"text": "Can my wife do Ejari with POA?", "intent": "procedural", "group": "s052", "origin": "llm_paraphrase", "max_sim_to_eval": 0.601, "split": "train"}
+{"text": "What are the working hours of the Rental Disputes Center?", "intent": "procedural", "group": "s053", "origin": "seed", "max_sim_to_eval": 0.771, "split": "train"}
+{"text": "Hey, do they open on weekends? Rental Disputes Center working hours, anyone?", "intent": "procedural", "group": "s053", "origin": "llm_paraphrase", "max_sim_to_eval": 0.667, "split": "train"}
+{"text": "Yo, what time do they open in the Rental Disputes Center? I'm looking to know.", "intent": "procedural", "group": "s053", "origin": "llm_paraphrase", "max_sim_to_eval": 0.712, "split": "train"}
+{"text": "In the Rental Disputes Center, how early do they start working?", "intent": "procedural", "group": "s053", "origin": "llm_paraphrase", "max_sim_to_eval": 0.687, "split": "train"}
+{"text": "how to update my building classification in the rental index", "intent": "procedural", "group": "s054", "origin": "seed", "max_sim_to_eval": 0.696, "split": "train"}
+{"text": "Hey, can you help me update my building's classification in the rental index? I need to do this ASAP.", "intent": "procedural", "group": "s054", "origin": "llm_paraphrase", "max_sim_to_eval": 0.637, "split": "train"}
+{"text": "Yo, I'm trying to update my building's classification in the rental index. Can you guide me on how to do it? Please, I really need this done.", "intent": "procedural", "group": "s054", "origin": "llm_paraphrase", "max_sim_to_eval": 0.608, "split": "train"}
+{"text": "I want to change the classification of my building in the rental index. Could you explain how to do that?", "intent": "procedural", "group": "s054", "origin": "llm_paraphrase", "max_sim_to_eval": 0.656, "split": "train"}
+{"text": "How do I track the status of my rental case?", "intent": "procedural", "group": "s055", "origin": "seed", "max_sim_to_eval": 0.682, "split": "val"}
+{"text": "Hey, can you tell me where is my rental case status? :)", "intent": "procedural", "group": "s055", "origin": "llm_paraphrase", "max_sim_to_eval": 0.656, "split": "val"}
+{"text": "Hey, how do I check the status of my rental case? :/", "intent": "procedural", "group": "s055", "origin": "llm_paraphrase", "max_sim_to_eval": 0.667, "split": "val"}
+{"text": "Which app do I use to register my lease?", "intent": "procedural", "group": "s056", "origin": "seed", "max_sim_to_eval": 0.651, "split": "test"}
+{"text": "What is the rent cap in Ajman?", "intent": "out_of_scope", "group": "s057", "origin": "seed", "max_sim_to_eval": 0.558, "split": "test"}
+{"text": "Can my landlord in Ras Al Khaimah evict me with one month notice?", "intent": "out_of_scope", "group": "s058", "origin": "seed", "max_sim_to_eval": 0.766, "split": "train"}
+{"text": "I rent an office in Business Bay for my company, can the rent be doubled?", "intent": "out_of_scope", "group": "s059", "origin": "seed", "max_sim_to_eval": 0.645, "split": "val"}
+{"text": "Hey, can we bump up the office rent to double, please? I've got a big project coming up.", "intent": "out_of_scope", "group": "s059", "origin": "llm_paraphrase", "max_sim_to_eval": 0.65, "split": "val"}
+{"text": "Boss, can we double the office rent, please? Our company's doing well.", "intent": "out_of_scope", "group": "s059", "origin": "llm_paraphrase", "max_sim_to_eval": 0.589, "split": "val"}
+{"text": "how to get a mortgage for an apartment in JVC", "intent": "out_of_scope", "group": "s060", "origin": "seed", "max_sim_to_eval": 0.566, "split": "train"}
+{"text": "I need help with getting a mortgage for an apartment in JVC, can you assist?", "intent": "out_of_scope", "group": "s060", "origin": "llm_paraphrase", "max_sim_to_eval": 0.571, "split": "train"}
+{"text": "What is the best area in Dubai to live with kids?", "intent": "out_of_scope", "group": "s061", "origin": "seed", "max_sim_to_eval": 0.571, "split": "train"}
+{"text": "Dude, any tips on where to live with kids in Dubai?", "intent": "out_of_scope", "group": "s061", "origin": "llm_paraphrase", "max_sim_to_eval": 0.656, "split": "train"}
+{"text": "How do I get a golden visa through property?", "intent": "out_of_scope", "group": "s062", "origin": "seed", "max_sim_to_eval": 0.552, "split": "train"}
+{"text": "Hey, can you help me get a golden visa through my property investment?", "intent": "out_of_scope", "group": "s062", "origin": "llm_paraphrase", "max_sim_to_eval": 0.543, "split": "train"}
+{"text": "Howzit, can you guide me on getting a golden visa with my property?", "intent": "out_of_scope", "group": "s062", "origin": "llm_paraphrase", "max_sim_to_eval": 0.544, "split": "train"}
+{"text": "my employer did not pay salary for 3 months what to do", "intent": "out_of_scope", "group": "s063", "origin": "seed", "max_sim_to_eval": 0.721, "split": "train"}
+{"text": "My boss hasn't paid my salary for 3 months, what do I do?", "intent": "out_of_scope", "group": "s063", "origin": "llm_paraphrase", "max_sim_to_eval": 0.709, "split": "train"}
+{"text": "My work hasn't given me my salary for 3 months, how should I proceed?", "intent": "out_of_scope", "group": "s063", "origin": "llm_paraphrase", "max_sim_to_eval": 0.7, "split": "train"}
+{"text": "Write a poem about Dubai", "intent": "out_of_scope", "group": "s064", "origin": "seed", "max_sim_to_eval": 0.566, "split": "test"}
+{"text": "DUBAI, can you help me make a poem?", "intent": "out_of_scope", "group": "s064", "origin": "llm_paraphrase", "max_sim_to_eval": 0.509, "split": "test"}
+{"text": "warehouse lease in Al Quoz rent increase rules", "intent": "out_of_scope", "group": "s065", "origin": "seed", "max_sim_to_eval": 0.651, "split": "train"}
+{"text": "Hey, need to check the rules for rent increase in a warehouse lease in Al Quoz. Can you help with that?", "intent": "out_of_scope", "group": "s065", "origin": "llm_paraphrase", "max_sim_to_eval": 0.666, "split": "train"}
+{"text": "Need to know the rules for when the rent for a warehouse in Al Quoz area goes up. Pls help", "intent": "out_of_scope", "group": "s065", "origin": "llm_paraphrase", "max_sim_to_eval": 0.66, "split": "train"}
+{"text": "I'm looking into the rent increase policies for a warehouse lease in Al Quoz. Any info you can share would be great!", "intent": "out_of_scope", "group": "s065", "origin": "llm_paraphrase", "max_sim_to_eval": 0.634, "split": "train"}
+{"text": "What will rents in Dubai be like in 2028?", "intent": "out_of_scope", "group": "s066", "origin": "seed", "max_sim_to_eval": 0.744, "split": "val"}
+{"text": "Mate, how much will the rent cost in Dubai in 2028?", "intent": "out_of_scope", "group": "s066", "origin": "llm_paraphrase", "max_sim_to_eval": 0.714, "split": "val"}
+{"text": "How do I register a company in a free zone?", "intent": "out_of_scope", "group": "s067", "origin": "seed", "max_sim_to_eval": 0.548, "split": "train"}
+{"text": "Hey, can you help me register a company in a free zone?", "intent": "out_of_scope", "group": "s067", "origin": "llm_paraphrase", "max_sim_to_eval": 0.572, "split": "train"}
+{"text": "I'm trying to register a biz in a free zone, can you guide me how to do it?", "intent": "out_of_scope", "group": "s067", "origin": "llm_paraphrase", "max_sim_to_eval": 0.56, "split": "train"}
+{"text": "Can you draft a tenancy contract for me?", "intent": "out_of_scope", "group": "s068", "origin": "seed", "max_sim_to_eval": 0.695, "split": "val"}
+{"text": "What are tenancy rules in Fujairah?", "intent": "out_of_scope", "group": "s069", "origin": "seed", "max_sim_to_eval": 0.682, "split": "train"}
+{"text": "Hey, can you give me the 10 rules of renting in Fujairah?", "intent": "out_of_scope", "group": "s069", "origin": "llm_paraphrase", "max_sim_to_eval": 0.683, "split": "train"}
+{"text": "Hi, I'm looking for the dos and don'ts of renting in Fujairah. Can you share them?", "intent": "out_of_scope", "group": "s069", "origin": "llm_paraphrase", "max_sim_to_eval": 0.63, "split": "train"}
+{"text": "I am trying to understand the basic rules for renting a place in Fujairah. Could you share them with me?", "intent": "out_of_scope", "group": "s069", "origin": "llm_paraphrase", "max_sim_to_eval": 0.622, "split": "train"}
+{"text": "Is it cheaper to buy or rent in Dubai right now?", "intent": "out_of_scope", "group": "s070", "origin": "seed", "max_sim_to_eval": 0.721, "split": "train"}
+{"text": "Hey, is buying cheaper or renting now in Dubai? Bro, cheaper to buy or rent in Dubai right now?", "intent": "out_of_scope", "group": "s070", "origin": "llm_paraphrase", "max_sim_to_eval": 0.624, "split": "train"}
+{"text": "how much is DEWA bill for 2 bedroom", "intent": "out_of_scope", "group": "s071", "origin": "seed", "max_sim_to_eval": 0.527, "split": "train"}
+{"text": "Hey, how much does my DEWA bill go for for a 2 bed place?", "intent": "out_of_scope", "group": "s071", "origin": "llm_paraphrase", "max_sim_to_eval": 0.617, "split": "train"}
+{"text": "Dey, kya my DEWA bill bna jaye ga 2 bed ka?", "intent": "out_of_scope", "group": "s071", "origin": "llm_paraphrase", "max_sim_to_eval": 0.531, "split": "train"}
+{"text": "Please, could you tell me the cost for DEWA bill of a 2-bedroom flat?", "intent": "out_of_scope", "group": "s071", "origin": "llm_paraphrase", "max_sim_to_eval": 0.61, "split": "train"}
+{"text": "Prepare an eviction letter template for my tenant", "intent": "out_of_scope", "group": "s072", "origin": "seed", "max_sim_to_eval": 0.84, "split": "train"}
+{"text": "Tell me a joke", "intent": "out_of_scope", "group": "s073", "origin": "seed", "max_sim_to_eval": 0.538, "split": "train"}
+{"text": "How do holiday homes licences work in Dubai?", "intent": "out_of_scope", "group": "s074", "origin": "seed", "max_sim_to_eval": 0.669, "split": "test"}
+{"text": "Hey, do holiday homes have licenses in Dubai?", "intent": "out_of_scope", "group": "s074", "origin": "llm_paraphrase", "max_sim_to_eval": 0.663, "split": "test"}
+{"text": "Resorts galore? How's the license process for holiday homes in Dubai?", "intent": "out_of_scope", "group": "s074", "origin": "llm_paraphrase", "max_sim_to_eval": 0.667, "split": "test"}
+{"text": "Should I take my landlord to the RDC or just move out?", "intent": "advice_seeking", "group": "s075", "origin": "seed", "max_sim_to_eval": 0.733, "split": "train"}
+{"text": "Hey, should I kick my landlord to the curb or just pack my bags?", "intent": "advice_seeking", "group": "s075", "origin": "llm_paraphrase", "max_sim_to_eval": 0.744, "split": "train"}
+{"text": "Should I call the RDC or just move out?", "intent": "advice_seeking", "group": "s075", "origin": "llm_paraphrase", "max_sim_to_eval": 0.643, "split": "train"}
+{"text": "Do you think I will win if I file a case?", "intent": "advice_seeking", "group": "s076", "origin": "seed", "max_sim_to_eval": 0.644, "split": "val"}
+{"text": "Hey, do you reckon I'll come out on top if I go ahead and file this case?", "intent": "advice_seeking", "group": "s076", "origin": "llm_paraphrase", "max_sim_to_eval": 0.598, "split": "val"}
+{"text": "If I file this case, do you think I'll win? I'm really unsure about it.", "intent": "advice_seeking", "group": "s076", "origin": "llm_paraphrase", "max_sim_to_eval": 0.64, "split": "val"}
+{"text": "I'm thinking of filing this case. Do you think I'll win or will I lose? I'm not sure, so I wanna hear your thoughts.", "intent": "advice_seeking", "group": "s076", "origin": "llm_paraphrase", "max_sim_to_eval": 0.603, "split": "val"}
+{"text": "What should I do, accept the increase or fight it?", "intent": "advice_seeking", "group": "s077", "origin": "seed", "max_sim_to_eval": 0.613, "split": "test"}
+{"text": "Man, what should I do? Accept the raise or fight it back?", "intent": "advice_seeking", "group": "s077", "origin": "llm_paraphrase", "max_sim_to_eval": 0.575, "split": "test"}
+{"text": "Bro, accept the raise or fight it? Man, what should I do?", "intent": "advice_seeking", "group": "s077", "origin": "llm_paraphrase", "max_sim_to_eval": 0.559, "split": "test"}
+{"text": "is it worth it to complain against landlord", "intent": "advice_seeking", "group": "s078", "origin": "seed", "max_sim_to_eval": 0.825, "split": "test"}
+{"text": "Hey, is it worth it to give my landlord a call and let them know how I feel?", "intent": "advice_seeking", "group": "s078", "origin": "llm_paraphrase", "max_sim_to_eval": 0.737, "split": "test"}
+{"text": "Bro, is it worth it to tell my landlord how I feel?", "intent": "advice_seeking", "group": "s078", "origin": "llm_paraphrase", "max_sim_to_eval": 0.749, "split": "test"}
+{"text": "Is there any point in complaining to my landlord?", "intent": "advice_seeking", "group": "s078", "origin": "llm_paraphrase", "max_sim_to_eval": 0.828, "split": "test"}
+{"text": "Should I sign the new contract with the higher rent?", "intent": "advice_seeking", "group": "s079", "origin": "seed", "max_sim_to_eval": 0.721, "split": "train"}
+{"text": "Should I go ahead with the new contract and the higher rent?", "intent": "advice_seeking", "group": "s079", "origin": "llm_paraphrase", "max_sim_to_eval": 0.718, "split": "train"}
+{"text": "Can you tell me if my case is strong enough?", "intent": "advice_seeking", "group": "s080", "origin": "seed", "max_sim_to_eval": 0.574, "split": "train"}
+{"text": "Hey, can you please check if my case is strong? 😊", "intent": "advice_seeking", "group": "s080", "origin": "llm_paraphrase", "max_sim_to_eval": 0.523, "split": "train"}
+{"text": "Can you gimme a heads up if my case is strong enough?", "intent": "advice_seeking", "group": "s080", "origin": "llm_paraphrase", "max_sim_to_eval": 0.545, "split": "train"}
+{"text": "should i stop paying rent until he fixes the leak", "intent": "advice_seeking", "group": "s081", "origin": "seed", "max_sim_to_eval": 0.717, "split": "train"}
+{"text": "What would you do in my situation with this landlord?", "intent": "advice_seeking", "group": "s082", "origin": "seed", "max_sim_to_eval": 0.747, "split": "train"}
+{"text": "Could you give me some advice on my landlord problem in Dubai?", "intent": "advice_seeking", "group": "s082", "origin": "llm_paraphrase", "max_sim_to_eval": 0.726, "split": "train"}
+{"text": "Should I hire a lawyer or go to RDC myself?", "intent": "advice_seeking", "group": "s083", "origin": "seed", "max_sim_to_eval": 0.659, "split": "train"}
+{"text": "Is it better to negotiate or file a dispute straight away?", "intent": "advice_seeking", "group": "s084", "origin": "seed", "max_sim_to_eval": 0.553, "split": "train"}
+{"text": "Hey, is it better to haggle or file a dispute immediately?", "intent": "advice_seeking", "group": "s084", "origin": "llm_paraphrase", "max_sim_to_eval": 0.541, "split": "train"}
+{"text": "how much compensation can i get if i sue", "intent": "advice_seeking", "group": "s085", "origin": "seed", "max_sim_to_eval": 0.677, "split": "val"}
+{"text": "Hey, how much can I get in compensation if I decide to sue?", "intent": "advice_seeking", "group": "s085", "origin": "llm_paraphrase", "max_sim_to_eval": 0.701, "split": "val"}
+{"text": "Should I leave before the eviction date or wait for the court?", "intent": "advice_seeking", "group": "s086", "origin": "seed", "max_sim_to_eval": 0.776, "split": "train"}
+{"text": "Hey, should I leave before the court date or wait it out?", "intent": "advice_seeking", "group": "s086", "origin": "llm_paraphrase", "max_sim_to_eval": 0.691, "split": "train"}
+{"text": "Yo, I need to know, should I leave or wait for the court, huh?", "intent": "advice_seeking", "group": "s086", "origin": "llm_paraphrase", "max_sim_to_eval": 0.624, "split": "train"}
+{"text": "Hey there, before the court date, should I leave or hold off?", "intent": "advice_seeking", "group": "s086", "origin": "llm_paraphrase", "max_sim_to_eval": 0.643, "split": "train"}
+{"text": "Will the judge believe me if I have no receipts?", "intent": "advice_seeking", "group": "s087", "origin": "seed", "max_sim_to_eval": 0.625, "split": "train"}
+{"text": "Advise me on the best strategy against my landlord", "intent": "advice_seeking", "group": "s088", "origin": "seed", "max_sim_to_eval": 0.754, "split": "train"}
+{"text": "Hey, can you help me out with a good strategy for dealing with my landlord? 😊", "intent": "advice_seeking", "group": "s088", "origin": "llm_paraphrase", "max_sim_to_eval": 0.72, "split": "train"}
+{"text": "Bro, any tips on how to handle my landlord better?", "intent": "advice_seeking", "group": "s088", "origin": "llm_paraphrase", "max_sim_to_eval": 0.714, "split": "train"}
+{"text": "Can you give me some advice on how to deal with my landlord better?", "intent": "advice_seeking", "group": "s088", "origin": "llm_paraphrase", "max_sim_to_eval": 0.774, "split": "train"}
+{"text": "should i give my landlord the extra money he wants to avoid problems", "intent": "advice_seeking", "group": "s089", "origin": "seed", "max_sim_to_eval": 0.717, "split": "test"}
+{"text": "Hey bro, should I just cough up the extra cash he wants to avoid all the drama?", "intent": "advice_seeking", "group": "s089", "origin": "llm_paraphrase", "max_sim_to_eval": 0.585, "split": "test"}
+{"text": "Dude, should I just give him the extra money to keep things smooth?", "intent": "advice_seeking", "group": "s089", "origin": "llm_paraphrase", "max_sim_to_eval": 0.569, "split": "test"}
+{"text": "Can I just give my landlord the extra cash he wants to keep things quiet?", "intent": "advice_seeking", "group": "s089", "origin": "llm_paraphrase", "max_sim_to_eval": 0.716, "split": "test"}
+{"text": "Is it a good idea to record my landlord's calls as evidence?", "intent": "advice_seeking", "group": "s090", "origin": "seed", "max_sim_to_eval": 0.703, "split": "train"}
+{"text": "Yo, I'm thinking about recording my landlord's calls. Good idea or a no-no?", "intent": "advice_seeking", "group": "s090", "origin": "llm_paraphrase", "max_sim_to_eval": 0.659, "split": "train"}
+{"text": "Am I likely to get my full deposit back if I go to RDC?", "intent": "advice_seeking", "group": "s091", "origin": "seed", "max_sim_to_eval": 0.703, "split": "val"}
+{"text": "My landlord threw my belongings on the street and changed the lock, I have my kids with me", "intent": "crisis", "group": "s092", "origin": "seed", "max_sim_to_eval": 0.802, "split": "val"}
+{"text": "My landlord dropped my stuff on the street and changed the lock, and I got my kids with me.", "intent": "crisis", "group": "s092", "origin": "llm_paraphrase", "max_sim_to_eval": 0.742, "split": "val"}
+{"text": "My landlord moved my stuff on the street and changed the lock, and my kids are with me right now.", "intent": "crisis", "group": "s092", "origin": "llm_paraphrase", "max_sim_to_eval": 0.763, "split": "val"}
+{"text": "landlord threatening to beat me if i dont leave today", "intent": "crisis", "group": "s093", "origin": "seed", "max_sim_to_eval": 0.754, "split": "test"}
+{"text": "Landlord saying he'll beat me if I don't get out today.", "intent": "crisis", "group": "s093", "origin": "llm_paraphrase", "max_sim_to_eval": 0.703, "split": "test"}
+{"text": "The owner took my passport and won't give it back", "intent": "crisis", "group": "s094", "origin": "seed", "max_sim_to_eval": 0.76, "split": "train"}
+{"text": "Owser took my passport and won't give it back.", "intent": "crisis", "group": "s094", "origin": "llm_paraphrase", "max_sim_to_eval": 0.72, "split": "train"}
+{"text": "I came home and the door lock is changed, all my medicines are inside", "intent": "crisis", "group": "s095", "origin": "seed", "max_sim_to_eval": 0.725, "split": "train"}
+{"text": "I just came home and found out my door lock was changed. My medicines are still inside.", "intent": "crisis", "group": "s095", "origin": "llm_paraphrase", "max_sim_to_eval": 0.705, "split": "train"}
+{"text": "Just came home and my lock was changed. All my meds inside.", "intent": "crisis", "group": "s095", "origin": "llm_paraphrase", "max_sim_to_eval": 0.748, "split": "train"}
+{"text": "My landlord cut the water and electricity in summer and my baby is sick", "intent": "crisis", "group": "s096", "origin": "seed", "max_sim_to_eval": 0.737, "split": "train"}
+{"text": "Help, landlord is at my door with men forcing me out right now", "intent": "crisis", "group": "s097", "origin": "seed", "max_sim_to_eval": 0.716, "split": "train"}
+{"text": "Man, my landlord and his men are at my door, they want me to leave now! 😱", "intent": "crisis", "group": "s097", "origin": "llm_paraphrase", "max_sim_to_eval": 0.707, "split": "train"}
+{"text": "Hey, landlord and his men are at my place, they wanna kick me out right now! 🚒", "intent": "crisis", "group": "s097", "origin": "llm_paraphrase", "max_sim_to_eval": 0.705, "split": "train"}
+{"text": "Landlord got some men at my place, they're trying to kick me out. Can't move! 🛡️", "intent": "crisis", "group": "s097", "origin": "llm_paraphrase", "max_sim_to_eval": 0.71, "split": "train"}
+{"text": "i have nowhere to sleep tonight, landlord kicked me out", "intent": "crisis", "group": "s098", "origin": "seed", "max_sim_to_eval": 0.786, "split": "train"}
+{"text": "No place to sleep tonight, they kicked me out.", "intent": "crisis", "group": "s098", "origin": "llm_paraphrase", "max_sim_to_eval": 0.716, "split": "train"}
+{"text": "I'm out of luck, they kicked me out tonight.", "intent": "crisis", "group": "s098", "origin": "llm_paraphrase", "max_sim_to_eval": 0.613, "split": "train"}
+{"text": "Landlord is harassing my daughter and entering the flat at night", "intent": "crisis", "group": "s099", "origin": "seed", "max_sim_to_eval": 0.741, "split": "train"}
+{"text": "He is holding my Emirates ID and passport until I pay", "intent": "crisis", "group": "s100", "origin": "seed", "max_sim_to_eval": 0.775, "split": "train"}
+{"text": "He's got my Emirates ID and passport til I pay my rent.", "intent": "crisis", "group": "s100", "origin": "llm_paraphrase", "max_sim_to_eval": 0.823, "split": "train"}
+{"text": "Landlord locked us out while we were on holiday and is renting the flat to someone else", "intent": "crisis", "group": "s101", "origin": "seed", "max_sim_to_eval": 0.674, "split": "train"}
+{"text": "Landlord locked us out while we were away and renting to someone else.", "intent": "crisis", "group": "s101", "origin": "llm_paraphrase", "max_sim_to_eval": 0.706, "split": "train"}
+{"text": "I feel unsafe, the landlord's agent keeps threatening me with violence", "intent": "crisis", "group": "s102", "origin": "seed", "max_sim_to_eval": 0.688, "split": "train"}
+{"text": "they removed my door and took my furniture, what can i do now", "intent": "crisis", "group": "s103", "origin": "seed", "max_sim_to_eval": 0.689, "split": "train"}
+{"text": "Man, they took my furniture and my door, what the heck do I do now?", "intent": "crisis", "group": "s103", "origin": "llm_paraphrase", "max_sim_to_eval": 0.698, "split": "train"}
+{"text": "They took my door and my stuff, what can I do now?", "intent": "crisis", "group": "s103", "origin": "llm_paraphrase", "max_sim_to_eval": 0.678, "split": "train"}
+{"text": "My landlord switched off the AC in 45 degree heat to force me out, my elderly mother lives with me", "intent": "crisis", "group": "s104", "origin": "seed", "max_sim_to_eval": 0.718, "split": "train"}
+{"text": "My landlord cut the AC in 40s heat, forcing my mom and me out.", "intent": "crisis", "group": "s104", "origin": "llm_paraphrase", "max_sim_to_eval": 0.748, "split": "train"}
+{"text": "My landlord cut off the AC on 40-degree heat to make us move out.", "intent": "crisis", "group": "s104", "origin": "llm_paraphrase", "max_sim_to_eval": 0.764, "split": "train"}
+{"text": "My landlord says he will cancel my visa if I complain", "intent": "crisis", "group": "s105", "origin": "seed", "max_sim_to_eval": 0.719, "split": "val"}
+{"text": "My landlady said she'll cancel my visa if I start complaining.", "intent": "crisis", "group": "s105", "origin": "llm_paraphrase", "max_sim_to_eval": 0.674, "split": "val"}
+{"text": "landlord changed locks and police said call someone else, i'm outside with luggage", "intent": "crisis", "group": "s106", "origin": "seed", "max_sim_to_eval": 0.82, "split": "train"}
+{"text": "Landlord changed locks and said to contact another person, I'm outside with my luggage.", "intent": "crisis", "group": "s106", "origin": "llm_paraphrase", "max_sim_to_eval": 0.792, "split": "train"}
+{"text": "Owner sent people to throw my stuff away today", "intent": "crisis", "group": "s107", "origin": "seed", "max_sim_to_eval": 0.658, "split": "test"}
+{"text": "Hey Owner, my stuff got thrown away by your guys today. That's no good.", "intent": "crisis", "group": "s107", "origin": "llm_paraphrase", "max_sim_to_eval": 0.662, "split": "test"}

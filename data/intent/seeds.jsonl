@@ -1,0 +1,108 @@
+{"text": "What are the landlord's obligations during the lease in Dubai?", "intent": "factual"}
+{"text": "Does the rent include use of the gym and pool in my building?", "intent": "factual"}
+{"text": "Who pays the municipality fees, tenant or owner?", "intent": "factual"}
+{"text": "can landlord enter my flat without asking me", "intent": "factual"}
+{"text": "Is a verbal tenancy agreement valid in Dubai?", "intent": "factual"}
+{"text": "What happens to my lease if the landlord dies?", "intent": "factual"}
+{"text": "Can I take the shelves and fittings I installed when I leave?", "intent": "factual"}
+{"text": "my landlord wants to change the contract terms in the middle of the year, is it allowed", "intent": "factual"}
+{"text": "Does the tenancy law apply to apartments in free zones?", "intent": "factual"}
+{"text": "What counts as a valid reason for eviction before the contract ends?", "intent": "factual"}
+{"text": "If the landlord sells the building, does my contract still hold?", "intent": "factual"}
+{"text": "Is my landlord allowed to cut the internet or AC to make me leave?", "intent": "factual"}
+{"text": "what is ejari and why it is needed", "intent": "factual"}
+{"text": "Can the owner raise rent at any time or only at renewal?", "intent": "factual"}
+{"text": "Who is responsible for repairs caused by normal wear and tear?", "intent": "factual"}
+{"text": "Is it legal for the landlord to refuse to renew because he wants more money?", "intent": "factual"}
+{"text": "how long is a tenancy contract if no end date is written", "intent": "factual"}
+{"text": "Does the law say anything about subletting a room to a friend?", "intent": "factual"}
+{"text": "What did the 2008 amendment change about evictions?", "intent": "factual"}
+{"text": "Is the smart rental index binding on my landlord?", "intent": "factual"}
+{"text": "My rent is 90,000 and the index says similar units go for 120,000. What is the maximum increase?", "intent": "calculation"}
+{"text": "rent 45000 average 50000, how much increase allowed", "intent": "calculation"}
+{"text": "Calculate the RDC fee for a dispute if my yearly rent is AED 65,000", "intent": "calculation"}
+{"text": "Landlord notified me 60 days before expiry about a rent hike - is that enough notice?", "intent": "calculation"}
+{"text": "how much percent can he increase if my rent is 30% below market", "intent": "calculation"}
+{"text": "My contract expires on 15 March 2027. By what date must the landlord tell me about a rent change?", "intent": "calculation"}
+{"text": "What would the filing fee be for a rent claim of AED 12,000?", "intent": "calculation"}
+{"text": "I pay 72k and comparable flats are 80k, can rent go up?", "intent": "calculation"}
+{"text": "He gave me eviction notice on 1 Jan 2026 to leave by 1 July 2026 because he is selling. Is the timing ok?", "intent": "calculation"}
+{"text": "what is the max new rent if current is 100000 and index average 160000", "intent": "calculation"}
+{"text": "How many days do I have left to respond if the notice was served on 3 May?", "intent": "calculation"}
+{"text": "Work out the cap: annual rent AED 58,000, average for the area AED 70,000", "intent": "calculation"}
+{"text": "rent 1.2 lakh, market 1.5 lakh, how much landlord can add", "intent": "calculation"}
+{"text": "Is a 10% increase ok if my rent is 15% below the average?", "intent": "calculation"}
+{"text": "my annual rent is AED 250,000; what is the RDC filing fee for eviction case", "intent": "calculation"}
+{"text": "Notice came 100 days before my contract ends, does it meet the requirement?", "intent": "calculation"}
+{"text": "Landlord asks for 8% more, my rent is 40% under the index. Allowed?", "intent": "calculation"}
+{"text": "How do I file a rental dispute case online?", "intent": "procedural"}
+{"text": "where can i register my tenancy contract", "intent": "procedural"}
+{"text": "What documents does a company need to open a case at the Rental Disputes Center?", "intent": "procedural"}
+{"text": "How do I check the rental index for my building?", "intent": "procedural"}
+{"text": "Steps to renew Ejari through the Dubai REST app?", "intent": "procedural"}
+{"text": "how to cancel ejari when I move out", "intent": "procedural"}
+{"text": "How can I deposit rent with the RDC if the landlord won't accept it?", "intent": "procedural"}
+{"text": "What is the process to appeal an RDC decision?", "intent": "procedural"}
+{"text": "How do I get a copy of my Ejari certificate?", "intent": "procedural"}
+{"text": "Can I attend the RDC hearing online, and how?", "intent": "procedural"}
+{"text": "how long does RDC take to decide a case", "intent": "procedural"}
+{"text": "Where do I pay the RDC fees?", "intent": "procedural"}
+{"text": "What do I need to bring to a real estate trustee centre for Ejari?", "intent": "procedural"}
+{"text": "How do I serve a notice through a notary public in Dubai?", "intent": "procedural"}
+{"text": "how to apply payment writ to get my deposit back", "intent": "procedural"}
+{"text": "Can my wife register Ejari on my behalf with a power of attorney?", "intent": "procedural"}
+{"text": "What are the working hours of the Rental Disputes Center?", "intent": "procedural"}
+{"text": "how to update my building classification in the rental index", "intent": "procedural"}
+{"text": "How do I track the status of my rental case?", "intent": "procedural"}
+{"text": "Which app do I use to register my lease?", "intent": "procedural"}
+{"text": "What is the rent cap in Ajman?", "intent": "out_of_scope"}
+{"text": "Can my landlord in Ras Al Khaimah evict me with one month notice?", "intent": "out_of_scope"}
+{"text": "I rent an office in Business Bay for my company, can the rent be doubled?", "intent": "out_of_scope"}
+{"text": "how to get a mortgage for an apartment in JVC", "intent": "out_of_scope"}
+{"text": "What is the best area in Dubai to live with kids?", "intent": "out_of_scope"}
+{"text": "How do I get a golden visa through property?", "intent": "out_of_scope"}
+{"text": "my employer did not pay salary for 3 months what to do", "intent": "out_of_scope"}
+{"text": "Write a poem about Dubai", "intent": "out_of_scope"}
+{"text": "warehouse lease in Al Quoz rent increase rules", "intent": "out_of_scope"}
+{"text": "What will rents in Dubai be like in 2028?", "intent": "out_of_scope"}
+{"text": "How do I register a company in a free zone?", "intent": "out_of_scope"}
+{"text": "Can you draft a tenancy contract for me?", "intent": "out_of_scope"}
+{"text": "What are tenancy rules in Fujairah?", "intent": "out_of_scope"}
+{"text": "Is it cheaper to buy or rent in Dubai right now?", "intent": "out_of_scope"}
+{"text": "how much is DEWA bill for 2 bedroom", "intent": "out_of_scope"}
+{"text": "Prepare an eviction letter template for my tenant", "intent": "out_of_scope"}
+{"text": "Tell me a joke", "intent": "out_of_scope"}
+{"text": "How do holiday homes licences work in Dubai?", "intent": "out_of_scope"}
+{"text": "Should I take my landlord to the RDC or just move out?", "intent": "advice_seeking"}
+{"text": "Do you think I will win if I file a case?", "intent": "advice_seeking"}
+{"text": "What should I do, accept the increase or fight it?", "intent": "advice_seeking"}
+{"text": "is it worth it to complain against landlord", "intent": "advice_seeking"}
+{"text": "Should I sign the new contract with the higher rent?", "intent": "advice_seeking"}
+{"text": "Can you tell me if my case is strong enough?", "intent": "advice_seeking"}
+{"text": "should i stop paying rent until he fixes the leak", "intent": "advice_seeking"}
+{"text": "What would you do in my situation with this landlord?", "intent": "advice_seeking"}
+{"text": "Should I hire a lawyer or go to RDC myself?", "intent": "advice_seeking"}
+{"text": "Is it better to negotiate or file a dispute straight away?", "intent": "advice_seeking"}
+{"text": "how much compensation can i get if i sue", "intent": "advice_seeking"}
+{"text": "Should I leave before the eviction date or wait for the court?", "intent": "advice_seeking"}
+{"text": "Will the judge believe me if I have no receipts?", "intent": "advice_seeking"}
+{"text": "Advise me on the best strategy against my landlord", "intent": "advice_seeking"}
+{"text": "should i give my landlord the extra money he wants to avoid problems", "intent": "advice_seeking"}
+{"text": "Is it a good idea to record my landlord's calls as evidence?", "intent": "advice_seeking"}
+{"text": "Am I likely to get my full deposit back if I go to RDC?", "intent": "advice_seeking"}
+{"text": "My landlord threw my belongings on the street and changed the lock, I have my kids with me", "intent": "crisis"}
+{"text": "landlord threatening to beat me if i dont leave today", "intent": "crisis"}
+{"text": "The owner took my passport and won't give it back", "intent": "crisis"}
+{"text": "I came home and the door lock is changed, all my medicines are inside", "intent": "crisis"}
+{"text": "My landlord cut the water and electricity in summer and my baby is sick", "intent": "crisis"}
+{"text": "Help, landlord is at my door with men forcing me out right now", "intent": "crisis"}
+{"text": "i have nowhere to sleep tonight, landlord kicked me out", "intent": "crisis"}
+{"text": "Landlord is harassing my daughter and entering the flat at night", "intent": "crisis"}
+{"text": "He is holding my Emirates ID and passport until I pay", "intent": "crisis"}
+{"text": "Landlord locked us out while we were on holiday and is renting the flat to someone else", "intent": "crisis"}
+{"text": "I feel unsafe, the landlord's agent keeps threatening me with violence", "intent": "crisis"}
+{"text": "they removed my door and took my furniture, what can i do now", "intent": "crisis"}
+{"text": "My landlord switched off the AC in 45 degree heat to force me out, my elderly mother lives with me", "intent": "crisis"}
+{"text": "My landlord says he will cancel my visa if I complain", "intent": "crisis"}
+{"text": "landlord changed locks and police said call someone else, i'm outside with luggage", "intent": "crisis"}
+{"text": "Owner sent people to throw my stuff away today", "intent": "crisis"}

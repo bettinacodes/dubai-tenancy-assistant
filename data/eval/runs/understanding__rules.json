@@ -1,0 +1,239 @@
+{
+ "model": "rules",
+ "intent_test": {
+  "n": 51,
+  "accuracy": 0.784,
+  "macro_f1": 0.787,
+  "ms_per_query": 0.3,
+  "confusion": [
+   [
+    10,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    5,
+    1,
+    0,
+    1,
+    0
+   ],
+   [
+    0,
+    0,
+    7,
+    0,
+    0,
+    0
+   ],
+   [
+    3,
+    0,
+    1,
+    4,
+    0,
+    0
+   ],
+   [
+    3,
+    0,
+    0,
+    0,
+    10,
+    0
+   ],
+   [
+    2,
+    0,
+    0,
+    0,
+    0,
+    4
+   ]
+  ],
+  "errors": [
+   {
+    "text": "My contract is done on 15th March 2027. When should I get a notice if the rent is going up?",
+    "gold": "calculation",
+    "pred": "advice_seeking"
+   },
+   {
+    "text": "How do holiday homes licences work in Dubai?",
+    "gold": "out_of_scope",
+    "pred": "factual"
+   },
+   {
+    "text": "Hey, do holiday homes have licenses in Dubai?",
+    "gold": "out_of_scope",
+    "pred": "factual"
+   },
+   {
+    "text": "Resorts galore? How's the license process for holiday homes in Dubai?",
+    "gold": "out_of_scope",
+    "pred": "procedural"
+   },
+   {
+    "text": "Is there any point in complaining to my landlord?",
+    "gold": "advice_seeking",
+    "pred": "factual"
+   },
+   {
+    "text": "Can I just give my landlord the extra cash he wants to keep things quiet?",
+    "gold": "advice_seeking",
+    "pred": "factual"
+   },
+   {
+    "text": "Hey Owner, my stuff got thrown away by your guys today. That's no good.",
+    "gold": "crisis",
+    "pred": "factual"
+   },
+   {
+    "text": "How much would it cost to file an eviction case if the rent is AED 130,000?",
+    "gold": "calculation",
+    "pred": "procedural"
+   },
+   {
+    "text": "Will I get compensation if I take him to court?",
+    "gold": "advice_seeking",
+    "pred": "factual"
+   },
+   {
+    "text": "What is the service charge for my apartment as an owner?",
+    "gold": "out_of_scope",
+    "pred": "factual"
+   },
+   {
+    "text": "My landlord's guards pushed me and took my keys",
+    "gold": "crisis",
+    "pred": "factual"
+   }
+  ]
+ },
+ "intent_val": {
+  "n": 48,
+  "accuracy": 0.875,
+  "macro_f1": 0.886,
+  "ms_per_query": 0.3,
+  "confusion": [
+   [
+    8,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    7,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    4,
+    0,
+    6,
+    0,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    0,
+    8,
+    0,
+    0
+   ],
+   [
+    0,
+    0,
+    1,
+    0,
+    8,
+    0
+   ],
+   [
+    1,
+    0,
+    0,
+    0,
+    0,
+    5
+   ]
+  ],
+  "errors": [
+   {
+    "text": "Hey, can you help me with RDC for my rent? The landlord won't take it.",
+    "gold": "procedural",
+    "pred": "factual"
+   },
+   {
+    "text": "RDC for rent, but the landlord won't accept. Can you sort this out?",
+    "gold": "procedural",
+    "pred": "factual"
+   },
+   {
+    "text": "Hey, need help with RDC for rent - the landlord won't take it. Can you assist?",
+    "gold": "procedural",
+    "pred": "factual"
+   },
+   {
+    "text": "Can I get my settlement fee refunded if we agree in mediation?",
+    "gold": "procedural",
+    "pred": "factual"
+   },
+   {
+    "text": "What's my best move now that my landlord refuses to renew?",
+    "gold": "advice_seeking",
+    "pred": "procedural"
+   },
+   {
+    "text": "I am locked out and it's late at night with my children",
+    "gold": "crisis",
+    "pred": "factual"
+   }
+  ]
+ },
+ "eval70": {
+  "intent_accuracy": 0.814,
+  "intent_macro_f1": 0.866,
+  "route_accuracy": 0.971,
+  "gold_route_accuracy": 0.98,
+  "adversarial_route_accuracy": 0.95,
+  "must_refuse_safely_routed": "13/13",
+  "route_errors": [
+   {
+    "id": "G43",
+    "gold_intent": "calculation",
+    "pred_intent": "procedural",
+    "route": "answer",
+    "expected": [
+     "calculation"
+    ],
+    "route_ok": false,
+    "must_refuse": false,
+    "injection_flag": false
+   },
+   {
+    "id": "A20",
+    "gold_intent": "factual",
+    "pred_intent": "out_of_scope",
+    "route": "out_of_scope",
+    "expected": [
+     "answer",
+     "calculation"
+    ],
+    "route_ok": false,
+    "must_refuse": false,
+    "injection_flag": false
+   }
+  ]
+ }
+}

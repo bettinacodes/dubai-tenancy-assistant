@@ -1,0 +1,196 @@
+[
+  {
+    "id": "dubai-law-26-2007",
+    "url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2007/Law%20No.%20(26)%20of%202007.html",
+    "instrument": "Dubai Law No. 26 of 2007 Regulating the Relationship between Landlords and Tenants",
+    "instrument_short": "L26/2007",
+    "authority_tier": "legislation",
+    "jurisdiction": "dubai",
+    "in_force_from": "2007-11-26",
+    "parser": "legislation_html",
+    "expected_articles": 37
+  },
+  {
+    "id": "dubai-law-33-2008",
+    "url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2009/Law%20No.%20(33)%20of%202008%20Amending%20Law%20No.%20(26)%20of%202007.html",
+    "instrument": "Dubai Law No. 33 of 2008 Amending Law No. 26 of 2007",
+    "instrument_short": "L33/2008",
+    "authority_tier": "legislation",
+    "jurisdiction": "dubai",
+    "in_force_from": "2008-12-31",
+    "parser": "legislation_html",
+    "amends": "dubai-law-26-2007",
+    "amends_instrument": "Dubai Law No. 26 of 2007",
+    "amends_short": "L26/2007",
+    "amended_articles": [
+      2,
+      3,
+      4,
+      9,
+      13,
+      14,
+      15,
+      25,
+      26,
+      29,
+      36
+    ],
+    "own_tail_articles": 1
+  },
+  {
+    "id": "dubai-decree-43-2013",
+    "url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2013/Decree%20No.%20(43)%20of%202013%20Determining%20Rent%20Increase%20for%20Real%20Property.html",
+    "instrument": "Dubai Decree No. 43 of 2013 Determining Rent Increase for Real Property",
+    "instrument_short": "D43/2013",
+    "authority_tier": "decree",
+    "jurisdiction": "dubai",
+    "in_force_from": "2013-12-18",
+    "parser": "legislation_html"
+  },
+  {
+    "id": "dubai-decree-26-2013",
+    "url": "https://dlp.dubai.gov.ae/Legislation%20Reference/2013/Decree%2026%20of%202013.html",
+    "instrument": "Dubai Decree No. 26 of 2013 Concerning the Rent Disputes Settlement Centre",
+    "instrument_short": "D26/2013",
+    "authority_tier": "decree",
+    "jurisdiction": "dubai",
+    "in_force_from": "2013-09-01",
+    "parser": "legislation_html"
+  },
+  {
+    "id": "dld-decree-43-2013-pdf",
+    "url": "https://dubailand.gov.ae/media/z2dn3gtr/rental-increase-decree-43-in-dubai.pdf",
+    "instrument": "DLD publication of Decree No. 43 of 2013 (rent increase bands)",
+    "instrument_short": "DLD-D43",
+    "authority_tier": "regulatory_guidance",
+    "jurisdiction": "dubai",
+    "parser": "reference_only",
+    "exclusion_reason": "exact duplicate of Decree 43/2013 already indexed from dlp.dubai.gov.ae"
+  },
+  {
+    "id": "dld-smart-rental-index",
+    "url": "https://dubailand.gov.ae/en/news-media/smart-rental-index-announcement",
+    "instrument": "DLD announcement: Smart Rental Index (January 2025)",
+    "instrument_short": "DLD-SRI",
+    "authority_tier": "regulatory_guidance",
+    "jurisdiction": "dubai",
+    "in_force_from": "2025-01-02",
+    "parser": "guidance_html"
+  },
+  {
+    "id": "dld-tenancy-guide",
+    "url": "https://dubailand.gov.ae/media/051bem5a/tenancyguideen.pdf",
+    "instrument": "DLD Tenancy Guide (English)",
+    "instrument_short": "DLD-TG",
+    "authority_tier": "regulatory_guidance",
+    "jurisdiction": "dubai",
+    "parser": "guidance_pdf",
+    "keep_pages": [
+      [
+        3,
+        16
+      ],
+      [
+        39,
+        42
+      ]
+    ],
+    "chapters": {
+      "Chapter I - EJARI Program": [
+        3,
+        6
+      ],
+      "Chapter II - How to Register Lease Contracts with RERA": [
+        7,
+        16
+      ],
+      "Chapter IV - Rent Indexes": [
+        39,
+        42
+      ]
+    },
+    "excluded_pages_reason": "pp. 17-37 (Chapter III) reprint L26/2007, L33/2008 and D43/2013, already indexed from the legislation portal",
+    "superseded_pages": [
+      [
+        39,
+        42
+      ]
+    ],
+    "superseded_by": "dld-smart-rental-index",
+    "supersession_note": "Chapter IV describes the RERA Rent Index (Law 1/2009) and its calculator, replaced as the D43/2013 Art. 3 benchmark by DLD's Smart Rental Index on 2 Jan 2025"
+  },
+  {
+    "id": "dld-ejari-register",
+    "url": "https://dubailand.gov.ae/en/eservices/register-renew-ejari-contract/",
+    "instrument": "DLD service: Register / Renew Tenancy Contract (Ejari)",
+    "instrument_short": "DLD-EJARI",
+    "authority_tier": "service_guidance",
+    "jurisdiction": "dubai",
+    "parser": "guidance_html"
+  },
+  {
+    "id": "dld-faq",
+    "url": "https://dubailand.gov.ae/en/frequently-asked-questions/",
+    "instrument": "DLD Frequently Asked Questions",
+    "instrument_short": "DLD-FAQ",
+    "authority_tier": "service_guidance",
+    "jurisdiction": "dubai",
+    "parser": "faq_html",
+    "faq_sections": [
+      "Rental Services",
+      "Dispute Services"
+    ]
+  },
+  {
+    "id": "dld-real-estate-legislation",
+    "url": "https://dubailand.gov.ae/media/zrrd4qw4/en-legislation.pdf",
+    "instrument": "DLD compendium: Dubai Real Estate Legislation (English)",
+    "instrument_short": "DLD-LEG",
+    "authority_tier": "regulatory_guidance",
+    "jurisdiction": "dubai",
+    "parser": "reference_only",
+    "exclusion_reason": "compendium reprinting legislation already indexed from dlp.dubai.gov.ae"
+  },
+  {
+    "id": "rdc-faq",
+    "url": "https://rdc.gov.ae/en/frequently-asked-questions/",
+    "instrument": "Rental Disputes Center: Frequently Asked Questions (incl. fee schedule)",
+    "instrument_short": "RDC-FAQ",
+    "authority_tier": "service_guidance",
+    "jurisdiction": "dubai",
+    "parser": "faq_html"
+  },
+  {
+    "id": "uae-gov-emergencies",
+    "url": "https://u.ae/en/information-and-services/justice-safety-and-the-law/Safety/handling-emergencies",
+    "instrument": "UAE Government portal: Handling emergencies",
+    "instrument_short": "UAE-EMERG",
+    "authority_tier": "service_guidance",
+    "jurisdiction": "uae_federal",
+    "parser": "reference_only",
+    "purpose": "escalation_contacts",
+    "exclusion_reason": "escalation contacts only; not indexed for retrieval"
+  },
+  {
+    "id": "dld-contact",
+    "url": "https://dubailand.gov.ae/en/contact-us/",
+    "instrument": "Dubai Land Department: Contact us",
+    "instrument_short": "DLD-CONTACT",
+    "authority_tier": "service_guidance",
+    "jurisdiction": "dubai",
+    "parser": "reference_only",
+    "purpose": "escalation_contacts",
+    "exclusion_reason": "escalation contacts only; not indexed for retrieval"
+  },
+  {
+    "id": "rdc-contact",
+    "url": "https://rdc.gov.ae/en/contact-us",
+    "instrument": "Rental Disputes Center: Contact us",
+    "instrument_short": "RDC-CONTACT",
+    "authority_tier": "service_guidance",
+    "jurisdiction": "dubai",
+    "parser": "reference_only",
+    "purpose": "escalation_contacts",
+    "exclusion_reason": "escalation contacts only; not indexed for retrieval"
+  }
+]

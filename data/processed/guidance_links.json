@@ -1,0 +1,2942 @@
+{
+ "dld-smart-rental-index__s-1": [
+  {
+   "parent_id": "dubai-decree-43-2013__art-3",
+   "sim": 0.649
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-3",
+   "sim": 0.6455
+  }
+ ],
+ "dld-smart-rental-index__s-2": [
+  {
+   "parent_id": "dubai-decree-43-2013__art-3",
+   "sim": 0.6467
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-3",
+   "sim": 0.6387
+  }
+ ],
+ "dld-smart-rental-index__s-3": [
+  {
+   "parent_id": "dubai-decree-43-2013__art-3",
+   "sim": 0.7274
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.7267
+  }
+ ],
+ "dld-smart-rental-index__s-4": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-3",
+   "sim": 0.6015
+  },
+  {
+   "parent_id": "dubai-decree-43-2013__art-2",
+   "sim": 0.5937
+  }
+ ],
+ "dld-ejari-register__s-1": [
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.6628
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.6499
+  }
+ ],
+ "dld-ejari-register__s-2": [
+  {
+   "parent_id": "dubai-law-26-2007__art-22",
+   "sim": 0.6193
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.5764
+  }
+ ],
+ "dld-ejari-register__s-3": [
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.6471
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.641
+  }
+ ],
+ "dld-faq__q-1": [
+  {
+   "parent_id": "dubai-law-26-2007__art-20",
+   "sim": 0.464
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-27",
+   "sim": 0.4305
+  }
+ ],
+ "dld-faq__q-2": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-27",
+   "sim": 0.479
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.4737
+  }
+ ],
+ "dld-faq__q-3": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-27",
+   "sim": 0.4876
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.4769
+  }
+ ],
+ "dld-faq__q-4": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.6365
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-15__as-amended-L33-2008",
+   "sim": 0.5969
+  }
+ ],
+ "dld-faq__q-5": [
+  {
+   "parent_id": "dubai-law-26-2007__art-20",
+   "sim": 0.504
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.499
+  }
+ ],
+ "dld-faq__q-6": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.6907
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6552
+  }
+ ],
+ "dld-faq__q-7": [
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.6481
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.6443
+  }
+ ],
+ "dld-faq__q-8": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.4903
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-27",
+   "sim": 0.4433
+  }
+ ],
+ "dld-faq__q-9": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.4501
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.4433
+  }
+ ],
+ "dld-faq__q-10": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.5759
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.5708
+  }
+ ],
+ "dld-faq__q-12": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.5397
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-5",
+   "sim": 0.5107
+  }
+ ],
+ "dld-faq__q-13": [
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.7014
+  },
+  {
+   "parent_id": "dubai-decree-43-2013__art-3",
+   "sim": 0.6537
+  }
+ ],
+ "dld-faq__q-14": [
+  {
+   "parent_id": "dubai-law-26-2007__art-5",
+   "sim": 0.6859
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.6856
+  }
+ ],
+ "dld-faq__q-15": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.5967
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.5885
+  }
+ ],
+ "dld-faq__q-16": [
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.5645
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-3",
+   "sim": 0.5467
+  }
+ ],
+ "dld-faq__q-17": [
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.6389
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6222
+  }
+ ],
+ "dld-faq__q-18": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6177
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.609
+  }
+ ],
+ "dld-faq__q-19": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.6293
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.572
+  }
+ ],
+ "dld-faq__q-20": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6438
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.6128
+  }
+ ],
+ "dld-faq__q-21": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.5381
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.5245
+  }
+ ],
+ "dld-faq__q-22": [
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.8354
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-19",
+   "sim": 0.722
+  }
+ ],
+ "dld-faq__q-23": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.7644
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-29__as-amended-L33-2008",
+   "sim": 0.7049
+  }
+ ],
+ "dld-faq__q-24": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.7857
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-31",
+   "sim": 0.7129
+  }
+ ],
+ "dld-faq__q-25": [
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.7821
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.773
+  }
+ ],
+ "dld-faq__q-26": [
+  {
+   "parent_id": "dubai-law-26-2007__art-22",
+   "sim": 0.8155
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-19",
+   "sim": 0.7404
+  }
+ ],
+ "dld-faq__q-27": [
+  {
+   "parent_id": "dubai-law-26-2007__art-20",
+   "sim": 0.7274
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-16",
+   "sim": 0.7044
+  }
+ ],
+ "dld-faq__q-28": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.7558
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-7",
+   "sim": 0.7485
+  }
+ ],
+ "dld-faq__q-29": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.7629
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.7303
+  }
+ ],
+ "dld-faq__q-30": [
+  {
+   "parent_id": "dubai-law-26-2007__art-29__as-amended-L33-2008",
+   "sim": 0.7428
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.7193
+  }
+ ],
+ "dld-faq__q-31": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.7143
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-26__as-amended-L33-2008",
+   "sim": 0.6872
+  }
+ ],
+ "dld-faq__q-32": [
+  {
+   "parent_id": "dubai-law-26-2007__art-7",
+   "sim": 0.5668
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.5587
+  }
+ ],
+ "dld-faq__q-33": [
+  {
+   "parent_id": "dubai-law-26-2007__art-29__as-amended-L33-2008",
+   "sim": 0.681
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6766
+  }
+ ],
+ "dld-faq__q-34": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-6",
+   "sim": 0.6218
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.5914
+  }
+ ],
+ "dld-faq__q-35": [
+  {
+   "parent_id": "dubai-law-26-2007__art-6",
+   "sim": 0.5885
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-27",
+   "sim": 0.5616
+  }
+ ],
+ "dld-faq__q-36": [
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.626
+  },
+  {
+   "parent_id": "dubai-decree-43-2013__art-3",
+   "sim": 0.6094
+  }
+ ],
+ "dld-faq__q-37": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-3",
+   "sim": 0.6477
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-25",
+   "sim": 0.6094
+  }
+ ],
+ "dld-faq__q-38": [
+  {
+   "parent_id": "dubai-law-26-2007__art-11",
+   "sim": 0.5814
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-32",
+   "sim": 0.5634
+  }
+ ],
+ "dld-faq__q-39": [
+  {
+   "parent_id": "dubai-decree-43-2013__art-3",
+   "sim": 0.5025
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-7",
+   "sim": 0.4972
+  }
+ ],
+ "dld-faq__q-40": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-19",
+   "sim": 0.526
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-15__as-amended-L33-2008",
+   "sim": 0.523
+  }
+ ],
+ "dld-faq__q-41": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6279
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.6262
+  }
+ ],
+ "dld-faq__q-42": [
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.767
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-5",
+   "sim": 0.6916
+  }
+ ],
+ "dld-faq__q-43": [
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.7281
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.6799
+  }
+ ],
+ "dld-faq__q-44": [
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.6005
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-21",
+   "sim": 0.5743
+  }
+ ],
+ "dld-faq__q-45": [
+  {
+   "parent_id": "dubai-decree-43-2013__art-2",
+   "sim": 0.6603
+  },
+  {
+   "parent_id": "dubai-decree-43-2013__art-3",
+   "sim": 0.5538
+  }
+ ],
+ "dld-faq__q-46": [
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.5303
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.5285
+  }
+ ],
+ "dld-faq__q-47": [
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.5373
+  },
+  {
+   "parent_id": "dubai-decree-43-2013__art-3",
+   "sim": 0.5299
+  }
+ ],
+ "dld-faq__q-48": [
+  {
+   "parent_id": "dubai-decree-43-2013__art-3",
+   "sim": 0.6844
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.6506
+  }
+ ],
+ "dld-faq__q-49": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-25",
+   "sim": 0.539
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-7",
+   "sim": 0.5123
+  }
+ ],
+ "dld-faq__q-50": [
+  {
+   "parent_id": "dubai-decree-43-2013__art-3",
+   "sim": 0.6298
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.5713
+  }
+ ],
+ "dld-faq__q-51": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-27",
+   "sim": 0.4977
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-26",
+   "sim": 0.4876
+  }
+ ],
+ "dld-faq__q-52": [
+  {
+   "parent_id": "dubai-decree-43-2013__art-3",
+   "sim": 0.7336
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.7089
+  }
+ ],
+ "dld-faq__q-53": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-2",
+   "sim": 0.6051
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.5911
+  }
+ ],
+ "dld-faq__q-54": [
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.5339
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.5331
+  }
+ ],
+ "dld-faq__q-55": [
+  {
+   "parent_id": "dubai-decree-43-2013__art-2",
+   "sim": 0.5125
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.5086
+  }
+ ],
+ "dld-faq__q-56": [
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.5684
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.5661
+  }
+ ],
+ "dld-faq__q-57": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.5462
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.5242
+  }
+ ],
+ "dld-faq__q-58": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.6183
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.6163
+  }
+ ],
+ "dld-faq__q-59": [
+  {
+   "parent_id": "dubai-law-26-2007__art-21",
+   "sim": 0.6307
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-8",
+   "sim": 0.5993
+  }
+ ],
+ "dld-faq__q-60": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6612
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-7",
+   "sim": 0.592
+  }
+ ],
+ "dld-faq__q-61": [
+  {
+   "parent_id": "dubai-law-26-2007__art-26__as-amended-L33-2008",
+   "sim": 0.6218
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-6",
+   "sim": 0.6085
+  }
+ ],
+ "dld-faq__q-62": [
+  {
+   "parent_id": "dubai-law-26-2007__art-7",
+   "sim": 0.6383
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.6325
+  }
+ ],
+ "dld-faq__q-63": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6373
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-17",
+   "sim": 0.5727
+  }
+ ],
+ "dld-faq__q-64": [
+  {
+   "parent_id": "dubai-law-26-2007__art-7",
+   "sim": 0.602
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-21",
+   "sim": 0.5902
+  }
+ ],
+ "dld-faq__q-65": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.5342
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-14__as-amended-L33-2008",
+   "sim": 0.5209
+  }
+ ],
+ "dld-faq__q-67": [
+  {
+   "parent_id": "dubai-law-26-2007__art-7",
+   "sim": 0.8513
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-27",
+   "sim": 0.7479
+  }
+ ],
+ "dld-faq__q-68": [
+  {
+   "parent_id": "dubai-law-26-2007__art-28",
+   "sim": 0.7198
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-7",
+   "sim": 0.7139
+  }
+ ],
+ "dld-faq__q-69": [
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.5969
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.5918
+  }
+ ],
+ "dld-faq__q-70": [
+  {
+   "parent_id": "dubai-law-26-2007__art-7",
+   "sim": 0.6289
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.627
+  }
+ ],
+ "dld-faq__q-71": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.666
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6375
+  }
+ ],
+ "dld-faq__q-72": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.5848
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-3__as-amended-L33-2008",
+   "sim": 0.5523
+  }
+ ],
+ "dld-faq__q-73": [
+  {
+   "parent_id": "dubai-law-26-2007__art-24",
+   "sim": 0.5141
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-7",
+   "sim": 0.5085
+  }
+ ],
+ "dld-faq__q-74": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-5",
+   "sim": 0.5061
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.4947
+  }
+ ],
+ "dld-faq__q-75": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.5194
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.5007
+  }
+ ],
+ "dld-faq__q-76": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-31",
+   "sim": 0.5142
+  },
+  {
+   "parent_id": "dubai-law-33-2008__art-2",
+   "sim": 0.5075
+  }
+ ],
+ "dld-faq__q-77": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.5434
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-2",
+   "sim": 0.5247
+  }
+ ],
+ "dld-faq__q-78": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6408
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.6135
+  }
+ ],
+ "dld-faq__q-79": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.6297
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6176
+  }
+ ],
+ "dld-faq__q-80": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.8646
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.7438
+  }
+ ],
+ "dld-faq__q-81": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.8039
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.6717
+  }
+ ],
+ "dld-faq__q-82": [
+  {
+   "parent_id": "dubai-law-26-2007__art-21",
+   "sim": 0.706
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-15__as-amended-L33-2008",
+   "sim": 0.6993
+  }
+ ],
+ "dld-faq__q-85": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.6945
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6623
+  }
+ ],
+ "dld-faq__q-86": [
+  {
+   "parent_id": "dubai-law-26-2007__art-8",
+   "sim": 0.73
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-12",
+   "sim": 0.7236
+  }
+ ],
+ "dld-faq__q-87": [
+  {
+   "parent_id": "dubai-law-26-2007__art-22",
+   "sim": 0.718
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-17",
+   "sim": 0.6937
+  }
+ ],
+ "dld-faq__q-88": [
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.5688
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-19",
+   "sim": 0.5559
+  }
+ ],
+ "dld-faq__q-89": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6035
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-20",
+   "sim": 0.589
+  }
+ ],
+ "dld-faq__q-90": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.5054
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.4993
+  }
+ ],
+ "dld-faq__q-91": [
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.6402
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.6395
+  }
+ ],
+ "dld-faq__q-92": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.566
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-20",
+   "sim": 0.525
+  }
+ ],
+ "dld-faq__q-93": [
+  {
+   "parent_id": "dubai-law-26-2007__art-17",
+   "sim": 0.4554
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.4284
+  }
+ ],
+ "dld-faq__q-94": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.543
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-21",
+   "sim": 0.5382
+  }
+ ],
+ "dld-faq__q-96": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-5",
+   "sim": 0.4728
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.4679
+  }
+ ],
+ "dld-faq__q-97": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.5978
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.5847
+  }
+ ],
+ "dld-faq__q-98": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.5403
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-3__as-amended-L33-2008",
+   "sim": 0.5217
+  }
+ ],
+ "dld-faq__q-99": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.5617
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-5",
+   "sim": 0.5306
+  }
+ ],
+ "dld-faq__q-100": [
+  {
+   "parent_id": "dubai-law-26-2007__art-14__as-amended-L33-2008",
+   "sim": 0.4838
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.4835
+  }
+ ],
+ "dld-faq__q-101": [
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.6284
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.6254
+  }
+ ],
+ "dld-faq__q-102": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.5203
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-31",
+   "sim": 0.4799
+  }
+ ],
+ "dld-faq__q-103": [
+  {
+   "parent_id": "dubai-law-26-2007__art-16",
+   "sim": 0.8318
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-17",
+   "sim": 0.7733
+  }
+ ],
+ "dld-faq__q-104": [
+  {
+   "parent_id": "dubai-law-26-2007__art-12",
+   "sim": 0.7446
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.7117
+  }
+ ],
+ "dld-faq__q-105": [
+  {
+   "parent_id": "dubai-law-26-2007__art-5",
+   "sim": 0.4904
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.4901
+  }
+ ],
+ "dld-faq__q-106": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-8",
+   "sim": 0.5122
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-7",
+   "sim": 0.5106
+  }
+ ],
+ "dld-faq__q-107": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-5",
+   "sim": 0.5991
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-2",
+   "sim": 0.5825
+  }
+ ],
+ "dld-faq__q-108": [
+  {
+   "parent_id": "dubai-law-26-2007__art-21",
+   "sim": 0.6203
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-7",
+   "sim": 0.6196
+  }
+ ],
+ "dld-faq__q-109": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.5747
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-27",
+   "sim": 0.5523
+  }
+ ],
+ "dld-faq__q-110": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.555
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.5453
+  }
+ ],
+ "dld-faq__q-111": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.5335
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-19",
+   "sim": 0.5185
+  }
+ ],
+ "dld-faq__q-112": [
+  {
+   "parent_id": "dubai-law-26-2007__art-5",
+   "sim": 0.6275
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-15__as-amended-L33-2008",
+   "sim": 0.6242
+  }
+ ],
+ "dld-faq__q-113": [
+  {
+   "parent_id": "dubai-law-26-2007__art-23",
+   "sim": 0.5955
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-28",
+   "sim": 0.5756
+  }
+ ],
+ "dld-faq__q-114": [
+  {
+   "parent_id": "dubai-law-26-2007__art-27",
+   "sim": 0.6218
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6201
+  }
+ ],
+ "dld-faq__q-115": [
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.6053
+  },
+  {
+   "parent_id": "dubai-decree-43-2013__art-3",
+   "sim": 0.5744
+  }
+ ],
+ "dld-faq__q-116": [
+  {
+   "parent_id": "dubai-law-26-2007__art-15__as-amended-L33-2008",
+   "sim": 0.6389
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.6148
+  }
+ ],
+ "dld-faq__q-117": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.5993
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-19",
+   "sim": 0.5683
+  }
+ ],
+ "dld-faq__q-118": [
+  {
+   "parent_id": "dubai-law-26-2007__art-6",
+   "sim": 0.7497
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-5",
+   "sim": 0.7153
+  }
+ ],
+ "dld-faq__q-119": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6354
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.5965
+  }
+ ],
+ "dld-faq__q-120": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.6724
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.6549
+  }
+ ],
+ "dld-faq__q-121": [
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.5863
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-29__as-amended-L33-2008",
+   "sim": 0.5852
+  }
+ ],
+ "dld-faq__q-122": [
+  {
+   "parent_id": "dubai-law-26-2007__art-7",
+   "sim": 0.5893
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-5",
+   "sim": 0.5708
+  }
+ ],
+ "dld-faq__q-123": [
+  {
+   "parent_id": "dubai-law-26-2007__art-32",
+   "sim": 0.6253
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.6179
+  }
+ ],
+ "dld-faq__q-124": [
+  {
+   "parent_id": "dubai-law-26-2007__art-7",
+   "sim": 0.5542
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.532
+  }
+ ],
+ "dld-faq__q-125": [
+  {
+   "parent_id": "dubai-law-26-2007__art-7",
+   "sim": 0.6237
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.6066
+  }
+ ],
+ "dld-faq__q-126": [
+  {
+   "parent_id": "dubai-law-26-2007__art-7",
+   "sim": 0.6989
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-24",
+   "sim": 0.6783
+  }
+ ],
+ "dld-faq__q-127": [
+  {
+   "parent_id": "dubai-law-26-2007__art-8",
+   "sim": 0.6244
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-30",
+   "sim": 0.6212
+  }
+ ],
+ "dld-faq__q-128": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.5389
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.5228
+  }
+ ],
+ "dld-faq__q-129": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.5424
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.5381
+  }
+ ],
+ "dld-faq__q-130": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6547
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.6003
+  }
+ ],
+ "dld-faq__q-131": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.4924
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.4814
+  }
+ ],
+ "dld-faq__q-132": [
+  {
+   "parent_id": "dubai-law-26-2007__art-24",
+   "sim": 0.5368
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-17",
+   "sim": 0.5239
+  }
+ ],
+ "dld-faq__q-133": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.7208
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.6555
+  }
+ ],
+ "dld-faq__q-134": [
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.5692
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.5622
+  }
+ ],
+ "dld-faq__q-135": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.7032
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.6442
+  }
+ ],
+ "dld-faq__q-136": [
+  {
+   "parent_id": "dubai-law-26-2007__art-16",
+   "sim": 0.6459
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-19",
+   "sim": 0.6445
+  }
+ ],
+ "dld-faq__q-137": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.64
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.6128
+  }
+ ],
+ "dld-faq__q-138": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-10",
+   "sim": 0.6852
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-28",
+   "sim": 0.6676
+  }
+ ],
+ "dld-faq__q-139": [
+  {
+   "parent_id": "dubai-law-26-2007__art-12",
+   "sim": 0.5475
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-22",
+   "sim": 0.5291
+  }
+ ],
+ "dld-faq__q-140": [
+  {
+   "parent_id": "dubai-law-26-2007__art-33",
+   "sim": 0.5587
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-14",
+   "sim": 0.5405
+  }
+ ],
+ "dld-faq__q-141": [
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.5607
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-12",
+   "sim": 0.5406
+  }
+ ],
+ "dld-faq__q-142": [
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.6115
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-22",
+   "sim": 0.5907
+  }
+ ],
+ "dld-faq__q-143": [
+  {
+   "parent_id": "dubai-law-26-2007__art-12",
+   "sim": 0.6516
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.6298
+  }
+ ],
+ "dld-faq__q-144": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.583
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-12",
+   "sim": 0.5771
+  }
+ ],
+ "dld-faq__q-145": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-15",
+   "sim": 0.5822
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.5701
+  }
+ ],
+ "dld-faq__q-146": [
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.6635
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.6539
+  }
+ ],
+ "dld-faq__q-147": [
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.5664
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-15",
+   "sim": 0.531
+  }
+ ],
+ "dld-faq__q-148": [
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.69
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.648
+  }
+ ],
+ "dld-faq__q-152": [
+  {
+   "parent_id": "dubai-law-26-2007__art-12",
+   "sim": 0.6047
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-31",
+   "sim": 0.5797
+  }
+ ],
+ "dld-faq__q-153": [
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.6905
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-19",
+   "sim": 0.6396
+  }
+ ],
+ "dld-faq__q-154": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-17",
+   "sim": 0.7594
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.7363
+  }
+ ],
+ "dld-faq__q-155": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6747
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.6375
+  }
+ ],
+ "dld-faq__q-156": [
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.7383
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.7085
+  }
+ ],
+ "dld-faq__q-157": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.829
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-28",
+   "sim": 0.6731
+  }
+ ],
+ "dld-faq__q-158": [
+  {
+   "parent_id": "dubai-law-26-2007__art-12",
+   "sim": 0.6834
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-19",
+   "sim": 0.6576
+  }
+ ],
+ "dld-faq__q-159": [
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.7541
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.7145
+  }
+ ],
+ "dld-faq__q-160": [
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.7122
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-12",
+   "sim": 0.6781
+  }
+ ],
+ "dld-faq__q-168": [
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.4982
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-5",
+   "sim": 0.4742
+  }
+ ],
+ "dld-faq__q-171": [
+  {
+   "parent_id": "dubai-law-26-2007__art-14__as-amended-L33-2008",
+   "sim": 0.5193
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.4901
+  }
+ ],
+ "dld-faq__q-193": [
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.4644
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.4558
+  }
+ ],
+ "rdc-faq__q-1": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.6495
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-17",
+   "sim": 0.5782
+  }
+ ],
+ "rdc-faq__q-2": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.7795
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-22",
+   "sim": 0.6918
+  }
+ ],
+ "rdc-faq__q-3": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.5973
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-17",
+   "sim": 0.5649
+  }
+ ],
+ "rdc-faq__q-4": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.6557
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-10",
+   "sim": 0.6166
+  }
+ ],
+ "rdc-faq__q-5": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-10",
+   "sim": 0.5966
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-33",
+   "sim": 0.5683
+  }
+ ],
+ "rdc-faq__q-6": [
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.5463
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-33",
+   "sim": 0.5373
+  }
+ ],
+ "rdc-faq__q-7": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-22",
+   "sim": 0.5761
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.5611
+  }
+ ],
+ "rdc-faq__q-8": [
+  {
+   "parent_id": "dubai-law-26-2007__art-11",
+   "sim": 0.7255
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.7073
+  }
+ ],
+ "rdc-faq__q-9": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-25",
+   "sim": 0.5723
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-12",
+   "sim": 0.5693
+  }
+ ],
+ "rdc-faq__q-10": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-5",
+   "sim": 0.5889
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-2",
+   "sim": 0.5733
+  }
+ ],
+ "rdc-faq__q-11": [
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.5323
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-33",
+   "sim": 0.5202
+  }
+ ],
+ "rdc-faq__q-12": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.6169
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-22",
+   "sim": 0.5886
+  }
+ ],
+ "rdc-faq__q-13": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.5859
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-15",
+   "sim": 0.5726
+  }
+ ],
+ "rdc-faq__q-14": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.6297
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.6199
+  }
+ ],
+ "rdc-faq__q-15": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-3",
+   "sim": 0.6195
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-2",
+   "sim": 0.6154
+  }
+ ],
+ "rdc-faq__q-16": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-22",
+   "sim": 0.5571
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.5364
+  }
+ ],
+ "rdc-faq__q-17": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.5466
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-15",
+   "sim": 0.5062
+  }
+ ],
+ "rdc-faq__q-18": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.5837
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-10",
+   "sim": 0.5733
+  }
+ ],
+ "rdc-faq__q-19": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-3",
+   "sim": 0.6265
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-28",
+   "sim": 0.6259
+  }
+ ],
+ "rdc-faq__q-20": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-5",
+   "sim": 0.5744
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.5547
+  }
+ ],
+ "rdc-faq__q-21": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-21",
+   "sim": 0.5513
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-10",
+   "sim": 0.5379
+  }
+ ],
+ "rdc-faq__q-22": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.7576
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-22",
+   "sim": 0.6821
+  }
+ ],
+ "rdc-faq__q-24": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-17",
+   "sim": 0.6725
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.6686
+  }
+ ],
+ "rdc-faq__q-25": [
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.6236
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.6166
+  }
+ ],
+ "rdc-faq__q-26": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-10",
+   "sim": 0.611
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-33",
+   "sim": 0.571
+  }
+ ],
+ "rdc-faq__q-27": [
+  {
+   "parent_id": "dubai-law-26-2007__art-33",
+   "sim": 0.5962
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-10",
+   "sim": 0.5492
+  }
+ ],
+ "rdc-faq__q-28": [
+  {
+   "parent_id": "dubai-law-26-2007__art-11",
+   "sim": 0.739
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.7227
+  }
+ ],
+ "rdc-faq__q-29": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-25",
+   "sim": 0.5517
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.5379
+  }
+ ],
+ "rdc-faq__q-30": [
+  {
+   "parent_id": "dubai-law-26-2007__art-14__as-amended-L33-2008",
+   "sim": 0.8888
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.7957
+  }
+ ],
+ "rdc-faq__q-31": [
+  {
+   "parent_id": "dubai-law-26-2007__art-28",
+   "sim": 0.781
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-19",
+   "sim": 0.7252
+  }
+ ],
+ "rdc-faq__q-32": [
+  {
+   "parent_id": "dubai-law-26-2007__art-6",
+   "sim": 0.923
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-8",
+   "sim": 0.7996
+  }
+ ],
+ "rdc-faq__q-33": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.5724
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.5543
+  }
+ ],
+ "rdc-faq__q-34": [
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.5646
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-20",
+   "sim": 0.5236
+  }
+ ],
+ "rdc-faq__q-35": [
+  {
+   "parent_id": "dubai-law-26-2007__art-32",
+   "sim": 0.6339
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.6029
+  }
+ ],
+ "rdc-faq__q-36": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-17",
+   "sim": 0.652
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-13",
+   "sim": 0.641
+  }
+ ],
+ "rdc-faq__q-37": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-17",
+   "sim": 0.7459
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.68
+  }
+ ],
+ "rdc-faq__q-38": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-17",
+   "sim": 0.6142
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6046
+  }
+ ],
+ "rdc-faq__q-39": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.5382
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-27",
+   "sim": 0.485
+  }
+ ],
+ "rdc-faq__q-40": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.5321
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-22",
+   "sim": 0.5046
+  }
+ ],
+ "rdc-faq__q-41": [
+  {
+   "parent_id": "dubai-law-26-2007__art-22",
+   "sim": 0.6046
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.6045
+  }
+ ],
+ "rdc-faq__q-43": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.5006
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-27",
+   "sim": 0.4818
+  }
+ ],
+ "rdc-faq__q-47": [
+  {
+   "parent_id": "dubai-law-26-2007__art-31",
+   "sim": 0.5499
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.5497
+  }
+ ],
+ "rdc-faq__q-48": [
+  {
+   "parent_id": "dubai-law-26-2007__art-5",
+   "sim": 0.6695
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.66
+  }
+ ],
+ "rdc-faq__q-49": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.5796
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.5653
+  }
+ ],
+ "rdc-faq__q-50": [
+  {
+   "parent_id": "dubai-law-26-2007__art-20",
+   "sim": 0.7584
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-12",
+   "sim": 0.5919
+  }
+ ],
+ "rdc-faq__q-51": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.5681
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-15",
+   "sim": 0.5318
+  }
+ ],
+ "rdc-faq__q-52": [
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.5256
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-10",
+   "sim": 0.5144
+  }
+ ],
+ "rdc-faq__q-53": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-27",
+   "sim": 0.5145
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.4957
+  }
+ ],
+ "rdc-faq__q-54": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-15",
+   "sim": 0.5433
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.5168
+  }
+ ],
+ "rdc-faq__q-55": [
+  {
+   "parent_id": "dubai-law-26-2007__art-20",
+   "sim": 0.5398
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-31",
+   "sim": 0.5397
+  }
+ ],
+ "rdc-faq__q-56": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.6674
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6488
+  }
+ ],
+ "rdc-faq__q-57": [
+  {
+   "parent_id": "dubai-law-26-2007__art-12",
+   "sim": 0.6039
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-16",
+   "sim": 0.5825
+  }
+ ],
+ "rdc-faq__q-59": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.6664
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-22",
+   "sim": 0.627
+  }
+ ],
+ "rdc-faq__q-60": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.604
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-33",
+   "sim": 0.5651
+  }
+ ],
+ "rdc-faq__q-61": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.5805
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.5736
+  }
+ ],
+ "rdc-faq__q-62": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.5069
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-17",
+   "sim": 0.4963
+  }
+ ],
+ "rdc-faq__q-63": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-21",
+   "sim": 0.584
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-20",
+   "sim": 0.5716
+  }
+ ],
+ "rdc-faq__q-65": [
+  {
+   "parent_id": "dubai-law-26-2007__art-31",
+   "sim": 0.5373
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.5331
+  }
+ ],
+ "rdc-faq__q-66": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.602
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-31",
+   "sim": 0.5911
+  }
+ ],
+ "rdc-faq__q-67": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.5379
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.5298
+  }
+ ],
+ "rdc-faq__q-69": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.5726
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-31",
+   "sim": 0.5689
+  }
+ ],
+ "rdc-faq__q-70": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-11",
+   "sim": 0.5831
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-8",
+   "sim": 0.5544
+  }
+ ],
+ "rdc-faq__q-71": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-24",
+   "sim": 0.5279
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-9",
+   "sim": 0.5258
+  }
+ ],
+ "rdc-faq__q-72": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-3",
+   "sim": 0.6469
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.5965
+  }
+ ],
+ "rdc-faq__q-73": [
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.5131
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-15",
+   "sim": 0.4645
+  }
+ ],
+ "rdc-faq__q-74": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-10",
+   "sim": 0.6
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.5906
+  }
+ ],
+ "rdc-faq__q-75": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-5",
+   "sim": 0.4906
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-37",
+   "sim": 0.4817
+  }
+ ],
+ "rdc-faq__q-76": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-27",
+   "sim": 0.5244
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-3",
+   "sim": 0.4947
+  }
+ ],
+ "rdc-faq__q-77": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.5224
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-14",
+   "sim": 0.4882
+  }
+ ],
+ "rdc-faq__q-78": [
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.6441
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-3",
+   "sim": 0.6421
+  }
+ ],
+ "rdc-faq__q-79": [
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.5584
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-27",
+   "sim": 0.4773
+  }
+ ],
+ "rdc-faq__q-81": [
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.5564
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.4808
+  }
+ ],
+ "rdc-faq__q-82": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.5854
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.5724
+  }
+ ],
+ "rdc-faq__q-83": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-10",
+   "sim": 0.6966
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-12",
+   "sim": 0.6839
+  }
+ ],
+ "rdc-faq__q-84": [
+  {
+   "parent_id": "dubai-law-26-2007__art-16",
+   "sim": 0.7402
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-19",
+   "sim": 0.7342
+  }
+ ],
+ "rdc-faq__q-85": [
+  {
+   "parent_id": "dubai-law-26-2007__art-20",
+   "sim": 0.8478
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-19",
+   "sim": 0.7192
+  }
+ ],
+ "rdc-faq__q-86": [
+  {
+   "parent_id": "dubai-law-26-2007__art-21",
+   "sim": 0.8255
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-15__as-amended-L33-2008",
+   "sim": 0.7818
+  }
+ ],
+ "rdc-faq__q-87": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.8587
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-21",
+   "sim": 0.7293
+  }
+ ],
+ "rdc-faq__q-88": [
+  {
+   "parent_id": "dubai-law-26-2007__art-12",
+   "sim": 0.7305
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-19",
+   "sim": 0.6964
+  }
+ ],
+ "rdc-faq__q-89": [
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.7404
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.7335
+  }
+ ],
+ "rdc-faq__q-90": [
+  {
+   "parent_id": "dubai-law-26-2007__art-31",
+   "sim": 0.5589
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.5475
+  }
+ ],
+ "rdc-faq__q-91": [
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.6132
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.5798
+  }
+ ],
+ "rdc-faq__q-92": [
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.5114
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-5",
+   "sim": 0.4968
+  }
+ ],
+ "rdc-faq__q-93": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.7369
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-26__as-amended-L33-2008",
+   "sim": 0.6974
+  }
+ ],
+ "rdc-faq__q-94": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-6",
+   "sim": 0.7387
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-28",
+   "sim": 0.6908
+  }
+ ],
+ "rdc-faq__q-95": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6973
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.6459
+  }
+ ],
+ "rdc-faq__q-96": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-15",
+   "sim": 0.599
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-11",
+   "sim": 0.5982
+  }
+ ],
+ "rdc-faq__q-97": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.6034
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-15",
+   "sim": 0.5684
+  }
+ ],
+ "rdc-faq__q-98": [
+  {
+   "parent_id": "dubai-law-26-2007__art-27",
+   "sim": 0.4881
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.487
+  }
+ ],
+ "rdc-faq__q-99": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-4",
+   "sim": 0.56
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-28",
+   "sim": 0.5265
+  }
+ ],
+ "rdc-faq__q-100": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.577
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.5534
+  }
+ ],
+ "rdc-faq__q-101": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.5168
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-31",
+   "sim": 0.4818
+  }
+ ],
+ "rdc-faq__q-102": [
+  {
+   "parent_id": "dubai-law-26-2007__art-32",
+   "sim": 0.5602
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.56
+  }
+ ],
+ "rdc-faq__q-103": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.597
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-27",
+   "sim": 0.5572
+  }
+ ],
+ "rdc-faq__q-104": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.5552
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.5244
+  }
+ ],
+ "rdc-faq__q-105": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6338
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.6116
+  }
+ ],
+ "rdc-faq__q-106": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.5909
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-31",
+   "sim": 0.5826
+  }
+ ],
+ "rdc-faq__q-107": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.66
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.6064
+  }
+ ],
+ "rdc-faq__q-108": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6296
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-31",
+   "sim": 0.5897
+  }
+ ],
+ "rdc-faq__q-109": [
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.597
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.586
+  }
+ ],
+ "rdc-faq__q-110": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.5282
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.5281
+  }
+ ],
+ "rdc-faq__q-111": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.6532
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-14",
+   "sim": 0.6484
+  }
+ ],
+ "rdc-faq__q-112": [
+  {
+   "parent_id": "dubai-law-26-2007__art-32",
+   "sim": 0.496
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-21",
+   "sim": 0.4914
+  }
+ ],
+ "rdc-faq__q-113": [
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.5566
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-31",
+   "sim": 0.5376
+  }
+ ],
+ "rdc-faq__q-114": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.5883
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.5802
+  }
+ ],
+ "rdc-faq__q-115": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.5763
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-5",
+   "sim": 0.5747
+  }
+ ],
+ "rdc-faq__q-116": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.5882
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-20",
+   "sim": 0.5352
+  }
+ ],
+ "rdc-faq__q-117": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-5",
+   "sim": 0.5234
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-15",
+   "sim": 0.5117
+  }
+ ],
+ "rdc-faq__q-118": [
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.6386
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6059
+  }
+ ],
+ "rdc-faq__q-119": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.6099
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-16",
+   "sim": 0.5961
+  }
+ ],
+ "rdc-faq__q-121": [
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.6586
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-5",
+   "sim": 0.6486
+  }
+ ],
+ "rdc-faq__q-122": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.4468
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-7",
+   "sim": 0.4434
+  }
+ ],
+ "rdc-faq__q-123": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-18",
+   "sim": 0.62
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-12",
+   "sim": 0.5611
+  }
+ ],
+ "rdc-faq__q-124": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.6782
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.6573
+  }
+ ],
+ "rdc-faq__q-125": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-6",
+   "sim": 0.5924
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.5649
+  }
+ ],
+ "rdc-faq__q-126": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.5613
+  },
+  {
+   "parent_id": "dubai-decree-26-2013__art-21",
+   "sim": 0.5447
+  }
+ ],
+ "rdc-faq__q-127": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-23",
+   "sim": 0.5734
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-21",
+   "sim": 0.5675
+  }
+ ],
+ "rdc-faq__q-128": [
+  {
+   "parent_id": "dubai-law-26-2007__art-34",
+   "sim": 0.6923
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-33",
+   "sim": 0.5797
+  }
+ ],
+ "rdc-faq__q-129": [
+  {
+   "parent_id": "dubai-decree-26-2013__art-5",
+   "sim": 0.4773
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-35",
+   "sim": 0.4766
+  }
+ ],
+ "rdc-faq__q-130": [
+  {
+   "parent_id": "dubai-law-26-2007__art-13__as-amended-L33-2008",
+   "sim": 0.7057
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-20",
+   "sim": 0.6753
+  }
+ ],
+ "dld-tenancy-guide__p-4": [
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.6885
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.6593
+  }
+ ],
+ "dld-tenancy-guide__p-5": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.6299
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.6079
+  }
+ ],
+ "dld-tenancy-guide__p-6": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.6201
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.6185
+  }
+ ],
+ "dld-tenancy-guide__p-8": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.7421
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-15__as-amended-L33-2008",
+   "sim": 0.6984
+  }
+ ],
+ "dld-tenancy-guide__p-9": [
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.7057
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-9__as-amended-L33-2008",
+   "sim": 0.6958
+  }
+ ],
+ "dld-tenancy-guide__p-10": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.7754
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-2__as-amended-L33-2008",
+   "sim": 0.7662
+  }
+ ],
+ "dld-tenancy-guide__p-11": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.7742
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-15__as-amended-L33-2008",
+   "sim": 0.7184
+  }
+ ],
+ "dld-tenancy-guide__p-12": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.7615
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-21",
+   "sim": 0.6906
+  }
+ ],
+ "dld-tenancy-guide__p-13": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.7484
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-25__as-amended-L33-2008",
+   "sim": 0.7332
+  }
+ ],
+ "dld-tenancy-guide__p-14": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.726
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-21",
+   "sim": 0.6782
+  }
+ ],
+ "dld-tenancy-guide__p-15": [
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.6279
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-15__as-amended-L33-2008",
+   "sim": 0.6108
+  }
+ ],
+ "dld-tenancy-guide__p-16": [
+  {
+   "parent_id": "dubai-law-26-2007__art-18",
+   "sim": 0.6328
+  },
+  {
+   "parent_id": "dubai-law-26-2007__art-4__as-amended-L33-2008",
+   "sim": 0.6302
+  }
+ ]
+}

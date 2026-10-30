@@ -1,0 +1,77 @@
+{
+ "dense only": {
+  "primary@1": 0.25,
+  "primary@3": 0.5,
+  "primary@10": 0.625,
+  "mrr@10": 0.3958,
+  "not_first": [
+   "L1",
+   "L2",
+   "L3",
+   "L5",
+   "L6",
+   "L7"
+  ]
+ },
+ "rrf w=0.25 k=20": {
+  "primary@1": 0.25,
+  "primary@3": 0.5,
+  "primary@10": 0.75,
+  "mrr@10": 0.4323,
+  "not_first": [
+   "L1",
+   "L2",
+   "L3",
+   "L5",
+   "L6",
+   "L7"
+  ]
+ },
+ "rrf w=0.5 k=20": {
+  "primary@1": 0.375,
+  "primary@3": 0.5,
+  "primary@10": 0.75,
+  "mrr@10": 0.5179,
+  "not_first": [
+   "L1",
+   "L3",
+   "L5",
+   "L6",
+   "L7"
+  ]
+ },
+ "rrf w=1.0 k=60": {
+  "primary@1": 0.5,
+  "primary@3": 0.5,
+  "primary@10": 0.75,
+  "mrr@10": 0.5875,
+  "not_first": [
+   "L1",
+   "L3",
+   "L5",
+   "L6"
+  ]
+ },
+ "dense only + lookup": {
+  "primary@1": 0.625,
+  "primary@3": 0.75,
+  "primary@10": 0.875,
+  "mrr@10": 0.7292,
+  "not_first": [
+   "L5",
+   "L6",
+   "L7"
+  ]
+ },
+ "rrf w=0.5 k=20 + lookup": {
+  "primary@1": 0.625,
+  "primary@3": 0.75,
+  "primary@10": 1.0,
+  "mrr@10": 0.7679,
+  "not_first": [
+   "L5",
+   "L6",
+   "L7"
+  ]
+ }
+}

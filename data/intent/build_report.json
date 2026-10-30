@@ -1,0 +1,309 @@
+{
+ "candidates": 493,
+ "by_origin": {
+  "seed": 108,
+  "llm_paraphrase": 322,
+  "seed_round2": 63
+ },
+ "dropped_quality": 44,
+ "dropped_quality_reasons": {
+  "meaning_drift": 19,
+  "prompt instruction leaked into text": 3,
+  "numbers_lost": 6,
+  "garbled code-mixing": 1,
+  "garbled_non_english": 2,
+  "ambiguous intent after paraphrase": 3,
+  "LLM told a joke instead of paraphrasing": 3,
+  "label flip": 2,
+  "too vague to carry the seed intent": 2,
+  "crisis softened (harassment became nosy)": 2,
+  "garbled": 1
+ },
+ "quality_examples": [
+  {
+   "text": "My boss can come to my room without me saying anything, right?",
+   "reason": "meaning_drift: landlord became boss/employer"
+  },
+  {
+   "text": "Can my boss go into my flat without asking me, mate?",
+   "reason": "meaning_drift: landlord became boss/employer"
+  },
+  {
+   "text": "Bro, what if my boss yah passes, how my lease deal? 🤔",
+   "reason": "meaning_drift: landlord became boss/employer"
+  },
+  {
+   "text": "My boss want to change contract terms in the middle of the year, is it allowed?",
+   "reason": "meaning_drift: landlord became boss/employer"
+  },
+  {
+   "text": "{non-native} what counts as a reason to get kicked out before my contract is done?",
+   "reason": "prompt instruction leaked into text"
+  },
+  {
+   "text": "Can the boss increase the rent anytime or just at lease renewal time?",
+   "reason": "meaning_drift: landlord became boss/employer"
+  },
+  {
+   "text": "Hey, how long do tenants usually stick to if there ain't no end date?",
+   "reason": "meaning_drift: legal term of lease became how long people stay"
+  },
+  {
+   "text": "If they don't write when the lease ends, how long do people usually stay around here?",
+   "reason": "meaning_drift: legal term of lease became how long people stay"
+  },
+  {
+   "text": "In Dubai, if there's no end date mentioned, how long do people usually stay?",
+   "reason": "meaning_drift: legal term of lease became how long people stay"
+  },
+  {
+   "text": "R u askin if u can give my room to a frnd?",
+   "reason": "meaning_drift: subletting question garbled"
+  },
+  {
+   "text": "Hey, can I go up to 55k if it's allowed?",
+   "reason": "numbers_lost:['45']"
+  },
+  {
+   "text": "Ahh, can we go up to 50k if it's fine?",
+   "reason": "numbers_lost:['45']"
+  },
+  {
+   "text": "Yo, the average is 50k, how about we go to that?",
+   "reason": "numbers_lost:['45']"
+  },
+  {
+   "text": "I pay 72k and I heard comparable flats are at 80k. Can I get a bit more for rent?",
+   "reason": "meaning_drift: whether rent can rise became tenant asking to pay/charge more"
+  },
+  {
+   "text": "I pay 72k, hearth they're asking 80k for similer flats. Can I get a bit more for my rent?",
+   "reason": "meaning_drift: whether rent can rise became tenant asking to pay/charge more"
+  },
+  {
+   "text": "I'm paying 72k, folks are asking 80k for flats like mine. Can I get a bit more for my rent?",
+   "reason": "meaning_drift: whether rent can rise became tenant asking to pay/charge more"
+  },
+  {
+   "text": "Hey, he gave me notice to leave by July 2026 to sell. Is that timing alright?",
+   "reason": "numbers_lost:['1', '1']"
+  },
+  {
+   "text": "Bro, he gave me notice to leave till July 2026 to sell. Is that timing okay?",
+   "reason": "numbers_lost:['1', '1']"
+  },
+  {
+   "text": "His eviction notice says I should leave by July 2026 because he's selling. Is that on time?",
+   "reason": "numbers_lost:['1', '1']"
+  },
+  {
+   "text": "Can you add more to the rent, sir? It's at 1.2 lakh, but the market is at 1.5 lakh, please.",
+   "reason": "meaning_drift: whether rent can rise became tenant asking to pay/charge more"
+  },
+  {
+   "text": "my rent 250k 1naan; RDC fee kya hota hai?",
+   "reason": "garbled code-mixing"
+  },
+  {
+   "text": "Bhai, notice kya 100 days hota hai yadar mitti end hojayi, iska latha badla hai?",
+   "reason": "garbled_non_english"
+  },
+  {
+   "text": "Can I stream the RDC hearing bro? How do I do that?",
+   "reason": "meaning_drift: attend online became stream"
+  },
+  {
+   "text": "I can go to RDC hearin' on line? How? Formal: May I be present at the RDC hearing through an online platform, and under what procedures should I proceed?",
+   "reason": "prompt instruction leaked into text"
+  },
+  {
+   "text": "Nah, can u help me with a tenancy contract?",
+   "reason": "ambiguous intent after paraphrase"
+  },
+  {
+   "text": "Ain't got time to draft one, can u help?",
+   "reason": "ambiguous intent after paraphrase"
+  },
+  {
+   "text": "Is buy or rent cheaper in Dubai now? Non-native, but clear, please.",
+   "reason": "prompt instruction leaked into text"
+  },
+  {
+   "text": "Hey, why don't scientists trust atoms? Because they make up everything!",
+   "reason": "LLM told a joke instead of paraphrasing"
+  },
+  {
+   "text": "Why did the tomato turn red? Because it saw the salad dressing!",
+   "reason": "LLM told a joke instead of paraphrasing"
+  },
+  {
+   "text": "Why did the chicken cross the playground? To get to the other slide!",
+   "reason": "LLM told a joke instead of paraphrasing"
+  },
+  {
+   "text": "Wanna sign that new contract with the higher rent?",
+   "reason": "ambiguous intent after paraphrase"
+  },
+  {
+   "text": "Hey, can I stop paying rent til he fixes that dripping faucet? 😊",
+   "reason": "label flip: should I (advice) became can I (factual)"
+  },
+  {
+   "text": "Can I pause my rent payments until he fixes that water leak, please? 🛠",
+   "reason": "label flip: should I (advice) became can I (factual)"
+  },
+  {
+   "text": "Hey, can you help me out with my landlord issue here in Dubai? 😔",
+   "reason": "too vague to carry the seed intent"
+  },
+  {
+   "text": "Can you help me with my landlord stuff in Dubai? I'm in a bind here. 😢",
+   "reason": "too vague to carry the seed intent"
+  },
+  {
+   "text": "Hey, if I break my lease with RDC, do I still get my money back? 😊",
+   "reason": "meaning_drift: outcome prediction became early-termination question"
+  },
+  {
+   "text": "If I leave early with RDC, will I get all the money back? 🤔",
+   "reason": "meaning_drift: outcome prediction became early-termination question"
+  },
+  {
+   "text": "If I leave early with them, will I get my full deposit back?",
+   "reason": "meaning_drift: outcome prediction became early-termination question"
+  },
+  {
+   "text": "My boss put my stuff on the street and changed the lock, now I have my kids with me.",
+   "reason": "meaning_drift: landlord became boss/employer"
+  },
+  {
+   "text": "Landlord is being a bit too nosy and checking into our flat at night.",
+   "reason": "crisis softened (harassment became nosy)"
+  },
+  {
+   "text": "Landlord is being a bit too nosy and checking into our flat at night.",
+   "reason": "crisis softened (harassment became nosy)"
+  },
+  {
+   "text": "My boss said he would cancel my visa if I file a complaint.",
+   "reason": "meaning_drift: landlord became boss/employer"
+  },
+  {
+   "text": "Wah wah, Owner, maaan, my stuff was tossed by you folks today, what a bummer.",
+   "reason": "garbled"
+  },
+  {
+   "text": "Owner, minnaha binti, yaani, miiilhon, my things waa waa fiiiluuud by yooor people, wat a poop.",
+   "reason": "garbled_non_english"
+  }
+ ],
+ "kept": 307,
+ "dropped_leakage": 25,
+ "dropped_near_duplicate": 117,
+ "leakage_examples": [
+  {
+   "text": "Is my landlord allowed to cut the internet or AC to make me leave?",
+   "intent": "factual",
+   "group": "s011",
+   "origin": "seed",
+   "max_sim_to_eval": 0.888
+  },
+  {
+   "text": "Can my landlord cut the internet or AC to make me leave? 😂",
+   "intent": "factual",
+   "group": "s011",
+   "origin": "llm_paraphrase",
+   "max_sim_to_eval": 0.875
+  },
+  {
+   "text": "Is my landlord allowed to cut off internet or AC to make me move out? 🤔",
+   "intent": "factual",
+   "group": "s011",
+   "origin": "llm_paraphrase",
+   "max_sim_to_eval": 0.874
+  },
+  {
+   "text": "Can my landlord cut off internet or AC as a way to make me leave? 🤔",
+   "intent": "factual",
+   "group": "s011",
+   "origin": "llm_paraphrase",
+   "max_sim_to_eval": 0.892
+  },
+  {
+   "text": "What changes did the 2008 amendment make for evictions? In Dubai, right?",
+   "intent": "factual",
+   "group": "s018",
+   "origin": "llm_paraphrase",
+   "max_sim_to_eval": 0.927
+  },
+  {
+   "text": "In Dubai, what did the 2008 rule change for kicking people out?",
+   "intent": "factual",
+   "group": "s018",
+   "origin": "llm_paraphrase",
+   "max_sim_to_eval": 0.855
+  },
+  {
+   "text": "rent 45000 average 50000, how much increase allowed",
+   "intent": "calculation",
+   "group": "s021",
+   "origin": "seed",
+   "max_sim_to_eval": 0.861
+  },
+  {
+   "text": "Calculate the RDC fee for a dispute if my yearly rent is AED 65,000",
+   "intent": "calculation",
+   "group": "s022",
+   "origin": "seed",
+   "max_sim_to_eval": 0.894
+  },
+  {
+   "text": "Hey, can you help me out with calculating the RDC fee for a dispute? My yearly rent is AED 65,000.",
+   "intent": "calculation",
+   "group": "s022",
+   "origin": "llm_paraphrase",
+   "max_sim_to_eval": 0.858
+  },
+  {
+   "text": "Pls, calc RDC fee for a dispute. My rent is AED 65k.",
+   "intent": "calculation",
+   "group": "s022",
+   "origin": "llm_paraphrase",
+   "max_sim_to_eval": 0.856
+  }
+ ],
+ "by_label": {
+  "factual": 69,
+  "calculation": 39,
+  "procedural": 62,
+  "out_of_scope": 46,
+  "advice_seeking": 52,
+  "crisis": 39
+ },
+ "by_split": {
+  "train": {
+   "factual": 51,
+   "calculation": 25,
+   "procedural": 45,
+   "out_of_scope": 30,
+   "advice_seeking": 30,
+   "crisis": 27
+  },
+  "val": {
+   "factual": 8,
+   "calculation": 7,
+   "procedural": 10,
+   "out_of_scope": 8,
+   "advice_seeking": 9,
+   "crisis": 6
+  },
+  "test": {
+   "factual": 10,
+   "calculation": 7,
+   "procedural": 7,
+   "out_of_scope": 8,
+   "advice_seeking": 13,
+   "crisis": 6
+  }
+ }
+}

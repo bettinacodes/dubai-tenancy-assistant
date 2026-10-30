@@ -1,0 +1,212 @@
+[
+ {
+  "text": "My boss can come to my room without me saying anything, right?",
+  "intent": "factual",
+  "reason": "meaning_drift: landlord became boss/employer",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Can my boss go into my flat without asking me, mate?",
+  "intent": "factual",
+  "reason": "meaning_drift: landlord became boss/employer",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Bro, what if my boss yah passes, how my lease deal? 🤔",
+  "intent": "factual",
+  "reason": "meaning_drift: landlord became boss/employer",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "My boss want to change contract terms in the middle of the year, is it allowed?",
+  "intent": "factual",
+  "reason": "meaning_drift: landlord became boss/employer",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "{non-native} what counts as a reason to get kicked out before my contract is done?",
+  "intent": "factual",
+  "reason": "prompt instruction leaked into text",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Can the boss increase the rent anytime or just at lease renewal time?",
+  "intent": "factual",
+  "reason": "meaning_drift: landlord became boss/employer",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Hey, how long do tenants usually stick to if there ain't no end date?",
+  "intent": "factual",
+  "reason": "meaning_drift: legal term of lease became how long people stay",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "If they don't write when the lease ends, how long do people usually stay around here?",
+  "intent": "factual",
+  "reason": "meaning_drift: legal term of lease became how long people stay",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "In Dubai, if there's no end date mentioned, how long do people usually stay?",
+  "intent": "factual",
+  "reason": "meaning_drift: legal term of lease became how long people stay",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "R u askin if u can give my room to a frnd?",
+  "intent": "factual",
+  "reason": "meaning_drift: subletting question garbled",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "I pay 72k and I heard comparable flats are at 80k. Can I get a bit more for rent?",
+  "intent": "calculation",
+  "reason": "meaning_drift: whether rent can rise became tenant asking to pay/charge more",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "I pay 72k, hearth they're asking 80k for similer flats. Can I get a bit more for my rent?",
+  "intent": "calculation",
+  "reason": "meaning_drift: whether rent can rise became tenant asking to pay/charge more",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "I'm paying 72k, folks are asking 80k for flats like mine. Can I get a bit more for my rent?",
+  "intent": "calculation",
+  "reason": "meaning_drift: whether rent can rise became tenant asking to pay/charge more",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Can you add more to the rent, sir? It's at 1.2 lakh, but the market is at 1.5 lakh, please.",
+  "intent": "calculation",
+  "reason": "meaning_drift: whether rent can rise became tenant asking to pay/charge more",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "my rent 250k 1naan; RDC fee kya hota hai?",
+  "intent": "calculation",
+  "reason": "garbled code-mixing",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Can I stream the RDC hearing bro? How do I do that?",
+  "intent": "procedural",
+  "reason": "meaning_drift: attend online became stream",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "I can go to RDC hearin' on line? How? Formal: May I be present at the RDC hearing through an online platform, and under what procedures should I proceed?",
+  "intent": "procedural",
+  "reason": "prompt instruction leaked into text",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Nah, can u help me with a tenancy contract?",
+  "intent": "out_of_scope",
+  "reason": "ambiguous intent after paraphrase",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Ain't got time to draft one, can u help?",
+  "intent": "out_of_scope",
+  "reason": "ambiguous intent after paraphrase",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Is buy or rent cheaper in Dubai now? Non-native, but clear, please.",
+  "intent": "out_of_scope",
+  "reason": "prompt instruction leaked into text",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Hey, why don't scientists trust atoms? Because they make up everything!",
+  "intent": "out_of_scope",
+  "reason": "LLM told a joke instead of paraphrasing",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Why did the tomato turn red? Because it saw the salad dressing!",
+  "intent": "out_of_scope",
+  "reason": "LLM told a joke instead of paraphrasing",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Why did the chicken cross the playground? To get to the other slide!",
+  "intent": "out_of_scope",
+  "reason": "LLM told a joke instead of paraphrasing",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Wanna sign that new contract with the higher rent?",
+  "intent": "advice_seeking",
+  "reason": "ambiguous intent after paraphrase",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Hey, can I stop paying rent til he fixes that dripping faucet? 😊",
+  "intent": "advice_seeking",
+  "reason": "label flip: should I (advice) became can I (factual)",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Can I pause my rent payments until he fixes that water leak, please? 🛠",
+  "intent": "advice_seeking",
+  "reason": "label flip: should I (advice) became can I (factual)",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Hey, can you help me out with my landlord issue here in Dubai? 😔",
+  "intent": "advice_seeking",
+  "reason": "too vague to carry the seed intent",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Can you help me with my landlord stuff in Dubai? I'm in a bind here. 😢",
+  "intent": "advice_seeking",
+  "reason": "too vague to carry the seed intent",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Hey, if I break my lease with RDC, do I still get my money back? 😊",
+  "intent": "advice_seeking",
+  "reason": "meaning_drift: outcome prediction became early-termination question",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "If I leave early with RDC, will I get all the money back? 🤔",
+  "intent": "advice_seeking",
+  "reason": "meaning_drift: outcome prediction became early-termination question",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "If I leave early with them, will I get my full deposit back?",
+  "intent": "advice_seeking",
+  "reason": "meaning_drift: outcome prediction became early-termination question",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "My boss put my stuff on the street and changed the lock, now I have my kids with me.",
+  "intent": "crisis",
+  "reason": "meaning_drift: landlord became boss/employer",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Landlord is being a bit too nosy and checking into our flat at night.",
+  "intent": "crisis",
+  "reason": "crisis softened (harassment became nosy)",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "My boss said he would cancel my visa if I file a complaint.",
+  "intent": "crisis",
+  "reason": "meaning_drift: landlord became boss/employer",
+  "reviewer": "manual label check 2026-10-09"
+ },
+ {
+  "text": "Wah wah, Owner, maaan, my stuff was tossed by you folks today, what a bummer.",
+  "intent": "crisis",
+  "reason": "garbled",
+  "reviewer": "manual label check 2026-10-09"
+ }
+]

@@ -1,0 +1,10 @@
+# Runtime packages for the notebooks on Google Colab (free T4). Colab already provides torch, transformers,
+# accelerate, sentence-transformers, peft, numpy, pandas, scikit-learn, matplotlib and httpx.
+# Ingestion-only packages (trafilatura, pdfplumber, spacy, ...) are not needed: data/processed is in the repo.
+chromadb>=0.5
+bm25s>=0.2
+PyStemmer>=2.2
+bitsandbytes>=0.43
+gradio>=4.40
+wordfreq>=3.1
+sentencepiece

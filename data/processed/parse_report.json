@@ -1,0 +1,157 @@
+{
+  "sources": {
+    "dubai-law-26-2007": {
+      "records": 37,
+      "arabic_prevails_notice": true
+    },
+    "dubai-law-33-2008": {
+      "records": 13,
+      "arabic_prevails_notice": true
+    },
+    "dubai-decree-43-2013": {
+      "records": 4,
+      "arabic_prevails_notice": true
+    },
+    "dubai-decree-26-2013": {
+      "records": 31,
+      "arabic_prevails_notice": true
+    },
+    "dld-smart-rental-index": {
+      "records": 4
+    },
+    "dld-ejari-register": {
+      "records": 3
+    },
+    "dld-faq": {
+      "records": 194,
+      "sections": [
+        "Rental Services",
+        "Dispute Services"
+      ]
+    },
+    "rdc-faq": {
+      "records": 130,
+      "sections": null
+    },
+    "dld-decree-43-2013-pdf": {
+      "records": 0,
+      "excluded": "exact duplicate of Decree 43/2013 already indexed from dlp.dubai.gov.ae"
+    },
+    "dld-tenancy-guide": {
+      "records": 15,
+      "ligature_repairs": {
+        "frst": "first",
+        "feld": "field",
+        "benefciary": "beneficiary",
+        "certifcates": "certificates",
+        "offcial": "official",
+        "identifes": "identifies",
+        "qualifed": "qualified",
+        "offcially": "officially",
+        "fxed": "fixed",
+        "fnanced": "financed",
+        "certifcate": "certificate",
+        "specifcations": "specifications",
+        "specifed": "specified",
+        "identifed": "identified",
+        "fnal": "final",
+        "offce": "office",
+        "verifed": "verified",
+        "offces": "offices",
+        "fled": "filed",
+        "fll": "fill",
+        "affxed": "affixed",
+        "classifcations": "classifications"
+      },
+      "running_headers": [
+        "How to Register",
+        "Tenancy Guide",
+        "Tenancy Regulating Legislations"
+      ]
+    },
+    "dld-real-estate-legislation": {
+      "records": 0,
+      "excluded": "compendium reprinting legislation already indexed from dlp.dubai.gov.ae"
+    },
+    "uae-gov-emergencies": {
+      "records": 0,
+      "excluded": "escalation contacts only; not indexed for retrieval"
+    },
+    "dld-contact": {
+      "records": 0,
+      "excluded": "escalation contacts only; not indexed for retrieval"
+    },
+    "rdc-contact": {
+      "records": 0,
+      "excluded": "escalation contacts only; not indexed for retrieval"
+    }
+  },
+  "quality_flagged": [
+    "dld-smart-rental-index__s-3",
+    "rdc-faq__q-85",
+    "dld-faq__q-82"
+  ],
+  "faq_duplicates_removed": 49,
+  "faq_duplicate_map": {
+    "dld-faq__q-84": "dld-faq__q-7",
+    "dld-faq__q-83": "dld-faq__q-8",
+    "dld-faq__q-11": "dld-faq__q-10",
+    "dld-faq__q-66": "rdc-faq__q-118",
+    "dld-faq__q-95": "rdc-faq__q-118",
+    "dld-faq__q-184": "rdc-faq__q-118",
+    "dld-faq__q-149": "dld-faq__q-148",
+    "dld-faq__q-150": "dld-faq__q-148",
+    "dld-faq__q-151": "dld-faq__q-148",
+    "dld-faq__q-161": "rdc-faq__q-83",
+    "dld-faq__q-162": "rdc-faq__q-86",
+    "dld-faq__q-163": "rdc-faq__q-85",
+    "dld-faq__q-164": "rdc-faq__q-84",
+    "dld-faq__q-165": "rdc-faq__q-88",
+    "dld-faq__q-166": "rdc-faq__q-89",
+    "dld-faq__q-167": "rdc-faq__q-90",
+    "dld-faq__q-169": "rdc-faq__q-93",
+    "dld-faq__q-170": "rdc-faq__q-98",
+    "dld-faq__q-172": "rdc-faq__q-101",
+    "dld-faq__q-173": "rdc-faq__q-102",
+    "dld-faq__q-174": "rdc-faq__q-103",
+    "dld-faq__q-175": "rdc-faq__q-104",
+    "dld-faq__q-176": "rdc-faq__q-109",
+    "dld-faq__q-177": "rdc-faq__q-110",
+    "dld-faq__q-178": "rdc-faq__q-111",
+    "dld-faq__q-179": "rdc-faq__q-113",
+    "dld-faq__q-180": "rdc-faq__q-114",
+    "dld-faq__q-181": "rdc-faq__q-115",
+    "dld-faq__q-182": "rdc-faq__q-116",
+    "dld-faq__q-183": "rdc-faq__q-117",
+    "dld-faq__q-185": "rdc-faq__q-119",
+    "rdc-faq__q-42": "rdc-faq__q-41",
+    "rdc-faq__q-44": "rdc-faq__q-41",
+    "rdc-faq__q-45": "rdc-faq__q-41",
+    "rdc-faq__q-46": "rdc-faq__q-41",
+    "rdc-faq__q-64": "rdc-faq__q-41",
+    "rdc-faq__q-120": "rdc-faq__q-41",
+    "dld-faq__q-186": "rdc-faq__q-41",
+    "dld-faq__q-187": "rdc-faq__q-121",
+    "dld-faq__q-188": "rdc-faq__q-122",
+    "dld-faq__q-189": "rdc-faq__q-123",
+    "dld-faq__q-190": "rdc-faq__q-126",
+    "dld-faq__q-191": "rdc-faq__q-127",
+    "dld-faq__q-192": "rdc-faq__q-128",
+    "dld-faq__q-194": "rdc-faq__q-130",
+    "rdc-faq__q-23": "rdc-faq__q-1",
+    "rdc-faq__q-58": "rdc-faq__q-56",
+    "rdc-faq__q-68": "rdc-faq__q-67",
+    "rdc-faq__q-80": "rdc-faq__q-78"
+  },
+  "total_parents": 382,
+  "by_tier": {
+    "legislation": 50,
+    "decree": 35,
+    "regulatory_guidance": 19,
+    "service_guidance": 278
+  },
+  "by_status": {
+    "in_force": 368,
+    "superseded": 14
+  }
+}

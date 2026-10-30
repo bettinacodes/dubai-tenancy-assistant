@@ -1,0 +1,430 @@
+{"text": "What are the landlord's obligations during the lease in Dubai?", "intent": "factual", "group": "s000", "origin": "seed"}
+{"text": "Hey, can you give me the rundown on landlord's obligations during lease in Dubai?", "intent": "factual", "group": "s000", "origin": "llm_paraphrase"}
+{"text": "... In Dubai, what are the landlord's responsibilities during a lease?", "intent": "factual", "group": "s000", "origin": "llm_paraphrase"}
+{"text": "What do landlords have to do during a lease in Dubai?", "intent": "factual", "group": "s000", "origin": "llm_paraphrase"}
+{"text": "Does the rent include use of the gym and pool in my building?", "intent": "factual", "group": "s001", "origin": "seed"}
+{"text": "Hey, do the bills include gym and pool use in ur building?", "intent": "factual", "group": "s001", "origin": "llm_paraphrase"}
+{"text": "Wanna know if gym and pool use is free with rent?", "intent": "factual", "group": "s001", "origin": "llm_paraphrase"}
+{"text": "Does rent cover gym and pool in the building?", "intent": "factual", "group": "s001", "origin": "llm_paraphrase"}
+{"text": "Who pays the municipality fees, tenant or owner?", "intent": "factual", "group": "s002", "origin": "seed"}
+{"text": "Hey, do the municipality fees go to the tenant or the owner, mate?", "intent": "factual", "group": "s002", "origin": "llm_paraphrase"}
+{"text": "So, who's supposed to pay those municipality fees, the tenant or the owner?", "intent": "factual", "group": "s002", "origin": "llm_paraphrase"}
+{"text": "Hi, do we tenants or the owners end up paying the municipality fees?", "intent": "factual", "group": "s002", "origin": "llm_paraphrase"}
+{"text": "can landlord enter my flat without asking me", "intent": "factual", "group": "s003", "origin": "seed"}
+{"text": "Can my landlord come into my flat without asking me?", "intent": "factual", "group": "s003", "origin": "llm_paraphrase"}
+{"text": "My boss can come to my room without me saying anything, right?", "intent": "factual", "group": "s003", "origin": "llm_paraphrase"}
+{"text": "Can my boss go into my flat without asking me, mate?", "intent": "factual", "group": "s003", "origin": "llm_paraphrase"}
+{"text": "Is a verbal tenancy agreement valid in Dubai?", "intent": "factual", "group": "s004", "origin": "seed"}
+{"text": "Is a verbal tenancy agreement legit in Dubai?", "intent": "factual", "group": "s004", "origin": "llm_paraphrase"}
+{"text": "Wanna know if a verbal tenancy agreement is legit in Dubai?", "intent": "factual", "group": "s004", "origin": "llm_paraphrase"}
+{"text": "Is a verbal tenancy agreement considered valid in Dubai?", "intent": "factual", "group": "s004", "origin": "llm_paraphrase"}
+{"text": "What happens to my lease if the landlord dies?", "intent": "factual", "group": "s005", "origin": "seed"}
+{"text": "If my landlord passes, what happens to my lease? 😕", "intent": "factual", "group": "s005", "origin": "llm_paraphrase"}
+{"text": "Bro, what if my boss yah passes, how my lease deal? 🤔", "intent": "factual", "group": "s005", "origin": "llm_paraphrase"}
+{"text": "If my joker landlord dies, what's gonna happen with my lease agreement? 🤔", "intent": "factual", "group": "s005", "origin": "llm_paraphrase"}
+{"text": "Can I take the shelves and fittings I installed when I leave?", "intent": "factual", "group": "s006", "origin": "seed"}
+{"text": "Can I take the shelves and fittings when I leave?", "intent": "factual", "group": "s006", "origin": "llm_paraphrase"}
+{"text": "Can I take the shelves and fittings I installed when I leave?", "intent": "factual", "group": "s006", "origin": "llm_paraphrase"}
+{"text": "I installed some shelves and fittings, can I take them with me when I go?", "intent": "factual", "group": "s006", "origin": "llm_paraphrase"}
+{"text": "my landlord wants to change the contract terms in the middle of the year, is it allowed", "intent": "factual", "group": "s007", "origin": "seed"}
+{"text": "My landlord wanna change the contract terms mid-year, is it allowed?", "intent": "factual", "group": "s007", "origin": "llm_paraphrase"}
+{"text": "Wanna change the contract terms mid-year, is it allowed? My landlord wants to do that.", "intent": "factual", "group": "s007", "origin": "llm_paraphrase"}
+{"text": "My boss want to change contract terms in the middle of the year, is it allowed?", "intent": "factual", "group": "s007", "origin": "llm_paraphrase"}
+{"text": "Does the tenancy law apply to apartments in free zones?", "intent": "factual", "group": "s008", "origin": "seed"}
+{"text": "Hey, does the law for renting apartments in free zones apply?", "intent": "factual", "group": "s008", "origin": "llm_paraphrase"}
+{"text": "In the free zones, do we follow the same rules as in other areas?", "intent": "factual", "group": "s008", "origin": "llm_paraphrase"}
+{"text": "Does renting in free zones have different laws compared to other parts of Dubai?", "intent": "factual", "group": "s008", "origin": "llm_paraphrase"}
+{"text": "What counts as a valid reason for eviction before the contract ends?", "intent": "factual", "group": "s009", "origin": "seed"}
+{"text": "Hey, can you please tell me what counts as a reason to get evicted before the contract ends?", "intent": "factual", "group": "s009", "origin": "llm_paraphrase"}
+{"text": "{non-native} what counts as a reason to get kicked out before my contract is done?", "intent": "factual", "group": "s009", "origin": "llm_paraphrase"}
+{"text": "In formal terms, what qualifies as a cause for eviction prior to the contract's expiration?", "intent": "factual", "group": "s009", "origin": "llm_paraphrase"}
+{"text": "If the landlord sells the building, does my contract still hold?", "intent": "factual", "group": "s010", "origin": "seed"}
+{"text": "If the landlord sells the building, does my contract still stick around?", "intent": "factual", "group": "s010", "origin": "llm_paraphrase"}
+{"text": "If the landlord sells the building, will my contract still be valid?", "intent": "factual", "group": "s010", "origin": "llm_paraphrase"}
+{"text": "If the landlord sells the building, will my lease still be in effect?", "intent": "factual", "group": "s010", "origin": "llm_paraphrase"}
+{"text": "Is my landlord allowed to cut the internet or AC to make me leave?", "intent": "factual", "group": "s011", "origin": "seed"}
+{"text": "Can my landlord cut the internet or AC to make me leave? 😂", "intent": "factual", "group": "s011", "origin": "llm_paraphrase"}
+{"text": "Is my landlord allowed to cut off internet or AC to make me move out? 🤔", "intent": "factual", "group": "s011", "origin": "llm_paraphrase"}
+{"text": "Can my landlord cut off internet or AC as a way to make me leave? 🤔", "intent": "factual", "group": "s011", "origin": "llm_paraphrase"}
+{"text": "what is ejari and why it is needed", "intent": "factual", "group": "s012", "origin": "seed"}
+{"text": "Hey, what's up with ejari and why do we need it?", "intent": "factual", "group": "s012", "origin": "llm_paraphrase"}
+{"text": "Eh, what's ejari and why it's needed?", "intent": "factual", "group": "s012", "origin": "llm_paraphrase"}
+{"text": "What's up with ejari and why we need it?", "intent": "factual", "group": "s012", "origin": "llm_paraphrase"}
+{"text": "Can the owner raise rent at any time or only at renewal?", "intent": "factual", "group": "s013", "origin": "seed"}
+{"text": "Can the owner bump up the rent anytime or just at lease renewal?", "intent": "factual", "group": "s013", "origin": "llm_paraphrase"}
+{"text": "At what point can the owner jack up the rent, at lease renewal time only?", "intent": "factual", "group": "s013", "origin": "llm_paraphrase"}
+{"text": "Can the boss increase the rent anytime or just at lease renewal time?", "intent": "factual", "group": "s013", "origin": "llm_paraphrase"}
+{"text": "Who is responsible for repairs caused by normal wear and tear?", "intent": "factual", "group": "s014", "origin": "seed"}
+{"text": "Who's in charge of fixing stuff that wears out naturally?", "intent": "factual", "group": "s014", "origin": "llm_paraphrase"}
+{"text": "Whos' responsible for things that get old and break?", "intent": "factual", "group": "s014", "origin": "llm_paraphrase"}
+{"text": "Who fixes stuff that just wears out?", "intent": "factual", "group": "s014", "origin": "llm_paraphrase"}
+{"text": "Is it legal for the landlord to refuse to renew because he wants more money?", "intent": "factual", "group": "s015", "origin": "seed"}
+{"text": "Is ur landlord legit for not renewin cuz he wanna get more dough?", "intent": "factual", "group": "s015", "origin": "llm_paraphrase"}
+{"text": "Can my jinni landlady say no renewal 'cause she wants more cash?", "intent": "factual", "group": "s015", "origin": "llm_paraphrase"}
+{"text": "Can my Landlord refuse to renew the lease because he wants more money, legally?", "intent": "factual", "group": "s015", "origin": "llm_paraphrase"}
+{"text": "how long is a tenancy contract if no end date is written", "intent": "factual", "group": "s016", "origin": "seed"}
+{"text": "Hey, how long do tenants usually stick to if there ain't no end date?", "intent": "factual", "group": "s016", "origin": "llm_paraphrase"}
+{"text": "If they don't write when the lease ends, how long do people usually stay around here?", "intent": "factual", "group": "s016", "origin": "llm_paraphrase"}
+{"text": "In Dubai, if there's no end date mentioned, how long do people usually stay?", "intent": "factual", "group": "s016", "origin": "llm_paraphrase"}
+{"text": "Does the law say anything about subletting a room to a friend?", "intent": "factual", "group": "s017", "origin": "seed"}
+{"text": "Does the law say anything about subletting a room to a friend?", "intent": "factual", "group": "s017", "origin": "llm_paraphrase"}
+{"text": "R u askin if u can give my room to a frnd?", "intent": "factual", "group": "s017", "origin": "llm_paraphrase"}
+{"text": "Does the law say anything about letting out a room to a friend?", "intent": "factual", "group": "s017", "origin": "llm_paraphrase"}
+{"text": "What did the 2008 amendment change about evictions?", "intent": "factual", "group": "s018", "origin": "seed"}
+{"text": "What changes did the 2008 amendment make for evictions? In Dubai, right?", "intent": "factual", "group": "s018", "origin": "llm_paraphrase"}
+{"text": "How did the 2008 thing affect evicting people from their places? Can you tell me about it?", "intent": "factual", "group": "s018", "origin": "llm_paraphrase"}
+{"text": "In Dubai, what did the 2008 rule change for kicking people out?", "intent": "factual", "group": "s018", "origin": "llm_paraphrase"}
+{"text": "Is the smart rental index binding on my landlord?", "intent": "factual", "group": "s019", "origin": "seed"}
+{"text": "Is the smart rental index a binding thing for my landlord?", "intent": "factual", "group": "s019", "origin": "llm_paraphrase"}
+{"text": "The smart rental index binding on my landlord, right?", "intent": "factual", "group": "s019", "origin": "llm_paraphrase"}
+{"text": "Is the smart rental index rule for my landlord?", "intent": "factual", "group": "s019", "origin": "llm_paraphrase"}
+{"text": "My rent is 90,000 and the index says similar units go for 120,000. What is the maximum increase?", "intent": "calculation", "group": "s020", "origin": "seed"}
+{"text": "My rent is 90k and the index says similar units are going for 120k. What's the max increase?", "intent": "calculation", "group": "s020", "origin": "llm_paraphrase"}
+{"text": "My rent 90k and similar units 120k. What increase?", "intent": "calculation", "group": "s020", "origin": "llm_paraphrase"}
+{"text": "My rent is 90k and index says similar units go for 120k. How much increase?", "intent": "calculation", "group": "s020", "origin": "llm_paraphrase"}
+{"text": "rent 45000 average 50000, how much increase allowed", "intent": "calculation", "group": "s021", "origin": "seed"}
+{"text": "Hey, can I go up to 55k if it's allowed?", "intent": "calculation", "group": "s021", "origin": "llm_paraphrase"}
+{"text": "Ahh, can we go up to 50k if it's fine?", "intent": "calculation", "group": "s021", "origin": "llm_paraphrase"}
+{"text": "Yo, the average is 50k, how about we go to that?", "intent": "calculation", "group": "s021", "origin": "llm_paraphrase"}
+{"text": "Calculate the RDC fee for a dispute if my yearly rent is AED 65,000", "intent": "calculation", "group": "s022", "origin": "seed"}
+{"text": "Hey, can you help me out with calculating the RDC fee for a dispute? My yearly rent is AED 65,000.", "intent": "calculation", "group": "s022", "origin": "llm_paraphrase"}
+{"text": "Pls, calc RDC fee for a dispute. My rent is AED 65k.", "intent": "calculation", "group": "s022", "origin": "llm_paraphrase"}
+{"text": "I need to know how much the RDC fee is for a dispute. My rent is AED 65,000 please.", "intent": "calculation", "group": "s022", "origin": "llm_paraphrase"}
+{"text": "Landlord notified me 60 days before expiry about a rent hike - is that enough notice?", "intent": "calculation", "group": "s023", "origin": "seed"}
+{"text": "Hey Landlord, they said they'll notify me 60 days before my rent goes up, is that enough time? Seems like a bit of a short notice to me. 😢", "intent": "calculation", "group": "s023", "origin": "llm_paraphrase"}
+{"text": "Landlord, they said they'd give me 60 days notice for rent hike, is that enough time? Feelin' like it's not much notice. 🙄", "intent": "calculation", "group": "s023", "origin": "llm_paraphrase"}
+{"text": "Hey Landlord, they said they'll give me 60 days notice for the rent hike, is that enough time? I feel like it's not much time. ☹", "intent": "calculation", "group": "s023", "origin": "llm_paraphrase"}
+{"text": "how much percent can he increase if my rent is 30% below market", "intent": "calculation", "group": "s024", "origin": "seed"}
+{"text": "If my rent is 30% less than the market, how much can he increase it by?", "intent": "calculation", "group": "s024", "origin": "llm_paraphrase"}
+{"text": "If my rent is 30% under market, how much can he raise it by?", "intent": "calculation", "group": "s024", "origin": "llm_paraphrase"}
+{"text": "If my rent is 30% lower than the market, how much can he raise it?", "intent": "calculation", "group": "s024", "origin": "llm_paraphrase"}
+{"text": "My contract expires on 15 March 2027. By what date must the landlord tell me about a rent change?", "intent": "calculation", "group": "s025", "origin": "seed"}
+{"text": "My contract ends on March 15, 2027. When should the landlord let me know if there's a change in rent?", "intent": "calculation", "group": "s025", "origin": "llm_paraphrase"}
+{"text": "My contract is done on 15th March 2027. When should I get a notice if the rent is going up?", "intent": "calculation", "group": "s025", "origin": "llm_paraphrase"}
+{"text": "My lease finishes on March 15, 2027. When should the landlord let me know if the rent is changing?", "intent": "calculation", "group": "s025", "origin": "llm_paraphrase"}
+{"text": "What would the filing fee be for a rent claim of AED 12,000?", "intent": "calculation", "group": "s026", "origin": "seed"}
+{"text": "Hey, what's the filing fee for a rent claim of 12K AED?", "intent": "calculation", "group": "s026", "origin": "llm_paraphrase"}
+{"text": "Yo, wanna know how much the filing fee is for a 12k AED rent claim?", "intent": "calculation", "group": "s026", "origin": "llm_paraphrase"}
+{"text": "For a rent claim of 12k AED, how much is the filing fee?", "intent": "calculation", "group": "s026", "origin": "llm_paraphrase"}
+{"text": "I pay 72k and comparable flats are 80k, can rent go up?", "intent": "calculation", "group": "s027", "origin": "seed"}
+{"text": "I pay 72k and I heard comparable flats are at 80k. Can I get a bit more for rent?", "intent": "calculation", "group": "s027", "origin": "llm_paraphrase"}
+{"text": "I pay 72k, hearth they're asking 80k for similer flats. Can I get a bit more for my rent?", "intent": "calculation", "group": "s027", "origin": "llm_paraphrase"}
+{"text": "I'm paying 72k, folks are asking 80k for flats like mine. Can I get a bit more for my rent?", "intent": "calculation", "group": "s027", "origin": "llm_paraphrase"}
+{"text": "He gave me eviction notice on 1 Jan 2026 to leave by 1 July 2026 because he is selling. Is the timing ok?", "intent": "calculation", "group": "s028", "origin": "seed"}
+{"text": "Hey, he gave me notice to leave by July 2026 to sell. Is that timing alright?", "intent": "calculation", "group": "s028", "origin": "llm_paraphrase"}
+{"text": "Bro, he gave me notice to leave till July 2026 to sell. Is that timing okay?", "intent": "calculation", "group": "s028", "origin": "llm_paraphrase"}
+{"text": "His eviction notice says I should leave by July 2026 because he's selling. Is that on time?", "intent": "calculation", "group": "s028", "origin": "llm_paraphrase"}
+{"text": "what is the max new rent if current is 100000 and index average 160000", "intent": "calculation", "group": "s029", "origin": "seed"}
+{"text": "If my current rent is 100,000 and the average index is 160,000, what's the max new rent?", "intent": "calculation", "group": "s029", "origin": "llm_paraphrase"}
+{"text": "If current rent is 100k and the index average 160k, what's the max new rent?", "intent": "calculation", "group": "s029", "origin": "llm_paraphrase"}
+{"text": "Current rent is 100k and index avg 160k. What's the max new rent?", "intent": "calculation", "group": "s029", "origin": "llm_paraphrase"}
+{"text": "How many days do I have left to respond if the notice was served on 3 May?", "intent": "calculation", "group": "s030", "origin": "seed"}
+{"text": "Hey, how many days left til my response is due if the notice came on 3 May?", "intent": "calculation", "group": "s030", "origin": "llm_paraphrase"}
+{"text": "Yo, wanna know how many days I got left for my response if they sent me the notice on 3rd May?", "intent": "calculation", "group": "s030", "origin": "llm_paraphrase"}
+{"text": "Dude, if the notice came on 3rd May, how many days do I have left to respond?", "intent": "calculation", "group": "s030", "origin": "llm_paraphrase"}
+{"text": "Work out the cap: annual rent AED 58,000, average for the area AED 70,000", "intent": "calculation", "group": "s031", "origin": "seed"}
+{"text": "Hey, can you calculate the cap for annual rent AED 58k and the average for the area AED 70k?", "intent": "calculation", "group": "s031", "origin": "llm_paraphrase"}
+{"text": "Can you find out the cap for the annual rent AED 58k and the avg. AED 70k for the area, please?", "intent": "calculation", "group": "s031", "origin": "llm_paraphrase"}
+{"text": "For an annual rent of AED 58k and an average of AED 70k for the area, can you determine the cap, please?", "intent": "calculation", "group": "s031", "origin": "llm_paraphrase"}
+{"text": "rent 1.2 lakh, market 1.5 lakh, how much landlord can add", "intent": "calculation", "group": "s032", "origin": "seed"}
+{"text": "Hey, can the landlord add some more to the rent? It's asking for 1.2 lakh, but the market is at 1.5 lakh.", "intent": "calculation", "group": "s032", "origin": "llm_paraphrase"}
+{"text": "Can you add more to the rent, sir? It's at 1.2 lakh, but the market is at 1.5 lakh, please.", "intent": "calculation", "group": "s032", "origin": "llm_paraphrase"}
+{"text": "I see the market price is 1.5 lakh. Can the landlord add a bit more to the rent, which is currently at 1.2 lakh?", "intent": "calculation", "group": "s032", "origin": "llm_paraphrase"}
+{"text": "Is a 10% increase ok if my rent is 15% below the average?", "intent": "calculation", "group": "s033", "origin": "seed"}
+{"text": "Hey, can a 10% bump be okay when my rent is already 15% less than the average?", "intent": "calculation", "group": "s033", "origin": "llm_paraphrase"}
+{"text": "Can a 10% rise be alright if my rent is 15% cheaper than the usual?", "intent": "calculation", "group": "s033", "origin": "llm_paraphrase"}
+{"text": "Hey, is a 10% hike ok if my rent is already 15% below the standard?", "intent": "calculation", "group": "s033", "origin": "llm_paraphrase"}
+{"text": "my annual rent is AED 250,000; what is the RDC filing fee for eviction case", "intent": "calculation", "group": "s034", "origin": "seed"}
+{"text": "Casual/Colloquial: My annual rent is AED 250k; what's the RDC fee for eviction case? 😎", "intent": "calculation", "group": "s034", "origin": "llm_paraphrase"}
+{"text": "Non-Native English with simple grammar: my rent 250k 1naan; RDC fee kya hota hai?", "intent": "calculation", "group": "s034", "origin": "llm_paraphrase"}
+{"text": "Formal: My annual rental obligation amounts to AED 250,000; could you please inform me of the RDC filing fee for a case of eviction?", "intent": "calculation", "group": "s034", "origin": "llm_paraphrase"}
+{"text": "Notice came 100 days before my contract ends, does it meet the requirement?", "intent": "calculation", "group": "s035", "origin": "seed"}
+{"text": "Hey, the notice came 100 days before my contract ends, is that good enough?", "intent": "calculation", "group": "s035", "origin": "llm_paraphrase"}
+{"text": "Bhai, notice kya 100 days hota hai yadar mitti end hojayi, iska latha badla hai?", "intent": "calculation", "group": "s035", "origin": "llm_paraphrase"}
+{"text": "The notice came 100 days before the end of my contract. Does this meet the requirement?", "intent": "calculation", "group": "s035", "origin": "llm_paraphrase"}
+{"text": "Landlord asks for 8% more, my rent is 40% under the index. Allowed?", "intent": "calculation", "group": "s036", "origin": "seed"}
+{"text": "Hey Landlord, you want 8% more? My rent's 40% under the index. Is that okay?", "intent": "calculation", "group": "s036", "origin": "llm_paraphrase"}
+{"text": "Landlord, you wanna hike my rent by 8%? My rent's 40% under the index. Is that alright?", "intent": "calculation", "group": "s036", "origin": "llm_paraphrase"}
+{"text": "Hey Landlord, you want me to raise my rent by 8%. My rent's 40% below the index. Is that okay?", "intent": "calculation", "group": "s036", "origin": "llm_paraphrase"}
+{"text": "How do I file a rental dispute case online?", "intent": "procedural", "group": "s037", "origin": "seed"}
+{"text": "Hey, can you tell me how to file a rental issue online in Dubai?", "intent": "procedural", "group": "s037", "origin": "llm_paraphrase"}
+{"text": "Wanna know how to do rental dispute stuff online here in Dubai?", "intent": "procedural", "group": "s037", "origin": "llm_paraphrase"}
+{"text": "I need help filing a rental dispute online, how do I do that?", "intent": "procedural", "group": "s037", "origin": "llm_paraphrase"}
+{"text": "where can i register my tenancy contract", "intent": "procedural", "group": "s038", "origin": "seed"}
+{"text": "Hey, where can I sign up my tenancy deal? 😄", "intent": "procedural", "group": "s038", "origin": "llm_paraphrase"}
+{"text": "Yo, where can I register my tenancy agreement? 🏡", "intent": "procedural", "group": "s038", "origin": "llm_paraphrase"}
+{"text": "Can anyone tell me where to register my tenancy contract? 📝", "intent": "procedural", "group": "s038", "origin": "llm_paraphrase"}
+{"text": "What documents does a company need to open a case at the Rental Disputes Center?", "intent": "procedural", "group": "s039", "origin": "seed"}
+{"text": "Hey, what docs do I need to open a case at the Rental Disputes Center?", "intent": "procedural", "group": "s039", "origin": "llm_paraphrase"}
+{"text": "Hey, need help with docs for opening a case at Rental Disputes Center?", "intent": "procedural", "group": "s039", "origin": "llm_paraphrase"}
+{"text": "Hey, what docs do I need for a case at the Rental Disputes Center?", "intent": "procedural", "group": "s039", "origin": "llm_paraphrase"}
+{"text": "How do I check the rental index for my building?", "intent": "procedural", "group": "s040", "origin": "seed"}
+{"text": "Hey, can you tell me how to check the rental index for our building?", "intent": "procedural", "group": "s040", "origin": "llm_paraphrase"}
+{"text": "Bro, how do I see the rental index for my place?", "intent": "procedural", "group": "s040", "origin": "llm_paraphrase"}
+{"text": "Hey there, could you guide me on checking the rental index for our building?", "intent": "procedural", "group": "s040", "origin": "llm_paraphrase"}
+{"text": "Steps to renew Ejari through the Dubai REST app?", "intent": "procedural", "group": "s041", "origin": "seed"}
+{"text": "Hey, can you guide me on how to renew my Ejari through the Dubai REST app?", "intent": "procedural", "group": "s041", "origin": "llm_paraphrase"}
+{"text": "Bhai, mujhe Dubai REST app se Ejari ka renewal process ka help paday ga?", "intent": "procedural", "group": "s041", "origin": "llm_paraphrase"}
+{"text": "Could you please let me know the steps to renew my Ejari using the Dubai REST app?", "intent": "procedural", "group": "s041", "origin": "llm_paraphrase"}
+{"text": "how to cancel ejari when I move out", "intent": "procedural", "group": "s042", "origin": "seed"}
+{"text": "Hey, can you guide me on how to cancel my EJARI when I'm moving out?", "intent": "procedural", "group": "s042", "origin": "llm_paraphrase"}
+{"text": "Buddy, I need help with cancelling my EJARI when I'm leaving the place. Can you assist?", "intent": "procedural", "group": "s042", "origin": "llm_paraphrase"}
+{"text": "Hello there, I’m trying to figure out how to cancel my EJARI lease when it’s time for me to move. Any tips would be appreciated!", "intent": "procedural", "group": "s042", "origin": "llm_paraphrase"}
+{"text": "How can I deposit rent with the RDC if the landlord won't accept it?", "intent": "procedural", "group": "s043", "origin": "seed"}
+{"text": "Hey, can you help me with RDC for my rent? The landlord won't take it.", "intent": "procedural", "group": "s043", "origin": "llm_paraphrase"}
+{"text": "RDC for rent, but the landlord won't accept. Can you sort this out?", "intent": "procedural", "group": "s043", "origin": "llm_paraphrase"}
+{"text": "Hey, need help with RDC for rent - the landlord won't take it. Can you assist?", "intent": "procedural", "group": "s043", "origin": "llm_paraphrase"}
+{"text": "What is the process to appeal an RDC decision?", "intent": "procedural", "group": "s044", "origin": "seed"}
+{"text": "Hey, can you tell me the process to appeal an RDC decision? 😊", "intent": "procedural", "group": "s044", "origin": "llm_paraphrase"}
+{"text": "Dude, how do I go about appealing an RDC decision? 🤔", "intent": "procedural", "group": "s044", "origin": "llm_paraphrase"}
+{"text": "Hello, could you explain the process to appeal an RDC decision?", "intent": "procedural", "group": "s044", "origin": "llm_paraphrase"}
+{"text": "How do I get a copy of my Ejari certificate?", "intent": "procedural", "group": "s045", "origin": "seed"}
+{"text": "Hey, can you help me grab a copy of my Ejari certificate, please?", "intent": "procedural", "group": "s045", "origin": "llm_paraphrase"}
+{"text": "Bro, I need a copy of my Ejari certificate, can you show me how?", "intent": "procedural", "group": "s045", "origin": "llm_paraphrase"}
+{"text": "Excuse me, I'm looking for a copy of my Ejari certificate, can you guide me on this?", "intent": "procedural", "group": "s045", "origin": "llm_paraphrase"}
+{"text": "Can I attend the RDC hearing online, and how?", "intent": "procedural", "group": "s046", "origin": "seed"}
+{"text": "Casual/Colloquial: Can I stream the RDC hearing bro? How do I do that?", "intent": "procedural", "group": "s046", "origin": "llm_paraphrase"}
+{"text": "Non-native English with simple grammar: I can go to RDC hearin' on line? How? Formal: May I be present at the RDC hearing through an online platform, and under what procedures should I proceed?", "intent": "procedural", "group": "s046", "origin": "llm_paraphrase"}
+{"text": "how long does RDC take to decide a case", "intent": "procedural", "group": "s047", "origin": "seed"}
+{"text": "Hey, how long does it take RDC to make up their minds on a case?", "intent": "procedural", "group": "s047", "origin": "llm_paraphrase"}
+{"text": "RDC, how long does it take for them to decide a case?", "intent": "procedural", "group": "s047", "origin": "llm_paraphrase"}
+{"text": "Hi, can you tell me how long RDC takes to decide a case?", "intent": "procedural", "group": "s047", "origin": "llm_paraphrase"}
+{"text": "Where do I pay the RDC fees?", "intent": "procedural", "group": "s048", "origin": "seed"}
+{"text": "Hey, where can I pay RDC fees?", "intent": "procedural", "group": "s048", "origin": "llm_paraphrase"}
+{"text": "Where I can I pay RDC fees?", "intent": "procedural", "group": "s048", "origin": "llm_paraphrase"}
+{"text": "Where can I find the place to pay RDC fees?", "intent": "procedural", "group": "s048", "origin": "llm_paraphrase"}
+{"text": "What do I need to bring to a real estate trustee centre for Ejari?", "intent": "procedural", "group": "s049", "origin": "seed"}
+{"text": "Hey, what docs do I need for the Ejari centre?", "intent": "procedural", "group": "s049", "origin": "llm_paraphrase"}
+{"text": "Need to bring what to the Ejari centre, anyone?", "intent": "procedural", "group": "s049", "origin": "llm_paraphrase"}
+{"text": "Hey, what papers do I need for Ejari trustee center?", "intent": "procedural", "group": "s049", "origin": "llm_paraphrase"}
+{"text": "How do I serve a notice through a notary public in Dubai?", "intent": "procedural", "group": "s050", "origin": "seed"}
+{"text": "Hey, can you tell me how to give a notice using a notary here in Dubai?", "intent": "procedural", "group": "s050", "origin": "llm_paraphrase"}
+{"text": "How do I give a notice through a notary in Dubai?", "intent": "procedural", "group": "s050", "origin": "llm_paraphrase"}
+{"text": "I need help serving a notice using a notary public in Dubai. Can you guide me?", "intent": "procedural", "group": "s050", "origin": "llm_paraphrase"}
+{"text": "how to apply payment writ to get my deposit back", "intent": "procedural", "group": "s051", "origin": "seed"}
+{"text": "Hey, can you guide me on how to use a payment writ to get my deposit back?", "intent": "procedural", "group": "s051", "origin": "llm_paraphrase"}
+{"text": "Yo, I need help applying for a payment writ to get my deposit back, can you assist?", "intent": "procedural", "group": "s051", "origin": "llm_paraphrase"}
+{"text": "Dude, I'm looking to use a payment writ to get my deposit back, do you know how to do that?", "intent": "procedural", "group": "s051", "origin": "llm_paraphrase"}
+{"text": "Can my wife register Ejari on my behalf with a power of attorney?", "intent": "procedural", "group": "s052", "origin": "seed"}
+{"text": "Can my wife register Ejari on my behalf with a POA?", "intent": "procedural", "group": "s052", "origin": "llm_paraphrase"}
+{"text": "Can my wife do Ejari with POA?", "intent": "procedural", "group": "s052", "origin": "llm_paraphrase"}
+{"text": "My wife can do Ejari with POA right?", "intent": "procedural", "group": "s052", "origin": "llm_paraphrase"}
+{"text": "What are the working hours of the Rental Disputes Center?", "intent": "procedural", "group": "s053", "origin": "seed"}
+{"text": "Hey, do they open on weekends? Rental Disputes Center working hours, anyone?", "intent": "procedural", "group": "s053", "origin": "llm_paraphrase"}
+{"text": "Yo, what time do they open in the Rental Disputes Center? I'm looking to know.", "intent": "procedural", "group": "s053", "origin": "llm_paraphrase"}
+{"text": "In the Rental Disputes Center, how early do they start working?", "intent": "procedural", "group": "s053", "origin": "llm_paraphrase"}
+{"text": "how to update my building classification in the rental index", "intent": "procedural", "group": "s054", "origin": "seed"}
+{"text": "Hey, can you help me update my building's classification in the rental index? I need to do this ASAP.", "intent": "procedural", "group": "s054", "origin": "llm_paraphrase"}
+{"text": "Yo, I'm trying to update my building's classification in the rental index. Can you guide me on how to do it? Please, I really need this done.", "intent": "procedural", "group": "s054", "origin": "llm_paraphrase"}
+{"text": "I want to change the classification of my building in the rental index. Could you explain how to do that?", "intent": "procedural", "group": "s054", "origin": "llm_paraphrase"}
+{"text": "How do I track the status of my rental case?", "intent": "procedural", "group": "s055", "origin": "seed"}
+{"text": "Hey, can you tell me where is my rental case status? :)", "intent": "procedural", "group": "s055", "origin": "llm_paraphrase"}
+{"text": "Hey, how do I check the status of my rental case? :/", "intent": "procedural", "group": "s055", "origin": "llm_paraphrase"}
+{"text": "Hello, I need to see the status of my rental case, can you help? :)", "intent": "procedural", "group": "s055", "origin": "llm_paraphrase"}
+{"text": "Which app do I use to register my lease?", "intent": "procedural", "group": "s056", "origin": "seed"}
+{"text": "Hey, which app should I use to register my lease? 😎", "intent": "procedural", "group": "s056", "origin": "llm_paraphrase"}
+{"text": "Yo, bro, which app do I need to use to register my lease? 📜", "intent": "procedural", "group": "s056", "origin": "llm_paraphrase"}
+{"text": "Need help finding the right app to register my lease? 🚀", "intent": "procedural", "group": "s056", "origin": "llm_paraphrase"}
+{"text": "What is the rent cap in Ajman?", "intent": "out_of_scope", "group": "s057", "origin": "seed"}
+{"text": "Hey, do u know the rent cap in Ajman?", "intent": "out_of_scope", "group": "s057", "origin": "llm_paraphrase"}
+{"text": "Wanna know the rent cap in Ajman?", "intent": "out_of_scope", "group": "s057", "origin": "llm_paraphrase"}
+{"text": "Anyone know the rent cap in Ajman?", "intent": "out_of_scope", "group": "s057", "origin": "llm_paraphrase"}
+{"text": "Can my landlord in Ras Al Khaimah evict me with one month notice?", "intent": "out_of_scope", "group": "s058", "origin": "seed"}
+{"text": "Can my landlord in Ras Al Khaimah kick me out with a one-month notice?", "intent": "out_of_scope", "group": "s058", "origin": "llm_paraphrase"}
+{"text": "Can my Ras Al Khaimah landlord kick me out with one month notice?", "intent": "out_of_scope", "group": "s058", "origin": "llm_paraphrase"}
+{"text": "Can my landlord in Ras Al Khaimah kick me out with a one month notice?", "intent": "out_of_scope", "group": "s058", "origin": "llm_paraphrase"}
+{"text": "I rent an office in Business Bay for my company, can the rent be doubled?", "intent": "out_of_scope", "group": "s059", "origin": "seed"}
+{"text": "Hey, can we bump up the office rent to double, please? I've got a big project coming up.", "intent": "out_of_scope", "group": "s059", "origin": "llm_paraphrase"}
+{"text": "Boss, can we double the office rent, please? Our company's doing well.", "intent": "out_of_scope", "group": "s059", "origin": "llm_paraphrase"}
+{"text": "I rent an office in Business Bay for my company. Can we increase the rent by doubling it, please?", "intent": "out_of_scope", "group": "s059", "origin": "llm_paraphrase"}
+{"text": "how to get a mortgage for an apartment in JVC", "intent": "out_of_scope", "group": "s060", "origin": "seed"}
+{"text": "How can I get a mortgage for an apartment in JVC?", "intent": "out_of_scope", "group": "s060", "origin": "llm_paraphrase"}
+{"text": "I need help with getting a mortgage for an apartment in JVC, can you assist?", "intent": "out_of_scope", "group": "s060", "origin": "llm_paraphrase"}
+{"text": "Could you please guide me on how to get a mortgage for an apartment in JVC?", "intent": "out_of_scope", "group": "s060", "origin": "llm_paraphrase"}
+{"text": "What is the best area in Dubai to live with kids?", "intent": "out_of_scope", "group": "s061", "origin": "seed"}
+{"text": "Hey, what are the best areas in Dubai for families with kids?", "intent": "out_of_scope", "group": "s061", "origin": "llm_paraphrase"}
+{"text": "Dude, any tips on where to live with kids in Dubai?", "intent": "out_of_scope", "group": "s061", "origin": "llm_paraphrase"}
+{"text": "Hey there, any suggestions on where's the best to live with kids in Dubai?", "intent": "out_of_scope", "group": "s061", "origin": "llm_paraphrase"}
+{"text": "How do I get a golden visa through property?", "intent": "out_of_scope", "group": "s062", "origin": "seed"}
+{"text": "Hey, can you help me get a golden visa through my property investment?", "intent": "out_of_scope", "group": "s062", "origin": "llm_paraphrase"}
+{"text": "Howzit, can you guide me on getting a golden visa with my property?", "intent": "out_of_scope", "group": "s062", "origin": "llm_paraphrase"}
+{"text": "Yo, any chance you can show me how to get a golden visa through investing in property?", "intent": "out_of_scope", "group": "s062", "origin": "llm_paraphrase"}
+{"text": "my employer did not pay salary for 3 months what to do", "intent": "out_of_scope", "group": "s063", "origin": "seed"}
+{"text": "My boss hasn't paid my salary for 3 months, what do I do?", "intent": "out_of_scope", "group": "s063", "origin": "llm_paraphrase"}
+{"text": "Boss didn't give me my salary for 3 months, what should I do?", "intent": "out_of_scope", "group": "s063", "origin": "llm_paraphrase"}
+{"text": "My work hasn't given me my salary for 3 months, how should I proceed?", "intent": "out_of_scope", "group": "s063", "origin": "llm_paraphrase"}
+{"text": "Write a poem about Dubai", "intent": "out_of_scope", "group": "s064", "origin": "seed"}
+{"text": "Hey, can you help me write a poem about Dubai?", "intent": "out_of_scope", "group": "s064", "origin": "llm_paraphrase"}
+{"text": "DUBAI, can you help me make a poem?", "intent": "out_of_scope", "group": "s064", "origin": "llm_paraphrase"}
+{"text": "I need a poem about Dubai, can you write one?", "intent": "out_of_scope", "group": "s064", "origin": "llm_paraphrase"}
+{"text": "warehouse lease in Al Quoz rent increase rules", "intent": "out_of_scope", "group": "s065", "origin": "seed"}
+{"text": "Hey, need to check the rules for rent increase in a warehouse lease in Al Quoz. Can you help with that?", "intent": "out_of_scope", "group": "s065", "origin": "llm_paraphrase"}
+{"text": "Need to know the rules for when the rent for a warehouse in Al Quoz area goes up. Pls help", "intent": "out_of_scope", "group": "s065", "origin": "llm_paraphrase"}
+{"text": "I'm looking into the rent increase policies for a warehouse lease in Al Quoz. Any info you can share would be great!", "intent": "out_of_scope", "group": "s065", "origin": "llm_paraphrase"}
+{"text": "What will rents in Dubai be like in 2028?", "intent": "out_of_scope", "group": "s066", "origin": "seed"}
+{"text": "Hey, what's gonna be the rent like in Dubai for 2028?", "intent": "out_of_scope", "group": "s066", "origin": "llm_paraphrase"}
+{"text": "What will the rent be like in Dubai by 2028?", "intent": "out_of_scope", "group": "s066", "origin": "llm_paraphrase"}
+{"text": "Mate, how much will the rent cost in Dubai in 2028?", "intent": "out_of_scope", "group": "s066", "origin": "llm_paraphrase"}
+{"text": "How do I register a company in a free zone?", "intent": "out_of_scope", "group": "s067", "origin": "seed"}
+{"text": "Hey, can you help me register a company in a free zone?", "intent": "out_of_scope", "group": "s067", "origin": "llm_paraphrase"}
+{"text": "I'm trying to register a biz in a free zone, can you guide me how to do it?", "intent": "out_of_scope", "group": "s067", "origin": "llm_paraphrase"}
+{"text": "I need to register a company in a free zone, any tips on how to do that?", "intent": "out_of_scope", "group": "s067", "origin": "llm_paraphrase"}
+{"text": "Can you draft a tenancy contract for me?", "intent": "out_of_scope", "group": "s068", "origin": "seed"}
+{"text": "Can u draft a tenancy contract for me?", "intent": "out_of_scope", "group": "s068", "origin": "llm_paraphrase"}
+{"text": "Nah, can u help me with a tenancy contract?", "intent": "out_of_scope", "group": "s068", "origin": "llm_paraphrase"}
+{"text": "Ain't got time to draft one, can u help?", "intent": "out_of_scope", "group": "s068", "origin": "llm_paraphrase"}
+{"text": "What are tenancy rules in Fujairah?", "intent": "out_of_scope", "group": "s069", "origin": "seed"}
+{"text": "Hey, can you give me the 10 rules of renting in Fujairah?", "intent": "out_of_scope", "group": "s069", "origin": "llm_paraphrase"}
+{"text": "Hi, I'm looking for the dos and don'ts of renting in Fujairah. Can you share them?", "intent": "out_of_scope", "group": "s069", "origin": "llm_paraphrase"}
+{"text": "I am trying to understand the basic rules for renting a place in Fujairah. Could you share them with me?", "intent": "out_of_scope", "group": "s069", "origin": "llm_paraphrase"}
+{"text": "Is it cheaper to buy or rent in Dubai right now?", "intent": "out_of_scope", "group": "s070", "origin": "seed"}
+{"text": "Hey, is buying cheaper or renting now in Dubai? Bro, cheaper to buy or rent in Dubai right now?", "intent": "out_of_scope", "group": "s070", "origin": "llm_paraphrase"}
+{"text": "Is buy or rent cheaper in Dubai now? Non-native, but clear, please.", "intent": "out_of_scope", "group": "s070", "origin": "llm_paraphrase"}
+{"text": "how much is DEWA bill for 2 bedroom", "intent": "out_of_scope", "group": "s071", "origin": "seed"}
+{"text": "Hey, how much does my DEWA bill go for for a 2 bed place?", "intent": "out_of_scope", "group": "s071", "origin": "llm_paraphrase"}
+{"text": "Dey, kya my DEWA bill bna jaye ga 2 bed ka?", "intent": "out_of_scope", "group": "s071", "origin": "llm_paraphrase"}
+{"text": "Please, could you tell me the cost for DEWA bill of a 2-bedroom flat?", "intent": "out_of_scope", "group": "s071", "origin": "llm_paraphrase"}
+{"text": "Prepare an eviction letter template for my tenant", "intent": "out_of_scope", "group": "s072", "origin": "seed"}
+{"text": "Hey, can you make me an eviction letter template for my tenant, please?", "intent": "out_of_scope", "group": "s072", "origin": "llm_paraphrase"}
+{"text": "Need help making an eviction letter template for my tenant, bro?", "intent": "out_of_scope", "group": "s072", "origin": "llm_paraphrase"}
+{"text": "Could you draft an eviction letter for my tenant, please?", "intent": "out_of_scope", "group": "s072", "origin": "llm_paraphrase"}
+{"text": "Tell me a joke", "intent": "out_of_scope", "group": "s073", "origin": "seed"}
+{"text": "Hey, why don't scientists trust atoms? Because they make up everything!", "intent": "out_of_scope", "group": "s073", "origin": "llm_paraphrase"}
+{"text": "Why did the tomato turn red? Because it saw the salad dressing!", "intent": "out_of_scope", "group": "s073", "origin": "llm_paraphrase"}
+{"text": "Why did the chicken cross the playground? To get to the other slide!", "intent": "out_of_scope", "group": "s073", "origin": "llm_paraphrase"}
+{"text": "How do holiday homes licences work in Dubai?", "intent": "out_of_scope", "group": "s074", "origin": "seed"}
+{"text": "Hey, do holiday homes have licenses in Dubai?", "intent": "out_of_scope", "group": "s074", "origin": "llm_paraphrase"}
+{"text": "Resorts galore? How's the license process for holiday homes in Dubai?", "intent": "out_of_scope", "group": "s074", "origin": "llm_paraphrase"}
+{"text": "Anyone know about the licenses for holiday homes in Dubai?", "intent": "out_of_scope", "group": "s074", "origin": "llm_paraphrase"}
+{"text": "Should I take my landlord to the RDC or just move out?", "intent": "advice_seeking", "group": "s075", "origin": "seed"}
+{"text": "Hey, should I kick my landlord to the curb or just pack my bags?", "intent": "advice_seeking", "group": "s075", "origin": "llm_paraphrase"}
+{"text": "Wanna take my landlord to the RDC or just leave?", "intent": "advice_seeking", "group": "s075", "origin": "llm_paraphrase"}
+{"text": "Should I call the RDC or just move out?", "intent": "advice_seeking", "group": "s075", "origin": "llm_paraphrase"}
+{"text": "Do you think I will win if I file a case?", "intent": "advice_seeking", "group": "s076", "origin": "seed"}
+{"text": "Hey, do you reckon I'll come out on top if I go ahead and file this case?", "intent": "advice_seeking", "group": "s076", "origin": "llm_paraphrase"}
+{"text": "If I file this case, do you think I'll win? I'm really unsure about it.", "intent": "advice_seeking", "group": "s076", "origin": "llm_paraphrase"}
+{"text": "I'm thinking of filing this case. Do you think I'll win or will I lose? I'm not sure, so I wanna hear your thoughts.", "intent": "advice_seeking", "group": "s076", "origin": "llm_paraphrase"}
+{"text": "What should I do, accept the increase or fight it?", "intent": "advice_seeking", "group": "s077", "origin": "seed"}
+{"text": "Man, what should I do? Accept the raise or fight it back?", "intent": "advice_seeking", "group": "s077", "origin": "llm_paraphrase"}
+{"text": "Bro, accept the raise or fight it? Man, what should I do?", "intent": "advice_seeking", "group": "s077", "origin": "llm_paraphrase"}
+{"text": "Should I accept the increase or fight it, man?", "intent": "advice_seeking", "group": "s077", "origin": "llm_paraphrase"}
+{"text": "is it worth it to complain against landlord", "intent": "advice_seeking", "group": "s078", "origin": "seed"}
+{"text": "Hey, is it worth it to give my landlord a call and let them know how I feel?", "intent": "advice_seeking", "group": "s078", "origin": "llm_paraphrase"}
+{"text": "Bro, is it worth it to tell my landlord how I feel?", "intent": "advice_seeking", "group": "s078", "origin": "llm_paraphrase"}
+{"text": "Is there any point in complaining to my landlord?", "intent": "advice_seeking", "group": "s078", "origin": "llm_paraphrase"}
+{"text": "Should I sign the new contract with the higher rent?", "intent": "advice_seeking", "group": "s079", "origin": "seed"}
+{"text": "Man, should I sign that new contract with the higher rent?", "intent": "advice_seeking", "group": "s079", "origin": "llm_paraphrase"}
+{"text": "Wanna sign that new contract with the higher rent?", "intent": "advice_seeking", "group": "s079", "origin": "llm_paraphrase"}
+{"text": "Should I go ahead with the new contract and the higher rent?", "intent": "advice_seeking", "group": "s079", "origin": "llm_paraphrase"}
+{"text": "Can you tell me if my case is strong enough?", "intent": "advice_seeking", "group": "s080", "origin": "seed"}
+{"text": "Hey, can you please check if my case is strong? 😊", "intent": "advice_seeking", "group": "s080", "origin": "llm_paraphrase"}
+{"text": "Can you gimme a heads up if my case is strong enough?", "intent": "advice_seeking", "group": "s080", "origin": "llm_paraphrase"}
+{"text": "Could you please tell me if my case is strong enough?", "intent": "advice_seeking", "group": "s080", "origin": "llm_paraphrase"}
+{"text": "should i stop paying rent until he fixes the leak", "intent": "advice_seeking", "group": "s081", "origin": "seed"}
+{"text": "Hey, can I stop paying rent til he fixes that dripping faucet? 😊", "intent": "advice_seeking", "group": "s081", "origin": "llm_paraphrase"}
+{"text": "Can I pause my rent payments until he fixes that water leak, please? 🛠", "intent": "advice_seeking", "group": "s081", "origin": "llm_paraphrase"}
+{"text": "Should I stop paying rent until he gets that leak fixed?", "intent": "advice_seeking", "group": "s081", "origin": "llm_paraphrase"}
+{"text": "What would you do in my situation with this landlord?", "intent": "advice_seeking", "group": "s082", "origin": "seed"}
+{"text": "Hey, can you help me out with my landlord issue here in Dubai? 😔", "intent": "advice_seeking", "group": "s082", "origin": "llm_paraphrase"}
+{"text": "Can you help me with my landlord stuff in Dubai? I'm in a bind here. 😢", "intent": "advice_seeking", "group": "s082", "origin": "llm_paraphrase"}
+{"text": "Could you give me some advice on my landlord problem in Dubai?", "intent": "advice_seeking", "group": "s082", "origin": "llm_paraphrase"}
+{"text": "Should I hire a lawyer or go to RDC myself?", "intent": "advice_seeking", "group": "s083", "origin": "seed"}
+{"text": "Hey, should I hire a lawyer or go to RDC myself?", "intent": "advice_seeking", "group": "s083", "origin": "llm_paraphrase"}
+{"text": "Nah, should I hire a lawyer or go to RDC myself?", "intent": "advice_seeking", "group": "s083", "origin": "llm_paraphrase"}
+{"text": "Should I hire a lawyer or should I go to RDC myself?", "intent": "advice_seeking", "group": "s083", "origin": "llm_paraphrase"}
+{"text": "Is it better to negotiate or file a dispute straight away?", "intent": "advice_seeking", "group": "s084", "origin": "seed"}
+{"text": "Hey, is it better to haggle or file a dispute immediately?", "intent": "advice_seeking", "group": "s084", "origin": "llm_paraphrase"}
+{"text": "Yo, which one's better, haggle or file a dispute right away?", "intent": "advice_seeking", "group": "s084", "origin": "llm_paraphrase"}
+{"text": "Is it better to negotiate or file a dispute right away?", "intent": "advice_seeking", "group": "s084", "origin": "llm_paraphrase"}
+{"text": "how much compensation can i get if i sue", "intent": "advice_seeking", "group": "s085", "origin": "seed"}
+{"text": "Hey, how much can I get in compensation if I decide to sue?", "intent": "advice_seeking", "group": "s085", "origin": "llm_paraphrase"}
+{"text": "If I decide to sue, how much compensation can I get?", "intent": "advice_seeking", "group": "s085", "origin": "llm_paraphrase"}
+{"text": "Can you tell me how much compensation I might get if I sue?", "intent": "advice_seeking", "group": "s085", "origin": "llm_paraphrase"}
+{"text": "Should I leave before the eviction date or wait for the court?", "intent": "advice_seeking", "group": "s086", "origin": "seed"}
+{"text": "Hey, should I leave before the court date or wait it out?", "intent": "advice_seeking", "group": "s086", "origin": "llm_paraphrase"}
+{"text": "Yo, I need to know, should I leave or wait for the court, huh?", "intent": "advice_seeking", "group": "s086", "origin": "llm_paraphrase"}
+{"text": "Hey there, before the court date, should I leave or hold off?", "intent": "advice_seeking", "group": "s086", "origin": "llm_paraphrase"}
+{"text": "Will the judge believe me if I have no receipts?", "intent": "advice_seeking", "group": "s087", "origin": "seed"}
+{"text": "Man, what if I don't have receipts, will the judge believe me? 😕", "intent": "advice_seeking", "group": "s087", "origin": "llm_paraphrase"}
+{"text": "Bro, what if I don't have receipts, will the judge believe me? 😤", "intent": "advice_seeking", "group": "s087", "origin": "llm_paraphrase"}
+{"text": "Sir, what if I don't have receipts, will the judge believe me?", "intent": "advice_seeking", "group": "s087", "origin": "llm_paraphrase"}
+{"text": "Advise me on the best strategy against my landlord", "intent": "advice_seeking", "group": "s088", "origin": "seed"}
+{"text": "Hey, can you help me out with a good strategy for dealing with my landlord? 😊", "intent": "advice_seeking", "group": "s088", "origin": "llm_paraphrase"}
+{"text": "Bro, any tips on how to handle my landlord better?", "intent": "advice_seeking", "group": "s088", "origin": "llm_paraphrase"}
+{"text": "Can you give me some advice on how to deal with my landlord better?", "intent": "advice_seeking", "group": "s088", "origin": "llm_paraphrase"}
+{"text": "should i give my landlord the extra money he wants to avoid problems", "intent": "advice_seeking", "group": "s089", "origin": "seed"}
+{"text": "Hey bro, should I just cough up the extra cash he wants to avoid all the drama?", "intent": "advice_seeking", "group": "s089", "origin": "llm_paraphrase"}
+{"text": "Dude, should I just give him the extra money to keep things smooth?", "intent": "advice_seeking", "group": "s089", "origin": "llm_paraphrase"}
+{"text": "Can I just give my landlord the extra cash he wants to keep things quiet?", "intent": "advice_seeking", "group": "s089", "origin": "llm_paraphrase"}
+{"text": "Is it a good idea to record my landlord's calls as evidence?", "intent": "advice_seeking", "group": "s090", "origin": "seed"}
+{"text": "Hey, can I record my landlord's calls as proof, or is that a bad idea?", "intent": "advice_seeking", "group": "s090", "origin": "llm_paraphrase"}
+{"text": "Yo, I'm thinking about recording my landlord's calls. Good idea or a no-no?", "intent": "advice_seeking", "group": "s090", "origin": "llm_paraphrase"}
+{"text": "Hey, can I record my landlord's calls for evidence? Is that a good idea?", "intent": "advice_seeking", "group": "s090", "origin": "llm_paraphrase"}
+{"text": "Am I likely to get my full deposit back if I go to RDC?", "intent": "advice_seeking", "group": "s091", "origin": "seed"}
+{"text": "Hey, if I break my lease with RDC, do I still get my money back? 😊", "intent": "advice_seeking", "group": "s091", "origin": "llm_paraphrase"}
+{"text": "If I leave early with RDC, will I get all the money back? 🤔", "intent": "advice_seeking", "group": "s091", "origin": "llm_paraphrase"}
+{"text": "If I leave early with them, will I get my full deposit back?", "intent": "advice_seeking", "group": "s091", "origin": "llm_paraphrase"}
+{"text": "My landlord threw my belongings on the street and changed the lock, I have my kids with me", "intent": "crisis", "group": "s092", "origin": "seed"}
+{"text": "My landlord dropped my stuff on the street and changed the lock, and I got my kids with me.", "intent": "crisis", "group": "s092", "origin": "llm_paraphrase"}
+{"text": "My boss put my stuff on the street and changed the lock, now I have my kids with me.", "intent": "crisis", "group": "s092", "origin": "llm_paraphrase"}
+{"text": "My landlord moved my stuff on the street and changed the lock, and my kids are with me right now.", "intent": "crisis", "group": "s092", "origin": "llm_paraphrase"}
+{"text": "landlord threatening to beat me if i dont leave today", "intent": "crisis", "group": "s093", "origin": "seed"}
+{"text": "Landlord threatening to beat me if I don't leave today.", "intent": "crisis", "group": "s093", "origin": "llm_paraphrase"}
+{"text": "Landlord saying he'll beat me if I don't get out today.", "intent": "crisis", "group": "s093", "origin": "llm_paraphrase"}
+{"text": "Landlord threatening to hit me if I don't leave today.", "intent": "crisis", "group": "s093", "origin": "llm_paraphrase"}
+{"text": "The owner took my passport and won't give it back", "intent": "crisis", "group": "s094", "origin": "seed"}
+{"text": "The owner took my passport and won't give it back.", "intent": "crisis", "group": "s094", "origin": "llm_paraphrase"}
+{"text": "Owser took my passport and won't give it back.", "intent": "crisis", "group": "s094", "origin": "llm_paraphrase"}
+{"text": "Owner took my passport and not giving it back.", "intent": "crisis", "group": "s094", "origin": "llm_paraphrase"}
+{"text": "I came home and the door lock is changed, all my medicines are inside", "intent": "crisis", "group": "s095", "origin": "seed"}
+{"text": "I just came home and found out my door lock was changed. My medicines are still inside.", "intent": "crisis", "group": "s095", "origin": "llm_paraphrase"}
+{"text": "Just came home and my lock was changed. All my meds inside.", "intent": "crisis", "group": "s095", "origin": "llm_paraphrase"}
+{"text": "Just got back and found out the door lock was changed. All my medicine are inside.", "intent": "crisis", "group": "s095", "origin": "llm_paraphrase"}
+{"text": "My landlord cut the water and electricity in summer and my baby is sick", "intent": "crisis", "group": "s096", "origin": "seed"}
+{"text": "My landlord cut off the water and electricity during the summer, and my baby is sickin.", "intent": "crisis", "group": "s096", "origin": "llm_paraphrase"}
+{"text": "My landlord cut off water and electricity in summer and my baby is sick,", "intent": "crisis", "group": "s096", "origin": "llm_paraphrase"}
+{"text": "My landlord cut off water and electricity in summertime and my baby is sick.", "intent": "crisis", "group": "s096", "origin": "llm_paraphrase"}
+{"text": "Help, landlord is at my door with men forcing me out right now", "intent": "crisis", "group": "s097", "origin": "seed"}
+{"text": "Man, my landlord and his men are at my door, they want me to leave now! 😱", "intent": "crisis", "group": "s097", "origin": "llm_paraphrase"}
+{"text": "Hey, landlord and his men are at my place, they wanna kick me out right now! 🚒", "intent": "crisis", "group": "s097", "origin": "llm_paraphrase"}
+{"text": "Landlord got some men at my place, they're trying to kick me out. Can't move! 🛡️", "intent": "crisis", "group": "s097", "origin": "llm_paraphrase"}
+{"text": "i have nowhere to sleep tonight, landlord kicked me out", "intent": "crisis", "group": "s098", "origin": "seed"}
+{"text": "I need a place to sleep tonight, landlord kicked me out.", "intent": "crisis", "group": "s098", "origin": "llm_paraphrase"}
+{"text": "No place to sleep tonight, they kicked me out.", "intent": "crisis", "group": "s098", "origin": "llm_paraphrase"}
+{"text": "I'm out of luck, they kicked me out tonight.", "intent": "crisis", "group": "s098", "origin": "llm_paraphrase"}
+{"text": "Landlord is harassing my daughter and entering the flat at night", "intent": "crisis", "group": "s099", "origin": "seed"}
+{"text": "Landlord is being a bit too nosy and checking into our flat at night.", "intent": "crisis", "group": "s099", "origin": "llm_paraphrase"}
+{"text": "Landlord is being a bit too nosy and checking into our flat at night.", "intent": "crisis", "group": "s099", "origin": "llm_paraphrase"}
+{"text": "Landlord is harassing my daughter and checking into our flat at night.", "intent": "crisis", "group": "s099", "origin": "llm_paraphrase"}
+{"text": "He is holding my Emirates ID and passport until I pay", "intent": "crisis", "group": "s100", "origin": "seed"}
+{"text": "He's got my Emirates ID and passport til I pay my rent.", "intent": "crisis", "group": "s100", "origin": "llm_paraphrase"}
+{"text": "He's got my Emirates ID and passport till I pay the rent.", "intent": "crisis", "group": "s100", "origin": "llm_paraphrase"}
+{"text": "He's holding my Emirates ID and passport until I pay my dues.", "intent": "crisis", "group": "s100", "origin": "llm_paraphrase"}
+{"text": "Landlord locked us out while we were on holiday and is renting the flat to someone else", "intent": "crisis", "group": "s101", "origin": "seed"}
+{"text": "Landlord locked us out while we were on holiday and renting the flat to someone else.", "intent": "crisis", "group": "s101", "origin": "llm_paraphrase"}
+{"text": "Landlord locked us out while we were on holiday and renting the flat to someone else.", "intent": "crisis", "group": "s101", "origin": "llm_paraphrase"}
+{"text": "Landlord locked us out while we were away and renting to someone else.", "intent": "crisis", "group": "s101", "origin": "llm_paraphrase"}
+{"text": "I feel unsafe, the landlord's agent keeps threatening me with violence", "intent": "crisis", "group": "s102", "origin": "seed"}
+{"text": "I feel like I'm not safe. My landlord's agent keeps threatening me with violence.", "intent": "crisis", "group": "s102", "origin": "llm_paraphrase"}
+{"text": "I feel unsafe. My landlord's agent keeps threatening me with violence.", "intent": "crisis", "group": "s102", "origin": "llm_paraphrase"}
+{"text": "I don't feel safe. My landlord's agent keeps threatening me with violence.", "intent": "crisis", "group": "s102", "origin": "llm_paraphrase"}
+{"text": "they removed my door and took my furniture, what can i do now", "intent": "crisis", "group": "s103", "origin": "seed"}
+{"text": "Man, they took my furniture and my door, what the heck do I do now?", "intent": "crisis", "group": "s103", "origin": "llm_paraphrase"}
+{"text": "They took my door and my stuff, what can I do now?", "intent": "crisis", "group": "s103", "origin": "llm_paraphrase"}
+{"text": "They removed my furniture and my door, what can I do about it?", "intent": "crisis", "group": "s103", "origin": "llm_paraphrase"}
+{"text": "My landlord switched off the AC in 45 degree heat to force me out, my elderly mother lives with me", "intent": "crisis", "group": "s104", "origin": "seed"}
+{"text": "My landlord cut the AC in 40s heat, forcing my mom and me out.", "intent": "crisis", "group": "s104", "origin": "llm_paraphrase"}
+{"text": "My landlord cut the AC in 40s heat to kick me and my old mom out.", "intent": "crisis", "group": "s104", "origin": "llm_paraphrase"}
+{"text": "My landlord cut off the AC on 40-degree heat to make us move out.", "intent": "crisis", "group": "s104", "origin": "llm_paraphrase"}
+{"text": "My landlord says he will cancel my visa if I complain", "intent": "crisis", "group": "s105", "origin": "seed"}
+{"text": "My landlord says he will cancel my visa if I complain.", "intent": "crisis", "group": "s105", "origin": "llm_paraphrase"}
+{"text": "My landlady said she'll cancel my visa if I start complaining.", "intent": "crisis", "group": "s105", "origin": "llm_paraphrase"}
+{"text": "My boss said he would cancel my visa if I file a complaint.", "intent": "crisis", "group": "s105", "origin": "llm_paraphrase"}
+{"text": "landlord changed locks and police said call someone else, i'm outside with luggage", "intent": "crisis", "group": "s106", "origin": "seed"}
+{"text": "Landlord changed locks, police said to call someone else, I'm outside with luggage.", "intent": "crisis", "group": "s106", "origin": "llm_paraphrase"}
+{"text": "Landlord changed locks, police said to call someone else, I got luggage and I'm out here.", "intent": "crisis", "group": "s106", "origin": "llm_paraphrase"}
+{"text": "Landlord changed locks and said to contact another person, I'm outside with my luggage.", "intent": "crisis", "group": "s106", "origin": "llm_paraphrase"}
+{"text": "Owner sent people to throw my stuff away today", "intent": "crisis", "group": "s107", "origin": "seed"}
+{"text": "Hey Owner, my stuff got thrown away by your guys today. That's no good.", "intent": "crisis", "group": "s107", "origin": "llm_paraphrase"}
+{"text": "Wah wah, Owner, maaan, my stuff was tossed by you folks today, what a bummer.", "intent": "crisis", "group": "s107", "origin": "llm_paraphrase"}
+{"text": "Owner, minnaha binti, yaani, miiilhon, my things waa waa fiiiluuud by yooor people, wat a poop.", "intent": "crisis", "group": "s107", "origin": "llm_paraphrase"}

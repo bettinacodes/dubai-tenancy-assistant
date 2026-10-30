@@ -1,0 +1,2 @@
+# Cached source files must stay byte-identical to their SHA-256 in manifest.jsonl
+data/raw/** binary

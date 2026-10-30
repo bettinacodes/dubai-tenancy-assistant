@@ -1,0 +1,55 @@
+{
+ "all": {
+  "en": {
+   "n": 50,
+   "primary@10": 0.872,
+   "hit@10": 0.96,
+   "mrr@10": 0.698,
+   "answer_route_rate": 0.96
+  },
+  "ar_direct": {
+   "n": 50,
+   "primary@10": 0.795,
+   "hit@10": 0.92,
+   "mrr@10": 0.568,
+   "answer_route_rate": 0.82
+  },
+  "ar_mt": {
+   "n": 50,
+   "primary@10": 0.821,
+   "hit@10": 0.88,
+   "mrr@10": 0.594,
+   "answer_route_rate": 0.86
+  },
+  "hi_direct": {
+   "n": 50,
+   "primary@10": 0.872,
+   "hit@10": 0.94,
+   "mrr@10": 0.633,
+   "answer_route_rate": 0.84
+  },
+  "hi_mt": {
+   "n": 50,
+   "primary@10": 0.821,
+   "hit@10": 0.92,
+   "mrr@10": 0.666,
+   "answer_route_rate": 0.86
+  }
+ },
+ "hi_clean": {
+  "hi_direct": {
+   "n": 42,
+   "primary@10": 0.871,
+   "hit@10": 0.929,
+   "mrr@10": 0.658,
+   "answer_route_rate": 0.857
+  },
+  "hi_mt": {
+   "n": 42,
+   "primary@10": 0.806,
+   "hit@10": 0.905,
+   "mrr@10": 0.694,
+   "answer_route_rate": 0.833
+  }
+ }
+}

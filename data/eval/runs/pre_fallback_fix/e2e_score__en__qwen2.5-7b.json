@@ -1,0 +1,38 @@
+{
+ "set": "en",
+ "model": "qwen2.5:7b",
+ "n_answered_gold": 50,
+ "modes": {
+  "extractive_fallback": 18,
+  "generated": 29,
+  "generated_after_retry": 1,
+  "historical_diff": 2
+ },
+ "verified_rate": 0.6,
+ "fallback_rate": 0.4,
+ "validated": {
+  "citation_precision": 0.623,
+  "primary_cited": 0.59,
+  "unsupported_shown": 0.0
+ },
+ "no_validator": {
+  "citation_precision": 0.7,
+  "primary_cited": 0.718,
+  "unsupported_shown": 0.42,
+  "invented_or_superseded_citation": 0.0
+ },
+ "calculators": {
+  "items": 9,
+  "fired": 8,
+  "correct": 7
+ },
+ "adversarial": {
+  "behaviour_ok": "19/20",
+  "must_refuse_false_answer_rate": 0.0,
+  "must_refuse_n": 13
+ },
+ "latency_s": {
+  "p50": 74.6,
+  "p95": 169.7
+ }
+}

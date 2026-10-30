@@ -1,0 +1,63 @@
+{"text": "Can a landlord keep part of the deposit for cleaning?", "intent": "factual"}
+{"text": "Is my landlord allowed to show the flat to new tenants while I still live here?", "intent": "factual"}
+{"text": "Do I need my landlord's permission to put up a satellite dish?", "intent": "factual"}
+{"text": "Can I change the locks of my own apartment?", "intent": "factual"}
+{"text": "Is the landlord allowed to increase the rent in the middle of the contract?", "intent": "factual"}
+{"text": "Am I allowed to have a roommate who is not on the contract?", "intent": "factual"}
+{"text": "Can the owner refuse to renew my contract without giving a reason?", "intent": "factual"}
+{"text": "Do I have to pay rent while the eviction case is going on?", "intent": "factual"}
+{"text": "Is it legal for my landlord to ask for 12 post-dated cheques?", "intent": "factual"}
+{"text": "Can my landlord enter the flat to do repairs without notice?", "intent": "factual"}
+{"text": "Does my lease continue if the building gets a new owner?", "intent": "factual"}
+{"text": "Am I responsible for fixing the water heater?", "intent": "factual"}
+{"text": "Can I paint the walls a different colour?", "intent": "factual"}
+{"text": "Is my landlord allowed to keep the deposit if I leave early?", "intent": "factual"}
+{"text": "Do I have to give back the flat exactly as I got it?", "intent": "factual"}
+{"text": "Can a tenant be evicted for having a pet?", "intent": "factual"}
+{"text": "Is a landlord allowed to raise the rent by any amount he wants?", "intent": "factual"}
+{"text": "can owner ask me to leave if he want to live there", "intent": "factual"}
+{"text": "Do I need to register the lease if it is only for six months?", "intent": "factual"}
+{"text": "Can the landlord charge me for wear and tear?", "intent": "factual"}
+{"text": "Is the tenant or the landlord responsible for the AC maintenance contract?", "intent": "factual"}
+{"text": "my landlord can take back the flat for his brother?", "intent": "factual"}
+{"text": "Can I stay in the flat after the contract ends if nobody says anything?", "intent": "factual"}
+{"text": "Is it allowed to sublet my flat on a short-term basis?", "intent": "factual"}
+{"text": "What rights does a subtenant have if the main tenant leaves?", "intent": "factual"}
+{"text": "Is a notice by e-mail valid for an eviction?", "intent": "factual"}
+{"text": "Do I get a right to return after the building is renovated?", "intent": "factual"}
+{"text": "Can I make holes in the wall to hang pictures?", "intent": "factual"}
+{"text": "Where do I upload documents for my RDC hearing?", "intent": "procedural"}
+{"text": "How do I register Ejari if my landlord is abroad?", "intent": "procedural"}
+{"text": "Can I renew Ejari online or do I need to visit an office?", "intent": "procedural"}
+{"text": "Do I need to translate my lease to Arabic to file a case?", "intent": "procedural"}
+{"text": "How long do I have to file an appeal at the RDC?", "intent": "procedural"}
+{"text": "what is the fee to register ejari through the app", "intent": "procedural"}
+{"text": "Is there a fee to open an Ejari account?", "intent": "procedural"}
+{"text": "Can I get my settlement fee refunded if we agree in mediation?", "intent": "procedural"}
+{"text": "Which documents prove my rent payments at the RDC?", "intent": "procedural"}
+{"text": "How do I check if my building is in the rental index?", "intent": "procedural"}
+{"text": "Can I file a rental case without a lawyer?", "intent": "procedural"}
+{"text": "how to submit complaint against owner for not returning deposit", "intent": "procedural"}
+{"text": "My rent is 95,000 and the index shows 110,000 - how much can it go up by?", "intent": "calculation"}
+{"text": "If my rent is 18% below the average, what is the maximum increase?", "intent": "calculation"}
+{"text": "Contract ends 30 June 2027, landlord told me on 1 May 2027 about higher rent. Valid?", "intent": "calculation"}
+{"text": "What is the RDC fee for a monetary claim of AED 40,000?", "intent": "calculation"}
+{"text": "rent 60k, index 66k, landlord asking 7% more, ok or not", "intent": "calculation"}
+{"text": "Landlord wants to sell; notice dated 10 Feb 2026, he wants me out on 1 Dec 2026. Enough time?", "intent": "calculation"}
+{"text": "How much would it cost to file an eviction case if the rent is AED 130,000?", "intent": "calculation"}
+{"text": "Should I accept my landlord's offer to leave early with one month's rent back?", "intent": "advice_seeking"}
+{"text": "Do you think the judge will side with me?", "intent": "advice_seeking"}
+{"text": "Would it be smarter to move out or to fight the eviction?", "intent": "advice_seeking"}
+{"text": "What's my best move now that my landlord refuses to renew?", "intent": "advice_seeking"}
+{"text": "Should I withhold the last cheque because he has my deposit?", "intent": "advice_seeking"}
+{"text": "Is it worth going to the RDC for a 2,000 dirham deposit?", "intent": "advice_seeking"}
+{"text": "Help me decide whether to renew or move", "intent": "advice_seeking"}
+{"text": "Will I get compensation if I take him to court?", "intent": "advice_seeking"}
+{"text": "Should I agree to a 10% increase to keep the peace?", "intent": "advice_seeking"}
+{"text": "Is it legal to rent a room in Sharjah without a contract?", "intent": "out_of_scope"}
+{"text": "What are the tenancy rules for a shop in Deira City Centre?", "intent": "out_of_scope"}
+{"text": "How do I evict my tenant from my villa in Abu Dhabi?", "intent": "out_of_scope"}
+{"text": "What is the service charge for my apartment as an owner?", "intent": "out_of_scope"}
+{"text": "My landlord's guards pushed me and took my keys", "intent": "crisis"}
+{"text": "I am locked out and it's late at night with my children", "intent": "crisis"}
+{"text": "The landlord is keeping my Emirates ID as security", "intent": "crisis"}

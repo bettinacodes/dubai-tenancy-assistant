@@ -1,0 +1,20 @@
+[
+  {
+    "parent_id": "dld-smart-rental-index__s-3",
+    "conflicts_with": ["dubai-decree-43-2013__art-1"],
+    "issue": "Cites 'Decree No. (34) of 2013' (should be 43/2013) and says the 20% band applies to rents that 'exceed the average by more than 40%'; Decree 43/2013 Art. 1(e) applies it where the rent is more than 40% LESS than the average.",
+    "found": "2026-10-09 (log 1.11)"
+  },
+  {
+    "parent_id": "rdc-faq__q-85",
+    "conflicts_with": ["dubai-law-26-2007__art-20"],
+    "issue": "States that 'according to the law, it is mandatory to collect a security deposit'; Law 26/2007 Art. 20 says the Landlord 'may obtain' a deposit (and sets no maximum).",
+    "found": "2026-10-09 (log 3.3)"
+  },
+  {
+    "parent_id": "dld-faq__q-82",
+    "conflicts_with": ["dubai-law-26-2007__art-28", "dubai-law-26-2007__art-25__as-amended-L33-2008"],
+    "issue": "Says a new owner keeps tenants only 'if the new owner wants to', 'can only increase the rent', and may evict for own/relative use by asking in writing. Art. 28: a fixed-term lease survives the transfer of ownership; Art. 25(2)(c) (am.): own-use eviction only on expiry, with 12 months' notice via notary public or registered mail and proof of no suitable alternative property. The answer appears to be adapted from a non-Dubai source.",
+    "found": "2026-10-09 (log 3.9)"
+  }
+]

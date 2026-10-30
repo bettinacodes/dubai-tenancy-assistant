@@ -1,0 +1,35 @@
+# Ingestion and pre-processing
+httpx>=0.27
+tenacity>=8.2
+beautifulsoup4>=4.12
+selectolax>=0.3
+trafilatura>=1.8
+pdfplumber>=0.11
+pypdf>=4.2
+spacy>=3.7
+wordfreq>=3.1          # ligature-repair fallback (word frequencies)
+
+# Indexing and retrieval
+sentence-transformers>=3.0
+FlagEmbedding>=1.2
+bm25s>=0.2
+PyStemmer>=2.2         # Snowball stemming for the BM25 legal tokeniser
+chromadb>=0.5
+
+# Models (generation, NLI, translation, fine-tuning)
+torch                  # CUDA build locally: pip install torch --index-url https://download.pytorch.org/whl/cu124
+transformers>=4.44
+accelerate>=0.33
+bitsandbytes>=0.43
+peft>=0.12
+datasets>=2.20
+ollama>=0.3          # local development backend only
+
+# Evaluation, UI, notebooks
+numpy
+pandas
+scikit-learn
+matplotlib
+gradio>=4.40
+jupyter
+pytest>=8
